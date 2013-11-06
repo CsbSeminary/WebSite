@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A803554-EBB6-4E76-936F-5860F0FBEBD0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Csbs</RootNamespace>
+    <AssemblyName>Csbs</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <SccProjectName>CSBS</SccProjectName>
+    <SccLocalPath>4~2d047b37-c307-4cdd-bb94-b570b7f21dec</SccLocalPath>
+    <SccAuxPath>https://vault.insitesystems.com/VaultService</SccAuxPath>
+    <SccProvider>SourceGear Vault Visual Studio 2005 Client:{1EA47954-8515-402d-82D9-B5C332120A8D}</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.UI, Version=2013.3.1015.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Telerik\RadControls for ASP.NET AJAX Q3 2013\Bin45\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\Blog\articles\article-04-07-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-05-03-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-07-01-2013.html" />
+    <Content Include="App_Data\Blog\articles\article-09-03-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-10-06-2010.html" />
+    <Content Include="App_Data\Blog\articles\article-12-12-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-13-07-2009.html" />
+    <Content Include="App_Data\Blog\articles\article-15-06-2011-1.html" />
+    <Content Include="App_Data\Blog\articles\article-15-06-2011.html" />
+    <Content Include="App_Data\Blog\articles\article-17-01-2013.html" />
+    <Content Include="App_Data\Blog\articles\article-19-07-2009.html" />
+    <Content Include="App_Data\Blog\articles\article-19-11-2010.html" />
+    <Content Include="App_Data\Blog\articles\article-20-04-2013.html" />
+    <Content Include="App_Data\Blog\articles\article-20-12-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-22-04-2013-1.html" />
+    <Content Include="App_Data\Blog\articles\article-22-04-2013.html" />
+    <Content Include="App_Data\Blog\articles\article-22-11-2010.html" />
+    <Content Include="App_Data\Blog\articles\article-23-10-2009.html" />
+    <Content Include="App_Data\Blog\articles\article-24-04-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-28-06-2012.html" />
+    <Content Include="App_Data\Blog\blog.backup.xml" />
+    <Content Include="App_Data\Blog\blog.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Data\Menus\contact-forms.xml" />
+    <Content Include="App_Data\Menus\menu.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Data\Pages\Html\csbs.about.accreditation.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.accreditation.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.accreditation.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.educational-effectiveness.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.educational-effectiveness.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.educational-effectiveness.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.job-postings.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.job-postings.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.job-postings.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-1.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-1.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-1.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-2.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-2.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-2.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-3.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-3.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-history-3.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-localization.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-localization.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-localization.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-vision.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-vision.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.our-vision.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.privacy-policy.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.privacy-policy.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.privacy-policy.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.statement-of-faith.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.about.statement-of-faith.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.college-application-roadmap.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.college-application-roadmap.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.college-application-roadmap.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.financial-aid-for-new-students.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.financial-aid-for-new-students.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.financial-aid-for-new-students.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.international-students.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.international-students.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.international-students.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.seminary-application-roadmap.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.seminary-application-roadmap.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.seminary-application-roadmap.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.student-housing.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.student-housing.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.tuition-and-fees.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.tuition-and-fees.html" />
+    <Content Include="App_Data\Pages\Html\csbs.admissions.tuition-and-fees.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.bookstore.mountain-view.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.bookstore.mountain-view.html" />
+    <Content Include="App_Data\Pages\Html\csbs.bookstore.mountain-view.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.associate-diploma-of-christian-ministries.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.associate-diploma-of-christian-ministries.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.associate-diploma-of-christian-ministries.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-ministries.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-ministries.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-ministries.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-studies.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-studies.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.bachelor-of-christian-studies.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.certificate-of-christian-studies.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.certificate-of-christian-studies.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.certificate-of-christian-studies.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-faculty.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-faculty.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-faculty.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-intensives.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-intensives.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.college-intensives.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.diploma-of-christian-studies.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.diploma-of-christian-studies.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.diploma-of-christian-studies.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.samuel-program.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.samuel-program.html" />
+    <Content Include="App_Data\Pages\Html\csbs.cbc.samuel-program.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-biblical-studies.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-biblical-studies.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-biblical-studies.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-christian-ministry.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-christian-ministry.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-arts-in-christian-ministry.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-divinity.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-divinity.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.master-of-divinity.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-faculty.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-faculty.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-faculty.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-intensives.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-intensives.html" />
+    <Content Include="App_Data\Pages\Html\csbs.csbs.seminary-intensives.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.academic-calendar.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.academic-calendar.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.academic-calendar.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.financial-aid-for-current-students.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.financial-aid-for-current-students.html" />
+    <Content Include="App_Data\Pages\Html\csbs.current.financial-aid-for-current-students.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.church-planting.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.church-planting.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.church-planting.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.contact-us.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.contact-us.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.contact-us.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.home.home.html" />
+    <Content Include="App_Data\Pages\Html\csbs.partners.partners.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.partners.partners.html" />
+    <Content Include="App_Data\Pages\Html\csbs.partners.partners.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-maintenance.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-maintenance.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-maintenance.side.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-not-found.header.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-not-found.html" />
+    <Content Include="App_Data\Pages\Html\csbs.sys.page-not-found.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.chapel-f2010.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.chapel-f2010.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.chapel-f2011.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.default.header.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.default.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.default.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.chapel.lectureship.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.commentaries.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.commentaries.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.default.header.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.default.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.default.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.evaluateweb.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.evaluateweb.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.faq.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.faq.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.language.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.language.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.online-courses.header.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.online-courses.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.online-courses.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.ten-reasons.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.ten-reasons.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.web-resources.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.web-resources.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.writingguides.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.distance.writingguides.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.default.header.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.default.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.default.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.lib-research-guide.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.lib-research-guide.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.procedures.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.procedures.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.research-tips.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.research-tips.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.services.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.services.side.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.staff.html" />
+    <Content Include="App_Data\Pages\Html\seminarylink.library.staff.side.html" />
+    <Content Include="App_Data\Pages\pages.backup.xml" />
+    <Content Include="App_Data\Pages\pages.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Controls\AdminHome.ascx" />
+    <Content Include="Controls\BlogEditor.ascx" />
+    <Content Include="Controls\BlogFinder.ascx" />
+    <Content Include="Controls\ChapelViewer.ascx" />
+    <Content Include="Controls\MenuEditor.ascx" />
+    <Content Include="Controls\MenuFinder.ascx" />
+    <Content Include="Controls\MenuSectionEditor.ascx" />
+    <Content Include="Controls\PageCreator.ascx" />
+    <Content Include="Controls\PageEditor.ascx" />
+    <Content Include="Controls\PageFinder.ascx" />
+    <Content Include="Controls\SettingsEditor.ascx" />
+    <Content Include="Controls\UserSignIn.ascx" />
+    <Content Include="favicon.ico" />
+    <Content Include="Pages\Admin\Default.aspx" />
+    <Content Include="Pages\Admin\PagePreviewer.aspx" />
+    <Content Include="Pages\Articles\Articles.aspx" />
+    <Content Include="Pages\Articles\Entries.aspx" />
+    <Content Include="Pages\ContactUs.aspx" />
+    <Content Include="Pages\View.aspx" />
+    <Content Include="Pages\ViewControl.aspx" />
+    <Content Include="Styles\Editor.css" />
+    <Content Include="Styles\EditorTools.xml" />
+    <Content Include="Pages\SignIn.aspx" />
+    <Content Include="Pages\SignOut.aspx" />
+    <Content Include="Snippets\ContactUs.html" />
+    <Content Include="Snippets\Paypal.html" />
+    <Content Include="Styles\Admin.css" />
+    <Content Include="Styles\Csbs\default.css" />
+    <Content Include="Styles\Csbs\editor\editor-side.css" />
+    <Content Include="Styles\Csbs\editor\editor-header.css" />
+    <Content Include="Styles\Csbs\editor\editor-content.css" />
+    <Content Include="Styles\Home-Page.css" />
+    <Content Include="Pages\Home.aspx" />
+    <Content Include="Styles\SeminaryLink\default.css" />
+    <Content Include="Styles\Csbs\themes\cbc-green.css" />
+    <Content Include="Styles\Csbs\themes\csb-gray.css" />
+    <Content Include="Styles\Csbs\themes\csb-red.css" />
+    <Content Include="Styles\Csbs\themes\csbs-blue.css" />
+    <Content Include="Styles\SeminaryLink\editor\editor-content.css" />
+    <Content Include="Styles\SeminaryLink\editor\editor-header.css" />
+    <Content Include="Styles\SeminaryLink\editor\editor-side.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Snippets\BoldChat.html" />
+    <Content Include="Snippets\BoldSoftwareVisitorMonitor.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Data\Articles\BlogArticle.cs" />
+    <Compile Include="Classes\Data\SermonHelper.cs" />
+    <Compile Include="Classes\Data\Sermon.cs" />
+    <Compile Include="Classes\Data\Enumerations.cs" />
+    <Compile Include="Classes\Data\Menu\MenuInfo.cs" />
+    <Compile Include="Classes\Data\Menu\MenuItemInfo.cs" />
+    <Compile Include="Classes\Data\Menu\MenuSectionInfo.cs" />
+    <Compile Include="Classes\Data\Pages\PageGroupInfo.cs" />
+    <Compile Include="Classes\Data\Pages\PageInfo.cs" />
+    <Compile Include="Classes\Data\Pages\PageSectionInfo.cs" />
+    <Compile Include="Classes\Common\MenuManager.cs" />
+    <Compile Include="Classes\Common\PageManager.cs" />
+    <Compile Include="Classes\Common\XmlStorage\ContactFormXml.cs" />
+    <Compile Include="Classes\Common\BlogManager.cs" />
+    <Compile Include="Classes\Data\Semester.cs" />
+    <Compile Include="Classes\UI\AnchorTargetSelector.cs" />
+    <Compile Include="Classes\UI\AnchorUrlSelector.cs" />
+    <Compile Include="Classes\UI\BaseComboBox.cs" />
+    <Compile Include="Classes\UI\BlogArticlesList.cs" />
+    <Compile Include="Classes\UI\GlobalNavigationMenu.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\UI\GroupingRepeater.cs" />
+    <Compile Include="Classes\UI\HeaderLayoutSelector.cs" />
+    <Compile Include="Classes\UI\HeaderPositionSelector.cs" />
+    <Compile Include="Classes\UI\HomePageBlogList.cs" />
+    <Compile Include="Classes\UI\HomePageNavigationMenu.cs" />
+    <Compile Include="Classes\UI\ManagerOpener.cs" />
+    <Compile Include="Classes\UI\HtmlEditor.cs" />
+    <Compile Include="Classes\UI\Label.cs" />
+    <Compile Include="Classes\UI\MasterPageSelector.cs" />
+    <Compile Include="Classes\UI\MasterPageThemeSelector.cs" />
+    <Compile Include="Classes\UI\MenuPositionTypeSelector.cs" />
+    <Compile Include="Classes\UI\PageContentColumnPosition.cs" />
+    <Compile Include="Classes\UI\PageContentSizeSelector.cs" />
+    <Compile Include="Classes\UI\PageContentLayoutSelector.cs" />
+    <Compile Include="Classes\UI\PageMenuSelector.cs" />
+    <Compile Include="Classes\UI\PageVisibilitySelector.cs" />
+    <Compile Include="Classes\UI\MenuBulletSelector.cs" />
+    <Compile Include="Classes\Utilities\FileManager.cs" />
+    <Compile Include="Classes\Utilities\Helpers\JavaScriptHelper.cs" />
+    <Compile Include="Classes\Utilities\Helpers\RenderHelper.cs" />
+    <Compile Include="Classes\Utilities\Helpers\ValueHelper.cs" />
+    <Compile Include="Classes\Utilities\LinkUtils.cs" />
+    <Compile Include="Classes\Utilities\Mail\EmailItem.cs" />
+    <Compile Include="Classes\Utilities\Mail\EmailSender.cs" />
+    <Compile Include="Classes\Utilities\Settings.cs" />
+    <Compile Include="Classes\Utilities\Helpers\StringHelper.cs" />
+    <Compile Include="Controls\AdminHome.ascx.cs">
+      <DependentUpon>AdminHome.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\AdminHome.ascx.designer.cs">
+      <DependentUpon>AdminHome.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BlogEditor.ascx.cs">
+      <DependentUpon>BlogEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\BlogEditor.ascx.designer.cs">
+      <DependentUpon>BlogEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BlogFinder.ascx.cs">
+      <DependentUpon>BlogFinder.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\BlogFinder.ascx.designer.cs">
+      <DependentUpon>BlogFinder.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ChapelViewer.ascx.cs">
+      <DependentUpon>ChapelViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\ChapelViewer.ascx.designer.cs">
+      <DependentUpon>ChapelViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MenuEditor.ascx.cs">
+      <DependentUpon>MenuEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\MenuEditor.ascx.designer.cs">
+      <DependentUpon>MenuEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MenuFinder.ascx.cs">
+      <DependentUpon>MenuFinder.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\MenuFinder.ascx.designer.cs">
+      <DependentUpon>MenuFinder.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MenuSectionEditor.ascx.cs">
+      <DependentUpon>MenuSectionEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\MenuSectionEditor.ascx.designer.cs">
+      <DependentUpon>MenuSectionEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PageCreator.ascx.cs">
+      <DependentUpon>PageCreator.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\PageCreator.ascx.designer.cs">
+      <DependentUpon>PageCreator.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PageEditor.ascx.cs">
+      <DependentUpon>PageEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\PageEditor.ascx.designer.cs">
+      <DependentUpon>PageEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PageFinder.ascx.cs">
+      <DependentUpon>PageFinder.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\PageFinder.ascx.designer.cs">
+      <DependentUpon>PageFinder.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SettingsEditor.ascx.cs">
+      <DependentUpon>SettingsEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\SettingsEditor.ascx.designer.cs">
+      <DependentUpon>SettingsEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UserSignIn.ascx.cs">
+      <DependentUpon>UserSignIn.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\UserSignIn.ascx.designer.cs">
+      <DependentUpon>UserSignIn.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Handlers\RssChapel.ashx.cs">
+      <DependentUpon>RssChapel.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\Home.master.cs">
+      <DependentUpon>Home.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\Home.master.designer.cs">
+      <DependentUpon>Home.master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Admin\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Admin\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Admin\PagePreviewer.aspx.cs">
+      <DependentUpon>PagePreviewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Admin\PagePreviewer.aspx.designer.cs">
+      <DependentUpon>PagePreviewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Articles\Entries.aspx.cs">
+      <DependentUpon>Entries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Articles\Entries.aspx.designer.cs">
+      <DependentUpon>Entries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View.aspx.cs">
+      <DependentUpon>View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\View.aspx.designer.cs">
+      <DependentUpon>View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ViewControl.aspx.cs">
+      <DependentUpon>ViewControl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ViewControl.aspx.designer.cs">
+      <DependentUpon>ViewControl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Handlers\ProcessImage.ashx.cs">
+      <DependentUpon>ProcessImage.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignIn.aspx.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\SignIn.aspx.designer.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignOut.aspx.cs">
+      <DependentUpon>SignOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\SignOut.aspx.designer.cs">
+      <DependentUpon>SignOut.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Masters\Home.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Handlers\ProcessImage.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Masters\SeminaryLink.master" />
+    <Content Include="Masters\Csbs.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\AppSettings.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Handlers\RssChapel.ashx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2694</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://local.csbs.ca</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

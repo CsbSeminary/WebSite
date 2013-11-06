@@ -1,0 +1,1 @@
+This is the public repository of source code used to build and maintain the web site and content management system for the Canadian Southern Baptist Seminary and College.

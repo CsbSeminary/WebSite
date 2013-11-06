@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Cpi</id>
+        <version>0.0.0</version>
+        <authors>Daniel Miller, Zoya Terzi</authors>
+        <owners>InSite Information Systems Corp.</owners>
+        <description>This package contains the web site and content management system for the Canadian Souther Baptist Seminary.</description>
+        <releaseNotes>Refer to Iris for the complete set of work orders and requests associated with this release.</releaseNotes>
+        <language>en-ca</language>
+        <copyright>2013 InSite Information Systems Corp.</copyright>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    </metadata>
+</package>

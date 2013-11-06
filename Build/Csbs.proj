@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <Import Project="\Git\Scripts\Build\Common.props"/>
+    <Import Project="\Git\Scripts\Build\Common.targets"/>
+    <Import Project="\Git\Scripts\Build\Community\MSBuild.Community.Tasks.targets"/>
+
+    <PropertyGroup>
+        <PrimaryAssemblyPath>$(OutputPath)\WebSite\bin\Csbs.dll</PrimaryAssemblyPath>
+    </PropertyGroup>
+
+    <Target Name="BuildApp" DependsOnTargets="Clean">
+
+        <MSBuild
+            Projects="..\Source\Csbs\Csbs.Web.Site.csproj"
+            Targets="Build;_CopyWebApplication"
+            Properties="Configuration=Release;OutDir=$(OutputPath)\WebSite\bin\;WebProjectOutputDir=$(OutputPath)\WebSite"
+        />
+        
+        <CallTarget Targets="CleanPdbFiles" />
+        
+    </Target>
+    
+</Project>

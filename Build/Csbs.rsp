@@ -1,0 +1,3 @@
+/nologo
+/verbosity:Normal
+/target:ShowProperties,BuildApp

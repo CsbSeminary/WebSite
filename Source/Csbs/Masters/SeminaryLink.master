@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="author" content="CSBS for the Canadian Southern Baptist Seminary" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="page-wrapper">
+            <div id="page-header">
+                <asp:ContentPlaceHolder runat="server" ID="Widgets">
+                    <div id="widget-boldchat"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldChat.html"></iframe></div>
+                    <div id="widget-boldvisitormonitor"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldSoftwareVisitorMonitor.htm"></iframe></div>
+                </asp:ContentPlaceHolder>
+                <a href="/"><img alt="" src="/Media/Images/header_slink_csbs.gif" /></a>
+            </div>
+            <div id="globalnav"></div>
+            <asp:ContentPlaceHolder runat="server" ID="cb"></asp:ContentPlaceHolder>
+            <div id="footer">
+			    <p>Canadian Southern Baptist Seminary • 200 Seminary View • Cochrane, Alberta T4C 2G1</p>
+			    <p>403.932.6622 • 877.922.2727 (Toll Free)</p>
+			    <p>For more information on the seminary and its programs, contact <a href="/contact-enlistment.html">Student Enlistment</a>.</p>
+			    <p>To report problems or give feedback on the website, contact the <a href="/contact-webmaster.html">CSBS Webmaster</a>.</p>
+			    <p>News and archives powered by <a href="http://www.movabletype.org">Movable Type</a>.</p>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

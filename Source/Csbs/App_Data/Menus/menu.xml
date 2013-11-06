@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  <menu id="1" name="csbs.about-us.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="18" showHeader="0" html="0">
+        <items>
+          <item id="47" adminOnly="0" title="Our Vision" href="/pages/csbs/about/our-vision.html" />
+          <item id="48" adminOnly="0" title="Our History" href="/pages/csbs/about/our-history-1.html" />
+          <item id="194" adminOnly="0" title="Accreditation" href="http://csbs.ca/pages/csbs/about/accreditation.html" target="_self" />
+          <item id="195" adminOnly="0" title="Effective ED" href="/pages/csbs/about/educational-effectiveness.html" target="_self" />
+          <item id="49" adminOnly="0" title="Seminary Faculty" href="/pages/csbs/csbs/seminary-faculty.html" />
+          <item id="50" adminOnly="0" title="College Faculty" href="/pages/csbs/cbc/college-faculty.html" />
+          <item id="51" adminOnly="0" title="Our Staff" href="/pages/csbs/home/contact-us.html" />
+          <item id="199" adminOnly="0" title="Job Postings" href="/pages/csbs/about/job-postings.html" target="_self" />
+          <item id="198" adminOnly="0" title="Privacy Policy" href="/pages/csbs/about/privacy-policy.html" target="_self" />
+          <item id="52" adminOnly="0" title="Location" href="/pages/csbs/about/our-localization.html" target="_self" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="2" name="csbs.admissions.default" hSeparator="|" bullet="2">
+    <sections>
+      <section id="19" showHeader="1" html="0" title="Admissions">
+        <items>
+          <item id="53" adminOnly="0" title="Seminary Application Roadmap" href="/pages/csbs/admissions/seminary-application-roadmap.html" />
+          <item id="54" adminOnly="0" title="College Application Roadmap" href="/pages/csbs/admissions/college-application-roadmap.html" />
+          <item id="55" adminOnly="0" title="Tuition &amp; Fees" href="/pages/csbs/admissions/tuition-and-fees.html" />
+          <item id="56" adminOnly="0" title="Financial Aid for New Students" href="/pages/csbs/admissions/financial-aid-for-new-students.html" />
+          <item id="57" adminOnly="0" title="Student Housing" href="/pages/csbs/admissions/student-housing.html" />
+          <item id="58" adminOnly="0" title="International Students" href="/pages/csbs/admissions/international-students.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="3" name="csbs.admissions.downloads-college" hSeparator="|" bullet="1">
+    <sections>
+      <section id="20" showHeader="1" html="0" title="Downloads">
+        <items>
+          <item id="59" adminOnly="0" title="Academic Catalogue" href="/Media/Documents/Academic_Catalogue2013-14.pdf" target="_blank" />
+          <item id="61" adminOnly="0" title="Audit Student Application" href="/Media/Documents/auditapplication.pdf" target="_blank" />
+          <item id="60" adminOnly="0" title="Occasional Student Application" href="/Media/Documents/occasionalapplication.pdf" target="_blank" />
+          <item id="202" adminOnly="0" title="College Student Handbook" href="/Media/Documents/CSBS&amp;C%20College%20Student%20Handbook%20(August%202012).pdf" target="_self" />
+        </items>
+      </section>
+      <section id="21" showHeader="1" html="0">
+        <items>
+          <item id="62" adminOnly="0" title="College Application Forms" href="/Media/Documents/CSBS&amp;C%20College%20Application%20Forms%20(2013-14).pdf" target="_blank" text="(all forms)" />
+          <item id="63" adminOnly="0" title="College Church Endorsement" href="/Media/Documents/CSBS&amp;C%20College%20BCMin%20Church%20Endorsement%20(2013-14).pdf" target="_blank" text="(BCMin)" />
+          <item id="64" adminOnly="0" title="College Pastoral Reference" href="/Media/Documents/CSBS&amp;C%20College%20BCMin%20Pastoral%20Reference%20(2013-14).pdf" target="_blank" text="(BCMin)" />
+          <item id="65" adminOnly="0" title="College Personal Reference" href="/Media/Documents/CSBS&amp;C%20College%20Personal%20Reference%20(2013-14).pdf" target="_blank" />
+          <item id="66" adminOnly="0" title="College Student Housing Application" href="/Media/Documents/COLLEGE%20Student%20Housing%20Application%20Form.pdf" target="_blank" />
+        </items>
+      </section>
+      <section id="22" showHeader="1" html="0">
+        <items>
+          <item id="67" adminOnly="0" title="Samuel Application Form" href="/Media/Documents/SamuelApp.pdf" target="_blank" />
+          <item id="68" adminOnly="0" title="Samuel Parental Reference" href="/Media/Documents/Samuel%20Parental%20Ref%20Form.pdf" target="_blank" />
+          <item id="69" adminOnly="0" title="Samuel Pastoral Reference" href="/Media/Documents/Samuel%20Past%20Ref%20Form.pdf" target="_blank" />
+          <item id="70" adminOnly="0" title="Samuel Personal Reference" href="/Media/Documents/Samuel%20Personal%20Ref.pdf" target="_blank" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="4" name="csbs.admissions.downloads-seminary" hSeparator="|" bullet="1">
+    <sections>
+      <section id="23" showHeader="1" html="0" title="Downloads">
+        <items>
+          <item id="71" adminOnly="0" title="Academic Catalogue" href="/Media/Documents/Academic_Catalogue2013-14.pdf " target="_blank" />
+          <item id="73" adminOnly="0" title="Audit Student Application" href="/Media/Documents/auditapplication.pdf" target="_blank" />
+          <item id="72" adminOnly="0" title="Occasional Student Application" href="/Media/Documents/occasionalapplication.pdf" target="_blank" />
+          <item id="201" adminOnly="0" title="Seminary Student Handbook" href="/Media/Documents/CSBS&amp;C%20Seminary%20Student%20Handbook%20(August%202012).pdf" target="_self" />
+        </items>
+      </section>
+      <section id="24" showHeader="1" html="0">
+        <items>
+          <item id="74" adminOnly="0" title="Seminary Application" href="/Media/Documents/CSBS&amp;C%20Seminary%20Application%20(2013-14).pdf" target="_blank" text="(all forms)" />
+          <item id="75" adminOnly="0" title="Seminary Church Endorsement" href="/Media/Documents/SEMINARY%20Church%20Endorsement.pdf" target="_blank" />
+          <item id="76" adminOnly="0" title="Seminary Pastoral Reference" href="/Media/Documents/SEMINARY%20Pastoral%20Reference%20Form.pdf" target="_blank" />
+          <item id="77" adminOnly="0" title="Seminary Personal Reference" href="/Media/Documents/SEMINARY%20Personal%20Reference%20Form.pdf" target="_blank" />
+          <item id="78" adminOnly="0" title="Seminary Student Housing Application" href="/Media/Documents/SEMIANRY%20Student%20Housing%20Application.pdf" target="_blank" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="5" name="csbs.cbc.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="25" showHeader="0" html="0">
+        <items>
+          <item id="79" adminOnly="0" title="Bachelor of Christian Studies (BCS)" href="/pages/csbs/cbc/bachelor-of-christian-studies.html" target="_self" />
+          <item id="203" adminOnly="0" title="Bachelor of Christian Ministry (BCMin)" href="/pages/csbs/cbc/bachelor-of-christian-ministry.html" target="_self" />
+          <item id="204" adminOnly="0" title="Diploma of Christian Studies (DCS)" href="/pages/csbs/cbc/diploma-of-christian-studies.html" target="_self" />
+          <item id="205" adminOnly="0" title="Diploma of Christian Ministry (DCMin)" href="/pages/csbs/cbc/diploma-of-christian-ministry.html" target="_self" />
+          <item id="81" adminOnly="0" title="Certificate of Christian Studies (CCS)" href="/pages/csbs/cbc/certificate-of-christian-studies.html" target="_self" />
+          <item id="82" adminOnly="0" title="Samuel Program" href="/pages/csbs/cbc/samuel-program.html" target="_self" />
+          <item id="83" adminOnly="0" title="Meet our CBC Faculty" href="/pages/csbs/cbc/college-faculty.html" />
+          <item id="197" adminOnly="0" title="Upcoming College Courses" href="/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
+          <item id="84" adminOnly="0" title="Prospectives Students" href="/pages/csbs/admissions/college-application-roadmap.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="6" name="csbs.csbs.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="26" showHeader="0" html="0">
+        <items>
+          <item id="85" adminOnly="0" title="Master of Divinity (MDiv)" href="/pages/csbs/csbs/master-of-divinity.html" target="_self" />
+          <item id="86" adminOnly="0" title="Master of Christian Ministry (MCMin)" href="/pages/csbs/csbs/master-of-christian-ministry.html" target="_self" />
+          <item id="87" adminOnly="0" title="Master of Biblical Studies (MBS)" href="/pages/csbs/csbs/master-of-biblical-studies.html" target="_self" />
+          <item id="88" adminOnly="0" title="SeminaryLink (Online Education)" href="/pages/seminarylink/distance/default.html" />
+          <item id="89" adminOnly="0" title="Meet our Seminary Faculty" href="/pages/csbs/csbs/seminary-faculty.html" />
+          <item id="196" adminOnly="0" title="Upcoming Seminary Courses" href="/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
+          <item id="90" adminOnly="0" title="Prospective Students" href="/pages/csbs/admissions/seminary-application-roadmap.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="7" name="csbs.global-navigation.home" hSeparator="|" bullet="1">
+    <sections>
+      <section id="27" showHeader="1" html="0">
+        <items>
+          <item id="91" adminOnly="0" title="Home" href="/" />
+          <item id="92" adminOnly="0" title="About us" href="/pages/csbs/about/our-vision.html" />
+          <item id="93" adminOnly="0" title="Library" href="/pages/seminarylink/library/default.html" />
+          <item id="94" adminOnly="0" title="Bookstore" href="/pages/csbs/bookstore/mountain-view.html" />
+          <item id="95" adminOnly="0" title="Church Planting" href="/pages/csbs/home/church-planting.html" />
+          <item id="96" adminOnly="0" title="Partners &amp; Alumni" href="/pages/csbs/partners/partners.html" />
+          <item id="97" adminOnly="0" title="Contact us" href="/pages/csbs/home/contact-us.html" />
+          <item id="98" adminOnly="1" title="Admin" href="/Pages/admin/default.aspx" />
+          <item id="99" adminOnly="0" title="Login" href="/signin.html" adminTitle="Logout" adminHref="/signout.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="8" name="csbs.global-navigation.pages" hSeparator="|" bullet="1">
+    <sections>
+      <section id="28" showHeader="1" html="0">
+        <items>
+          <item id="100" adminOnly="1" title="Administrator" href="/Pages/admin/default.aspx" />
+          <item id="101" adminOnly="1" title="Edit Page" href="/Pages/admin/default.aspx?action=edit-page&amp;id={$id}" />
+          <item id="102" adminOnly="1" title="Edit Article" href="/Pages/admin/default.aspx?action=edit-article&amp;id={$article_id}" />
+          <item id="193" adminOnly="0" title="Articles" href="/articles/" target="_self" visibleURL="^/articles/(.+)$" />
+          <item id="103" adminOnly="0" title="Home" href="/" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="9" name="seminarylink.chapel.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="29" showHeader="1" html="0" title="CSBS Chapel :: Menu">
+        <items>
+          <item id="104" adminOnly="0" title="Chapel Home Page" href="/chapel.html" target="_blank" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="10" name="seminarylink.distance.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="30" showHeader="1" html="0" title="Seminarylink :: Menu">
+        <items>
+          <item id="106" adminOnly="0" title="Seminarylink.com" href="/pages/seminarylink/distance/default.html" />
+          <item id="107" adminOnly="0" title="Online Course" href="/pages/seminarylink/distance/online-courses.html" target="_self" />
+          <item id="108" adminOnly="0" title="Intensive Courses - Seminary" href="/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
+          <item id="109" adminOnly="0" title="Intensive Courses - College" href="/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
+          <item id="110" adminOnly="0" title="Web Resources" href="/pages/seminarylink/distance/web-resources.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="11" name="seminarylink.distance.seminarylink" hSeparator="|" bullet="1">
+    <sections>
+      <section id="31" showHeader="1" html="1" title="Edvance360">
+        <html><![CDATA[<img alt="" align="middle" style="vertical-align: middle;" src="/Media/Images/bg_logo.png" />
+<a href="https://edvance360.com/csbs/" target="_blank" re_target="_blank">Online Classes</a>]]></html>
+      </section>
+      <section id="32" showHeader="1" html="0" title="Courses">
+        <items>
+          <item id="111" adminOnly="0" title="&lt;strong&gt;Online Courses&lt;/strong&gt;" href="/pages/seminarylink/distance/online-courses.html" />
+          <item id="112" adminOnly="0" title="&lt;strong&gt;2012-13 Intensives &lt;/strong&gt; - Seminary" href="http://www.csbs.ca/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
+          <item id="113" adminOnly="0" title="&lt;strong&gt;2012-13 Intensives&lt;/strong&gt; - College" href="http://www.csbs.ca/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
+        </items>
+      </section>
+      <section id="33" showHeader="1" html="0" title="Information">
+        <items>
+          <item id="114" adminOnly="0" title="Student Handbook" href="/Media/Documents/sthndbk07.pdf" target="_blank" />
+          <item id="115" adminOnly="0" title="Online Education Supplement to the Student Handbook" />
+          <item id="116" adminOnly="0" title="2012-2013 Academic Catalogue" href="http://www.csbs.ca/Media/Documents/Catalogue2011.pdf" target="_self" />
+          <item id="117" adminOnly="0" title="Ten Benefits of an Online Education" href="/pages/seminarylink/distance/ten-reasons.html" target="_blank" />
+        </items>
+      </section>
+      <section id="34" showHeader="1" html="0" title="Resources">
+        <items>
+          <item id="118" adminOnly="0" title="Seminarylink FAQ" href="/pages/seminarylink/distance/faq.html" />
+          <item id="119" adminOnly="0" title="Web Resources" href="/pages/seminarylink/distance/web-resources.html" />
+          <item id="120" adminOnly="0" title="Library" href="/pages/seminarylink/library/default.html" />
+          <item id="121" adminOnly="0" title="Chapel Services" href="/chapel.html" target="_blank" />
+        </items>
+      </section>
+      <section id="35" showHeader="1" html="1" title="Announcements">
+        <html><![CDATA[<strong>Register for Fall 2013 classes now!</strong>]]></html>
+      </section>
+    </sections>
+  </menu>
+  <menu id="12" name="seminarylink.distance.webresources" hSeparator="|" bullet="1">
+    <sections>
+      <section id="36" showHeader="1" html="0" title="Biblical Backgrounds">
+        <items>
+          <item id="123" adminOnly="0" title="General Bible Web Sites" href="http://www.wabashcenter.wabash.edu/resources/guide-headings.aspx" />
+          <item id="124" adminOnly="0" title="Old Testament Web Sites" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=649&amp;pid=619" />
+          <item id="125" adminOnly="0" title="General New Testament" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=628&amp;pid=619" />
+          <item id="126" adminOnly="0" title="Gospels - New Testament" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=629&amp;pid=619" />
+          <item id="127" adminOnly="0" title="Greek Language - NT" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=630&amp;pid=619" />
+          <item id="128" adminOnly="0" title="Bible Atlas Online" href="http://www.godweb.org/atlasindex.htm" />
+          <item id="129" adminOnly="0" title="The Virtual World Project" href="http://moses.creighton.edu/vr/" />
+          <item id="130" adminOnly="0" title="Ancient Near East Photos" href="http://www.holylandphotos.org/page.asp?page_ID=8" />
+          <item id="131" adminOnly="0" title="Ancient Near East Links" href="http://www.besthistorysites.net/AncientBiblical.shtml" />
+          <item id="132" adminOnly="0" title="Archaeology and the Classics" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=621&amp;pid=619" />
+        </items>
+      </section>
+      <section id="37" showHeader="1" html="0" title="Religious Studies">
+        <items>
+          <item id="133" adminOnly="0" title="Internet Guide to Religion" href="http://www.wabashcenter.wabash.edu/resources/guide_headings.aspx" />
+          <item id="134" adminOnly="0" title="Commentaries/Dictionaries" href="/pages/seminarylink/distance/commentaries.html" />
+        </items>
+      </section>
+      <section id="38" showHeader="1" html="0" title="Theology">
+        <items>
+          <item id="135" adminOnly="0" title="Theology Links" href="http://www.wabashcenter.wabash.edu/resources/result-browse.aspx?topic=662&amp;pid=626" />
+          <item id="136" adminOnly="0" title="Computer-Assisted Theology" href="http://info.ox.ac.uk/ctitext/theology/" />
+          <item id="137" adminOnly="0" title="Practical Theology" href="http://www.wabashcenter.wabash.edu/resources/result-browse.aspx?topic=701&amp;pid=650" />
+        </items>
+      </section>
+      <section id="39" showHeader="1" html="1" title="Evangelism">
+        <html><![CDATA[<p>Coming Soon!</p>]]></html>
+      </section>
+      <section id="40" showHeader="1" html="0" title="Philosophy">
+        <items>
+          <item id="138" adminOnly="0" title="Philosophy and Religion Links" href="http://www.wabashcenter.wabash.edu/resources/result_browse.aspx?topic=648&amp;pid=626" />
+          <item id="139" adminOnly="0" title="Stanford Encyclopedia of Philosophy" href="http://plato.stanford.edu/contents.html" />
+          <item id="140" adminOnly="0" title="The Internet Encyclopedia of Philosophy" href="http://www.iep.utm.edu/" />
+          <item id="141" adminOnly="0" title="EpistemeLinks" href="http://www.epistemelinks.com/index.aspx" />
+        </items>
+      </section>
+      <section id="41" showHeader="1" html="1" title="Social Thought">
+        <html><![CDATA[<p>Coming Soon!</p>]]></html>
+      </section>
+    </sections>
+  </menu>
+  <menu id="13" name="seminarylink.library.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="42" showHeader="1" html="0" title="Library :: Menu">
+        <items>
+          <item id="142" adminOnly="0" title="Services" href="/pages/seminarylink/library/services.html" />
+          <item id="143" adminOnly="0" title="Procedures" href="/pages/seminarylink/library/procedures.html" />
+          <item id="144" adminOnly="0" title="Staff" href="/pages/seminarylink/library/staff.html" />
+          <item id="145" adminOnly="0" title="Library Research Guide" href="/pages/seminarylink/library/lib-research-guide.html" />
+          <item id="146" adminOnly="0" title="Research Tips" href="/pages/seminarylink/library/research-tips.html" />
+          <item id="147" adminOnly="0" title="Online Catalog" href="http://library.csbs.ca" />
+          <item id="148" adminOnly="0" title="Contact the Library" href="/contact-library.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="14" name="seminarylink.library.procedures" hSeparator="|" bullet="1">
+    <sections>
+      <section id="43" showHeader="1" html="0" title="Procedures :: Menu">
+        <items>
+          <item id="149" adminOnly="0" title="Circulation" href="#circulation" />
+          <item id="150" adminOnly="0" title="Circulation Procedure" href="#circ_procedure" />
+          <item id="151" adminOnly="0" title="Placing Holds" href="#holds" />
+          <item id="152" adminOnly="0" title="Reserve Books" href="#reserve" />
+          <item id="153" adminOnly="0" title="Book Returns" href="#book_returns" />
+          <item id="154" adminOnly="0" title="Fines" href="#fines" />
+          <item id="155" adminOnly="0" title="Lost and Damaged Books" href="#damages" />
+          <item id="156" adminOnly="0" title="Interlibrary Loans" href="#interlibrary" />
+          <item id="157" adminOnly="0" title="Classification System" href="#classification" />
+          <item id="158" adminOnly="0" title="Reshelving Books" href="#reshelving" />
+          <item id="159" adminOnly="0" title="Food and Beverages" href="#food" />
+          <item id="160" adminOnly="0" title="Talking" href="#talking" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="15" name="seminarylink.library.research-guide" hSeparator="|" bullet="1">
+    <sections>
+      <section id="44" showHeader="1" html="0" title="Research Guide menu">
+        <items>
+          <item id="161" adminOnly="0" title="The Call Number" href="#call_number" />
+          <item id="162" adminOnly="0" title="Library Location Codes" href="#location_codes" />
+          <item id="163" adminOnly="0" title="The Library Catalogue" href="#catalogue" />
+          <item id="164" adminOnly="0" title="Unable to locate a Book?" href="#locate_book" />
+          <item id="165" adminOnly="0" title="Reference Collection" href="#reference_collection" />
+          <item id="166" adminOnly="0" title="Periodicals" href="#periodicals" />
+          <item id="167" adminOnly="0" title="Microforms" href="#microforms" />
+          <item id="168" adminOnly="0" title="Audio-Visual Materials" href="#audio_visual" />
+          <item id="169" adminOnly="0" title="Reserve Material" href="#reserve_material" />
+          <item id="170" adminOnly="0" title="Vertical File" href="#vertical_file" />
+          <item id="171" adminOnly="0" title="Photocopier" href="#photocopier" />
+          <item id="172" adminOnly="0" title="Computer Equipment" href="#computer_equipment" />
+          <item id="173" adminOnly="0" title="Online Public Access Computers" href="#OPAC" />
+          <item id="174" adminOnly="0" title="Internet Access &amp; Use" href="#internet_access" />
+          <item id="175" adminOnly="0" title="Interlibrary Loans" href="#interlibrary" />
+          <item id="176" adminOnly="0" title="Curriculum Lab" href="#curriculum_lab" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="16" name="seminarylink.library.services" hSeparator="|" bullet="1">
+    <sections>
+      <section id="45" showHeader="1" html="0" title="Services :: Menu">
+        <items>
+          <item id="177" adminOnly="0" title="Audio-Visual" href="#audio-visual" />
+          <item id="178" adminOnly="0" title="Journals" href="#journals" />
+          <item id="179" adminOnly="0" title="Microform Materials" href="#microform" />
+          <item id="180" adminOnly="0" title="Information/Reference Service" href="#info_reference" />
+          <item id="181" adminOnly="0" title="Student Computers" href="#computers" />
+          <item id="182" adminOnly="0" title="Online &amp; CD-ROM Databases" href="#databases" />
+          <item id="183" adminOnly="0" title="Photocopying" href="#photocopying" />
+          <item id="184" adminOnly="0" title="Group Study / Curriculum Lab" href="#study_lab" />
+          <item id="185" adminOnly="0" title="Outside Library Users" href="#outsiders" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+  <menu id="17" name="seminarylink.contact-form.default" hSeparator="|" bullet="1">
+    <sections>
+      <section id="46" showHeader="1" html="0" title="CSBS :: Main Menu">
+        <items>
+          <item id="186" adminOnly="0" title="Home" href="/" />
+          <item id="187" adminOnly="0" title="About" href="/pages/csbs/about/our-vision.html" />
+          <item id="188" adminOnly="0" title="Library" href="/pages/seminarylink/library/default.html" />
+          <item id="189" adminOnly="0" title="Bookstore" href="/pages/csbs/bookstore/mountain-view.html" />
+          <item id="190" adminOnly="0" title="Church Planting" href="/pages/csbs/home/church-planting.html" />
+          <item id="191" adminOnly="0" title="Partners &amp; Alumni" href="/pages/csbs/partners/partners.html" />
+          <item id="192" adminOnly="0" title="Contact Us" href="/pages/csbs/home/contact-us.html" />
+        </items>
+      </section>
+    </sections>
+  </menu>
+</root>

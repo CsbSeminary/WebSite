@@ -1,0 +1,5 @@
+bin
+obj
+Web.Release.config
+*.suo
+*.user

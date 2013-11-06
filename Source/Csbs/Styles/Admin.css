@@ -1,0 +1,93 @@
+﻿#editor-content {
+    padding: 15px 35px 0 38px;
+    font-size: 9pt;
+    color: Black;
+    font-family: Arial, Sans-Serif;
+}
+
+#editor-content a {
+    text-decoration: none;
+    color: Blue;
+}
+
+#editor-content a:hover {
+    text-decoration: underline;
+}
+
+#editor-content img.show-preview{
+    cursor: pointer;
+}
+
+.articles-list {
+    width: 631px;
+    margin: 0 12px;
+    padding: 0;
+    color: #584D4D !important;
+    font-family: 'ArialMT','Arial',sans-serif !important;
+}
+
+.articles-list .item {
+    border-bottom: none !important;
+}
+
+#editor-content .commands.top {
+    margin-bottom: 15px;
+}
+
+#editor-content .commands.bottom {
+    margin-top: 15px;
+}
+
+#editor-content .commands input {
+    width: 100px;
+}
+
+#editor-content .editor .field .label {
+    width: 110px;
+    float: left;
+    font-weight: normal;
+}
+
+#editor-content .editor .field {
+    min-height: 24px;
+    padding: 4px;
+}
+
+#editor-content .small-text {
+    color: #A7A9AC;
+    font-size: 0.9em;
+    padding: 4px;
+}
+
+#editor-content .editor .field .small-text {
+    
+}
+
+#editor-content .editor .separator-dotted {
+    margin: 8px 0 15px 0;
+}
+
+#editor-content .editor .field.editor {
+    margin-left: -42px;
+}
+
+.error {
+    font-size: 14px;
+    color: Red;
+    margin-bottom: 15px;
+}
+
+#editor-content .editor .field-header 
+{
+    min-height: 18px; 
+    margin-top: 4px; 
+    margin-bottom: 8px; 
+    color: #094095;
+    background-color: #fff; 
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 8px;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    text-align: left; 
+}
