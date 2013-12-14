@@ -1,0 +1,10 @@
+﻿.bulletin-board .note { margin: 5px 0 13px 0; }
+
+.bulletin-board .note img, .bulletin-board .note img { width: 80px; height: 80px; float:left; }
+
+.bulletin-board .note .note-wrapper { float: right; width: 310px }
+
+.bulletin-board .note .note-wrapper .note-header { padding-bottom: 5px; font-weight: bold; }
+
+.bulletin-board .note .note-wrapper .note-header a { color: rgb(88, 77, 77); font-size: 14px; text-decoration: none; }
+.bulletin-board .note .note-wrapper .note-header a:hover { text-decoration: underline; }

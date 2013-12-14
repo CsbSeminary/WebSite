@@ -1,4 +1,4 @@
-<%@ Master Language="C#" CodeBehind="Home.master.cs" Inherits="Csbs.Web.Site.Masters.Home" %>
+<%@ Master Language="C#" CodeBehind="Demo.master.cs" Inherits="Csbs.Web.Site.Masters.Demo" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -103,12 +103,29 @@
                     </div>
                 </div>
             </div>
-            <div id="page-footer">
-                <div style="float: left; margin: 13px 0 0 96px;">
-                    
+            
+            <div style="clear: both; padding-top: 20px; padding-left: 50px; height: 80px;">
+                <div style="float:left;">
+                    <a href="/pages/csbs/about/accreditation.html"><img alt="" src="/Media/Images/logo_abhe.png" /></a>
+                    <a href="/pages/csbs/about/accreditation.html"><img alt="" src="/Media/Images/logo_ats.png" style="margin-left:13px;" /></a>
+                    <a href="/pages/csbs/about/accreditation.html"><img alt="" src="/Media/Images/logo_governament_ab.png" style="margin-left:13px;" /></a>
                 </div>
-                <div class="version">2013.11.5.2022</div>
+                <div style="float:left; padding-left: 20px; margin-top: 10px; color:#888; font-size: 11px;">
+                    Recognized by the Province of Alberta. 
+                    <br />
+                    Accredited by the <a href="/pages/csbs/about/accreditation.html" target="_blank">Association of Theological Schools (ATS)</a> 
+                    <br />
+                    and the <a href="/pages/csbs/about/accreditation.html" target="_blank">Association for Biblical Higher Education (ABHE)</a>.
+                </div>
+                <div style="float:right; text-align:right; padding-right: 50px; margin-top: 10px;">
+                    <strong>Canadian Southern Baptist Seminary &amp; College</strong>
+                    <br/>
+                    200 Seminary View, Cochrane, Alberta, T4C 2G1, Canada
+                    <br />
+                    Phone (403) 932-6622, Fax (403) 932-7049
+                </div>
             </div>
+
         </div>
     </div>
     </form>

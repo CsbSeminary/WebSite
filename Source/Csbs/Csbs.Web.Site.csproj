@@ -264,6 +264,7 @@
     <Content Include="Controls\PageEditor.ascx" />
     <Content Include="Controls\PageFinder.ascx" />
     <Content Include="Controls\SettingsEditor.ascx" />
+    <Content Include="Controls\TwitterFeed.ascx" />
     <Content Include="Controls\UserSignIn.ascx" />
     <Content Include="favicon.ico" />
     <Content Include="Pages\Admin\Default.aspx" />
@@ -271,8 +272,10 @@
     <Content Include="Pages\Articles\Articles.aspx" />
     <Content Include="Pages\Articles\Entries.aspx" />
     <Content Include="Pages\ContactUs.aspx" />
+    <Content Include="Pages\Demo.aspx" />
     <Content Include="Pages\View.aspx" />
     <Content Include="Pages\ViewControl.aspx" />
+    <Content Include="Styles\Demo-Page.css" />
     <Content Include="Styles\Editor.css" />
     <Content Include="Styles\EditorTools.xml" />
     <Content Include="Pages\SignIn.aspx" />
@@ -324,6 +327,7 @@
     <Compile Include="Classes\UI\AnchorUrlSelector.cs" />
     <Compile Include="Classes\UI\BaseComboBox.cs" />
     <Compile Include="Classes\UI\BlogArticlesList.cs" />
+    <Compile Include="Classes\UI\DemoPageBlogList.cs" />
     <Compile Include="Classes\UI\GlobalNavigationMenu.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -430,6 +434,13 @@
     <Compile Include="Controls\SettingsEditor.ascx.designer.cs">
       <DependentUpon>SettingsEditor.ascx</DependentUpon>
     </Compile>
+    <Compile Include="Controls\TwitterFeed.ascx.cs">
+      <DependentUpon>TwitterFeed.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\TwitterFeed.ascx.designer.cs">
+      <DependentUpon>TwitterFeed.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Controls\UserSignIn.ascx.cs">
       <DependentUpon>UserSignIn.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -439,6 +450,13 @@
     </Compile>
     <Compile Include="Handlers\RssChapel.ashx.cs">
       <DependentUpon>RssChapel.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\Demo.master.cs">
+      <DependentUpon>Demo.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\Demo.master.designer.cs">
+      <DependentUpon>Demo.master</DependentUpon>
     </Compile>
     <Compile Include="Masters\Home.master.cs">
       <DependentUpon>Home.master</DependentUpon>
@@ -523,6 +541,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Handlers\RssChapel.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Masters\Demo.master" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
