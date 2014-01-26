@@ -15,10 +15,14 @@
     <AssemblyName>Csbs</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
-    <SccProjectName>CSBS</SccProjectName>
-    <SccLocalPath>4~2d047b37-c307-4cdd-bb94-b570b7f21dec</SccLocalPath>
-    <SccAuxPath>https://vault.insitesystems.com/VaultService</SccAuxPath>
-    <SccProvider>SourceGear Vault Visual Studio 2005 Client:{1EA47954-8515-402d-82D9-B5C332120A8D}</SccProvider>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
@@ -253,10 +257,14 @@
     <Content Include="App_Data\Pages\pages.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="App_Data\Appointments.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Controls\AdminHome.ascx" />
     <Content Include="Controls\BlogEditor.ascx" />
     <Content Include="Controls\BlogFinder.ascx" />
     <Content Include="Controls\ChapelViewer.ascx" />
+    <Content Include="Controls\ScheduleViewer.ascx" />
     <Content Include="Controls\MenuEditor.ascx" />
     <Content Include="Controls\MenuFinder.ascx" />
     <Content Include="Controls\MenuSectionEditor.ascx" />
@@ -384,6 +392,13 @@
     </Compile>
     <Compile Include="Controls\ChapelViewer.ascx.designer.cs">
       <DependentUpon>ChapelViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ScheduleViewer.ascx.cs">
+      <DependentUpon>ScheduleViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\ScheduleViewer.ascx.designer.cs">
+      <DependentUpon>ScheduleViewer.ascx</DependentUpon>
     </Compile>
     <Compile Include="Controls\MenuEditor.ascx.cs">
       <DependentUpon>MenuEditor.ascx</DependentUpon>
@@ -535,9 +550,6 @@
   <ItemGroup>
     <Content Include="Masters\SeminaryLink.master" />
     <Content Include="Masters\Csbs.master" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="App_Data\AppSettings.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Handlers\RssChapel.ashx" />

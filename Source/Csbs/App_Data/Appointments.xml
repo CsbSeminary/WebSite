@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appointments>
+  <NextID>10</NextID>
+  <Resources>
+    <Category>
+      <Key>1</Key>
+      <Text>Category A</Text>
+    </Category>
+    <Category>
+      <Key>2</Key>
+      <Text>Category B</Text>
+    </Category>
+    <Contact>
+      <Key>1</Key>
+      <Text>Barry</Text>
+    </Contact>
+    <Contact>
+      <Key>2</Key>
+      <Text>Dan</Text>
+    </Contact>
+    <Contact>
+      <Key>3</Key>
+      <Text>Steve</Text>
+    </Contact>
+    <Color>
+      <Key>1</Key>
+      <Text>DarkBlue</Text>
+    </Color>
+    <Color>
+      <Key>2</Key>
+      <Text>Blue</Text>
+    </Color>
+    <Color>
+      <Key>3</Key>
+      <Text>DarkGreen</Text>
+    </Color>
+    <Color>
+      <Key>4</Key>
+      <Text>Green</Text>
+    </Color>
+    <Color>
+      <Key>5</Key>
+      <Text>DarkRed</Text>
+    </Color>
+    <Color>
+      <Key>6</Key>
+      <Text>Orange</Text>
+    </Color>
+    <Color>
+      <Key>7</Key>
+      <Text>Pink</Text>
+    </Color>
+    <Color>
+      <Key>8</Key>
+      <Text>Red</Text>
+    </Color>
+    <Color>
+      <Key>9</Key>
+      <Text>Violet</Text>
+    </Color>
+    <Color>
+      <Key>10</Key>
+      <Text>Yellow</Text>
+    </Color>
+  </Resources>
+  <Appointment>
+    <ID>1</ID>
+    <Subject>Test # 6</Subject>
+    <Start>2014-02-01T08:30Z</Start>
+    <End>2014-02-01T10:30Z</End>
+    <Resources>
+      <Category Key="1" />
+      <Contact Key="1" />
+    </Resources>
+    <Attribute Key="CustomAttribute" Value="1" />
+  </Appointment>
+  <Appointment>
+    <ID>2</ID>
+    <Subject>Test # 2</Subject>
+    <Start>2014-01-28T09:00Z</Start>
+    <End>2014-01-28T10:00Z</End>
+    <Resources>
+      <Contact Key="1" />
+      <Color Key="9" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>3</ID>
+    <Subject>Test # 3</Subject>
+    <Start>2014-01-29T10:30Z</Start>
+    <End>2014-01-29T12:30Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>4</ID>
+    <Subject>Test # 1</Subject>
+    <Start>2014-01-27T10:00Z</Start>
+    <End>2014-01-27T12:00Z</End>
+    <Resources>
+      <Category Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>5</ID>
+    <Subject>Test # 4</Subject>
+    <Start>2014-01-29T11:30Z</Start>
+    <End>2014-01-29T12:30Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>6</ID>
+    <Subject>Dr. Garry Owen Memorial Lectureship</Subject>
+    <Start>2014-01-21T10:00Z</Start>
+    <End>2014-01-21T16:00Z</End>
+    <Resources>
+      <Color Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>7</ID>
+    <Subject>Test # 5</Subject>
+    <Start>2014-01-30T10:00Z</Start>
+    <End>2014-01-30T11:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>8</ID>
+    <Subject>Dr. Garry Owen M.D. Memorial Lectureship</Subject>
+    <Start>2014-01-22T10:00Z</Start>
+    <End>2014-01-22T16:00Z</End>
+    <Resources>
+      <Color Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>9</ID>
+    <Subject>Evening Worship and Sermon</Subject>
+    <Start>2014-01-21T19:00Z</Start>
+    <End>2014-01-21T20:00Z</End>
+    <Resources>
+      <Color Key="10" />
+    </Resources>
+  </Appointment>
+</Appointments>
