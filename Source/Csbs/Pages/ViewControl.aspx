@@ -7,8 +7,9 @@
 %>
 
 <asp:Content runat="server" ContentPlaceHolderID="head">
-    <link rel="Stylesheet" type="text/css" href="/Styles/Csbs/Default.css" />
-    <link rel='Stylesheet' type='text/css' href='/Styles/Csbs/Themes/csb-red.css' />
+    <link rel="Stylesheet" type="text/css" href="/styles/csbs/default.css" />
+    <link rel='Stylesheet' type='text/css' href='/Styles/CSBS/default.css' />
+    <link rel='Stylesheet' type='text/css' href='/Styles/CSBS/themes/csb-red.css' />
     <style type="text/css">
         #control-wrapper { padding-left: 40px; padding-right: 40px; }
     </style>

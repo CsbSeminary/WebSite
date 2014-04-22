@@ -66,8 +66,8 @@
   <Appointment>
     <ID>1</ID>
     <Subject>Test # 6</Subject>
-    <Start>2014-02-01T08:30Z</Start>
-    <End>2014-02-01T10:30Z</End>
+    <Start>2014-02-01T12:00Z</Start>
+    <End>2014-02-01T15:00Z</End>
     <Resources>
       <Category Key="1" />
       <Contact Key="1" />
@@ -87,8 +87,8 @@
   <Appointment>
     <ID>3</ID>
     <Subject>Test # 3</Subject>
-    <Start>2014-01-29T10:30Z</Start>
-    <End>2014-01-29T12:30Z</End>
+    <Start>2014-01-29T12:00Z</Start>
+    <End>2014-01-29T14:00Z</End>
   </Appointment>
   <Appointment>
     <ID>4</ID>
@@ -102,8 +102,11 @@
   <Appointment>
     <ID>5</ID>
     <Subject>Test # 4</Subject>
-    <Start>2014-01-29T11:30Z</Start>
-    <End>2014-01-29T12:30Z</End>
+    <Start>2014-01-31T08:30Z</Start>
+    <End>2014-01-31T14:00Z</End>
+    <Resources>
+      <Color Key="8" />
+    </Resources>
   </Appointment>
   <Appointment>
     <ID>6</ID>
@@ -117,8 +120,8 @@
   <Appointment>
     <ID>7</ID>
     <Subject>Test # 5</Subject>
-    <Start>2014-01-30T10:00Z</Start>
-    <End>2014-01-30T11:00Z</End>
+    <Start>2014-02-01T08:00Z</Start>
+    <End>2014-02-01T10:00Z</End>
   </Appointment>
   <Appointment>
     <ID>8</ID>

@@ -87,7 +87,7 @@
                                 <li><a href="/pages/seminarylink/distance/default.html" target="_blank">SeminaryLink (Online Education)</a></li>   								
                                 <li><a href="https://www.csbssonisweb.com/GENSRsC.cfm" target="_blank">Course Information</a></li>
                                 <li><a href="/pages/csbs/current/financial-aid-for-current-students.html">Financial Aid for Current Students</a></li>                                
-                                <li><a href="/Media/Documents/Academic_Catalogue2013-14.pdf">2013-14 Academic Catalogue</a></li>	
+                                <li><a href="/Media/Documents/Academic_Catalogue2014-15.pdf">2014-15 Academic Catalogue</a></li>	
 								<li><a href="/pages/csbs/current/academic-calendar.html">2013-14 Academic Calendar</a></li>													
                             </ul>
                         </div>
@@ -97,7 +97,7 @@
                             <tr>
                                 <td><a href="https://twitter.com/#!/CSBSeminary"><img alt="" src="/Media/Images/icon_twitter.png" /></a></td>
                                 <td><a href="http://www.facebook.com/pages/Canadian-Southern-Baptist-Seminary-College/151490401541115"><img alt="" src="/Media/Images/icon_facebook.png" /></a></td>
-                                <td style="padding-left:3px;" valign="top">Follow on Twitter<br />Like us on Facebook</td>
+                                <td style="padding-left:3px;" valign="top">&lt; Follow and <br>"Like" us!</td>
                             </tr>
                         </table>
                     </div>
@@ -105,7 +105,9 @@
             </div>
             <div id="page-footer">
                 <div style="float: left; margin: 13px 0 0 96px;">
-                    
+                    <a href="http://certs.websiteprotection.com/sealws/?sealId=4c6ad2d8-f348-4941-be87-18740a0607d7&amp;pop=true" title="Website Protection Site Scanner Certificate">
+                        <img src="/Media/Images/WP_light_notxt.gif" alt="" />
+                    </a>
                 </div>
                 <div class="version">2013.11.5.2022</div>
             </div>

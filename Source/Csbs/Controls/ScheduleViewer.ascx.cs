@@ -13,8 +13,6 @@ using Telerik.Web.UI;
 
 namespace Csbs.Controls
 {
-    
-
     public partial class ScheduleViewer : System.Web.UI.UserControl
     {
         #region Constants

@@ -8,6 +8,15 @@
     <asp:ContentPlaceHolder runat="server" ID="head"></asp:ContentPlaceHolder>
 </head>
 <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=24443465331";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <form id="form1" runat="server">
     <div id="page-wrapper">
         <div id="page-center">

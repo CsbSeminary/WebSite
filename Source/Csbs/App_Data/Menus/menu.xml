@@ -93,7 +93,7 @@
           <item id="81" adminOnly="0" title="Certificate of Christian Studies (CCS)" href="/pages/csbs/cbc/certificate-of-christian-studies.html" target="_self" />
           <item id="82" adminOnly="0" title="Samuel Program" href="/pages/csbs/cbc/samuel-program.html" target="_self" />
           <item id="83" adminOnly="0" title="Meet our CBC Faculty" href="/pages/csbs/cbc/college-faculty.html" />
-          <item id="197" adminOnly="0" title="Upcoming College Courses" href="/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
+          <item id="197" adminOnly="0" title="Upcoming Events" href="/pages/csbs/current/2014-academic-lectureship.html" target="_self" />
           <item id="84" adminOnly="0" title="Prospectives Students" href="/pages/csbs/admissions/college-application-roadmap.html" />
         </items>
       </section>
@@ -108,7 +108,7 @@
           <item id="87" adminOnly="0" title="Master of Biblical Studies (MBS)" href="/pages/csbs/csbs/master-of-biblical-studies.html" target="_self" />
           <item id="88" adminOnly="0" title="SeminaryLink (Online Education)" href="/pages/seminarylink/distance/default.html" />
           <item id="89" adminOnly="0" title="Meet our Seminary Faculty" href="/pages/csbs/csbs/seminary-faculty.html" />
-          <item id="196" adminOnly="0" title="Upcoming Seminary Courses" href="/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
+          <item id="196" adminOnly="0" title="Upcoming Events" href="/pages/csbs/current/2014-academic-lectureship.html" target="_self" />
           <item id="90" adminOnly="0" title="Prospective Students" href="/pages/csbs/admissions/seminary-application-roadmap.html" />
         </items>
       </section>
@@ -175,15 +175,15 @@
       <section id="32" showHeader="1" html="0" title="Courses">
         <items>
           <item id="111" adminOnly="0" title="&lt;strong&gt;Online Courses&lt;/strong&gt;" href="/pages/seminarylink/distance/online-courses.html" />
-          <item id="112" adminOnly="0" title="&lt;strong&gt;2012-13 Intensives &lt;/strong&gt; - Seminary" href="http://www.csbs.ca/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
-          <item id="113" adminOnly="0" title="&lt;strong&gt;2012-13 Intensives&lt;/strong&gt; - College" href="http://www.csbs.ca/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
+          <item id="112" adminOnly="0" title="&lt;strong&gt;2013-14 Intensives &lt;/strong&gt; - Seminary" href="http://www.csbs.ca/pages/csbs/csbs/upcoming-seminary-classes.html" target="_self" />
+          <item id="113" adminOnly="0" title="&lt;strong&gt;2013-14 Intensives&lt;/strong&gt; - College" href="http://www.csbs.ca/pages/csbs/cbc/upcoming-college-intensives.html" target="_self" />
         </items>
       </section>
       <section id="33" showHeader="1" html="0" title="Information">
         <items>
           <item id="114" adminOnly="0" title="Student Handbook" href="/Media/Documents/sthndbk07.pdf" target="_blank" />
           <item id="115" adminOnly="0" title="Online Education Supplement to the Student Handbook" />
-          <item id="116" adminOnly="0" title="2012-2013 Academic Catalogue" href="http://www.csbs.ca/Media/Documents/Catalogue2011.pdf" target="_self" />
+          <item id="116" adminOnly="0" title="2013-2014 Academic Catalogue" href="http://www.csbs.ca/Media/Documents/Academic_Catalogue2013-14.pdf" target="_self" />
           <item id="117" adminOnly="0" title="Ten Benefits of an Online Education" href="/pages/seminarylink/distance/ten-reasons.html" target="_blank" />
         </items>
       </section>
@@ -196,7 +196,7 @@
         </items>
       </section>
       <section id="35" showHeader="1" html="1" title="Announcements">
-        <html><![CDATA[<strong>Register for Fall 2013 classes now!</strong>]]></html>
+        <html><![CDATA[<strong>Register for Spring 2014 classes now!</strong>]]></html>
       </section>
     </sections>
   </menu>

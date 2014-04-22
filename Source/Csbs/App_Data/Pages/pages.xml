@@ -74,6 +74,11 @@
               <item name="csbs.about-us.default" />
             </menuItems>
           </page>
+          <page id="56" name="test" fileName="csbs.about.test" pageTitle="Test" adminOnly="1" menuPosition="0" contentLayout="1" headerLayout="1" sideColumnSize="3" headerTitle="Test" showColumnsSeparator="1" headerLinkTarget="_self" headerLinkVisible="0" contentPosition="2" headerPosition="1">
+            <metaDescription><![CDATA[]]></metaDescription>
+            <metaKeywords><![CDATA[]]></metaKeywords>
+            <menuItems />
+          </page>
         </pages>
       </section>
       <section name="admissions" defaultTheme="cbc-green">
@@ -240,6 +245,20 @@
             <metaKeywords><![CDATA[seminary, Canada, church planting, Bible, study, bible study, Canadian, Southern Baptist, Cochrane, Alberta, Calgary, Theology, theological, school, institution, Richard Blackaby, Blackaby, online courses, online education, New Testament, Old Testament, systematic, systematic theology]]></metaKeywords>
             <menuItems />
           </page>
+          <page id="57" name="2014-academic-lectureship" fileName="csbs.current.2014-academic-lectureship" pageTitle="2014 Academic Lectureship" adminOnly="0" theme="csb-red" menuPosition="2" contentLayout="1" headerLayout="1" sideColumnSize="3" headerTitle="2014 Academic Lectureship" showColumnsSeparator="1" headerLinkTarget="_self" headerLinkVisible="0" contentPosition="2" headerPosition="1">
+            <metaDescription><![CDATA[Information and registration for the 2014 Academic Lectureship at the Canadian Southern Baptist Seminary & College in Cochrane, AB.]]></metaDescription>
+            <metaKeywords><![CDATA[2014 Academic Lectureship, CSBS&C, Canadian Southern Baptist Seminary & College, CSBS&C Academic Lectureship, Dr. Donald Sunukjian]]></metaKeywords>
+            <menuItems>
+              <item name="csbs.global-navigation.home" />
+            </menuItems>
+          </page>
+          <page id="58" name="seminarynews" fileName="csbs.current.seminarynews" pageTitle="SeminaryNews" adminOnly="0" theme="csb-red" menuPosition="2" contentLayout="1" headerLayout="1" sideColumnSize="3" headerTitle="SeminaryNews" showColumnsSeparator="1" headerLinkTarget="_self" headerLinkVisible="0" contentPosition="2" headerPosition="1">
+            <metaDescription><![CDATA[Canadian Southern Baptist Seminary & College SeminaryNews]]></metaDescription>
+            <metaKeywords><![CDATA[CSBS&C SeminaryNews, CSBS&C Seminary News, SeminaryNews, Seminary News, Canadian Southern Baptist Seminary & College SeminaryNews]]></metaKeywords>
+            <menuItems>
+              <item name="csbs.global-navigation.home" />
+            </menuItems>
+          </page>
         </pages>
       </section>
       <section name="partners" defaultTheme="csb-red">
@@ -277,6 +296,15 @@
           <page id="48" name="page-not-found" fileName="csbs.sys.page-not-found" pageTitle="Page not found" adminOnly="0" menuPosition="0" contentLayout="1" headerLayout="0" sideColumnSize="3" showColumnsSeparator="1" headerLinkTarget="_self" headerLinkVisible="0" contentPosition="2" headerPosition="1">
             <metaDescription><![CDATA[]]></metaDescription>
             <metaKeywords><![CDATA[]]></metaKeywords>
+            <menuItems />
+          </page>
+        </pages>
+      </section>
+      <section name="splash">
+        <pages>
+          <page id="59" name="history-celebration-project" fileName="csbs.splash.preview-weekend" pageTitle="CSBS&amp;C History Celebration Project" adminOnly="0" theme="csb-red" menuPosition="0" contentLayout="1" headerLayout="1" sideColumnSize="3" headerTitle="CSBS&amp;C History Celebration Project" showColumnsSeparator="1" headerLinkTarget="_self" headerLinkVisible="0" contentPosition="2" headerPosition="1">
+            <metaDescription><![CDATA[CSBS&C History Celebration Project]]></metaDescription>
+            <metaKeywords><![CDATA[CSBS&C History]]></metaKeywords>
             <menuItems />
           </page>
         </pages>

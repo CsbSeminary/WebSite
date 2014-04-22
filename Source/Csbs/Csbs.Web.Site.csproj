@@ -75,13 +75,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Blog\articles\article-01-04-2014.html" />
     <Content Include="App_Data\Blog\articles\article-04-07-2012.html" />
     <Content Include="App_Data\Blog\articles\article-05-03-2012.html" />
     <Content Include="App_Data\Blog\articles\article-07-01-2013.html" />
     <Content Include="App_Data\Blog\articles\article-09-03-2012.html" />
     <Content Include="App_Data\Blog\articles\article-10-06-2010.html" />
+    <Content Include="App_Data\Blog\articles\article-11-04-2014.html" />
     <Content Include="App_Data\Blog\articles\article-12-12-2012.html" />
     <Content Include="App_Data\Blog\articles\article-13-07-2009.html" />
+    <Content Include="App_Data\Blog\articles\article-13-12-2013.html" />
     <Content Include="App_Data\Blog\articles\article-15-06-2011-1.html" />
     <Content Include="App_Data\Blog\articles\article-15-06-2011.html" />
     <Content Include="App_Data\Blog\articles\article-17-01-2013.html" />
@@ -89,13 +92,14 @@
     <Content Include="App_Data\Blog\articles\article-19-11-2010.html" />
     <Content Include="App_Data\Blog\articles\article-20-04-2013.html" />
     <Content Include="App_Data\Blog\articles\article-20-12-2012.html" />
+    <Content Include="App_Data\Blog\articles\article-21-10-2013.html" />
     <Content Include="App_Data\Blog\articles\article-22-04-2013-1.html" />
     <Content Include="App_Data\Blog\articles\article-22-04-2013.html" />
     <Content Include="App_Data\Blog\articles\article-22-11-2010.html" />
     <Content Include="App_Data\Blog\articles\article-23-10-2009.html" />
     <Content Include="App_Data\Blog\articles\article-24-04-2012.html" />
     <Content Include="App_Data\Blog\articles\article-28-06-2012.html" />
-    <Content Include="App_Data\Blog\blog.backup.xml" />
+    <Content Include="App_Data\Blog\articles\article-29-01-2014.html" />
     <Content Include="App_Data\Blog\blog.xml">
       <SubType>Designer</SubType>
     </Content>

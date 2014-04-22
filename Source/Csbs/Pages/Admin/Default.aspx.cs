@@ -5,11 +5,9 @@ using System.Web.UI.WebControls;
 using Csbs.Utilities;
 using Csbs.Web.UI;
 
-using Telerik.Web.UI;
-
 namespace Csbs.Pages
 {
-    public partial class Default : RadAjaxPage
+    public partial class Default : Page
     {
         #region Properties
 

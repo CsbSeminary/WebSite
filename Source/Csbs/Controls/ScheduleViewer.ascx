@@ -3,7 +3,7 @@
 <div>
     
     <h1>CSBS Event Calendar</h1>
-    <telerik:RadScheduler runat="server" ID="Scheduler" Skin="Sitefinity" SelectedView="WeekView" Height="730" WorkDayStartTime="8:00" WorkDayEndTime="20:00">
+    <telerik:RadScheduler runat="server" ID="Scheduler" Skin="Sitefinity" SelectedView="MonthView" Height="730" WorkDayStartTime="8:00" WorkDayEndTime="20:00">
         <ResourceStyles>
             <telerik:ResourceStyleMapping Type="Calendar" Text="Development" ApplyCssClass="rsCategoryGreen" />
             <telerik:ResourceStyleMapping Type="Calendar" Text="Marketing" ApplyCssClass="rsCategoryRed" />
