@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D5BDF2C-B33E-45D7-AD45-F21A8A946D8C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Seminary</RootNamespace>
+    <AssemblyName>Seminary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\..\..\Kernel\Bin\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Iris, Version=2014.6.26.1727, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Iris\Source\Iris.Web.Application\bin\Iris.dll</HintPath>
+    </Reference>
+    <Reference Include="Kernel, Version=2014.3.10.2044, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Iris\Source\Iris.Web.Application\bin\Kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Kernel\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PayPalCoreSDK, Version=1.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Kernel\Bin\PayPalCoreSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="RestApiSDK, Version=0.7.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Kernel\Bin\RestApiSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Web.UI, Version=2014.1.403.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.master.cs">
+      <DependentUpon>Default.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.master.designer.cs">
+      <DependentUpon>Default.master</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PageViewer.ascx.cs">
+      <DependentUpon>PageViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\PageViewer.ascx.designer.cs">
+      <DependentUpon>PageViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="Pages\PageList.txt" />
+    <Content Include="Pages\demo2.txt" />
+    <Content Include="Pages\demo1.html" />
+    <Content Include="article.html" />
+    <Content Include="college-faculty.html" />
+    <Content Include="college-programs.html" />
+    <Content Include="college.html" />
+    <Content Include="contact.html" />
+    <Content Include="Controls\PageViewer.ascx" />
+    <Content Include="give.html" />
+    <Content Include="Images\10380598_723527754337374_2460358464848321868_o-crop-u1446.jpg" />
+    <Content Include="Images\10380598_723527754337374_2460358464848321868_o-crop-u1446_2x.jpg" />
+    <Content Include="Images\1097254_701378106552339_4118672191041205867_o-u2285-fr.jpg" />
+    <Content Include="Images\1276281_606542279369256_1037849875_o-crop-u1444.jpg" />
+    <Content Include="Images\1276281_606542279369256_1037849875_o-crop-u1444_2x.jpg" />
+    <Content Include="Images\1276356_602970326393118_1831605645_o-crop-u1450.jpg" />
+    <Content Include="Images\1276356_602970326393118_1831605645_o-crop-u1450_2x.jpg" />
+    <Content Include="Images\1276356_602970326393118_1831605645_o-u2293-fr.jpg" />
+    <Content Include="Images\1277417_606542429369241_1971740491_o-u2289-fr.jpg" />
+    <Content Include="Images\1291520_602546419768842_1217069544_o-crop-u1448.jpg" />
+    <Content Include="Images\1291520_602546419768842_1217069544_o-crop-u1448_2x.jpg" />
+    <Content Include="Images\1540465_688900737800076_543670180_o.jpg" />
+    <Content Include="Images\1965517_688900714466745_166852069_o.jpg" />
+    <Content Include="Images\1973560_688900554466761_426036276_o.jpg" />
+    <Content Include="Images\842872_513011325389019_1229542586_o.jpg" />
+    <Content Include="Images\861409_522925891064229_488253381_o-crop-u3162.jpg" />
+    <Content Include="Images\861409_522925891064229_488253381_o-crop-u3162_2x.jpg" />
+    <Content Include="Images\abhe_single.jpg" />
+    <Content Include="Images\abhe_single_2x.jpg" />
+    <Content Include="Images\alberta-logo.png" />
+    <Content Include="Images\alberta-logo_2x.png" />
+    <Content Include="Images\arrowmenudown.gif" />
+    <Content Include="Images\ats_logo2.png" />
+    <Content Include="Images\ats_logo2_2x.png" />
+    <Content Include="Images\blank.gif" />
+    <Content Include="Images\facebook.jpg" />
+    <Content Include="Images\facebook_2x.jpg" />
+    <Content Include="Images\hom-sabbia.jpg" />
+    <Content Include="Images\hom-sabbia_2x.jpg" />
+    <Content Include="Images\loading.gif" />
+    <Content Include="Images\Loading\loading.gif" />
+    <Content Include="Images\Loading\loading1.gif" />
+    <Content Include="Images\Loading\loading2.gif" />
+    <Content Include="Images\Loading\loading3.gif" />
+    <Content Include="Images\Loading\loading4.gif" />
+    <Content Include="Images\Loading\loading5.gif" />
+    <Content Include="Images\Loading\loading6.gif" />
+    <Content Include="Images\Loading\loading7.gif" />
+    <Content Include="Images\Loading\LoadingProgressBar.gif" />
+    <Content Include="Images\Loading\LoadingVerticalBar.gif" />
+    <Content Include="Images\logocsbs_ver5a%28colour%29.jpg" />
+    <Content Include="Images\logocsbs_ver5a%28colour%29.png" />
+    <Content Include="Images\logocsbs_ver5a%28colour%29_2x.jpg" />
+    <Content Include="Images\logocsbs_ver5a%28colour%29_2x.png" />
+    <Content Include="Images\Logos\csbs.jpg" />
+    <Content Include="Images\Logos\insite.gif" />
+    <Content Include="Images\Logos\shift.png" />
+    <Content Include="Images\newspaper_shutterstock_124029454-u2558-fr.jpg" />
+    <Content Include="Images\rss.jpg" />
+    <Content Include="Images\rss_2x.jpg" />
+    <Content Include="Images\Statuses\bar-left-blue.png" />
+    <Content Include="Images\Statuses\bar-left-green.png" />
+    <Content Include="Images\Statuses\bar-left-orange.png" />
+    <Content Include="Images\Statuses\bar-left-red.png" />
+    <Content Include="Images\Statuses\bar-right-blue.png" />
+    <Content Include="Images\Statuses\bar-right-green.png" />
+    <Content Include="Images\Statuses\bar-right-orange.png" />
+    <Content Include="Images\Statuses\bar-right-red.png" />
+    <Content Include="Images\Statuses\dot-blue.png" />
+    <Content Include="Images\Statuses\dot-green.png" />
+    <Content Include="Images\Statuses\dot-orange.png" />
+    <Content Include="Images\Statuses\dot-red.png" />
+    <Content Include="Images\twitter.jpg" />
+    <Content Include="Images\twitter_2x.jpg" />
+    <Content Include="Images\u3056.png" />
+    <Content Include="Images\u3056_2x.png" />
+    <Content Include="Images\youtube.jpg" />
+    <Content Include="Images\youtube_2x.jpg" />
+    <Content Include="index.html" />
+    <Content Include="muse_manifest.xml" />
+    <Content Include="Default.aspx" />
+    <Content Include="Scripts\FancyZoom\closebox.png" />
+    <Content Include="Scripts\FancyZoom\FancyZoom.js" />
+    <Content Include="Scripts\FancyZoom\FancyZoomHTML.js" />
+    <Content Include="Scripts\FancyZoom\spacer.gif" />
+    <Content Include="Scripts\FancyZoom\zoom-caption-fill.png" />
+    <Content Include="Scripts\FancyZoom\zoom-caption-l.png" />
+    <Content Include="Scripts\FancyZoom\zoom-caption-r.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow1.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow2.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow3.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow4.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow5.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow6.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow7.png" />
+    <Content Include="Scripts\FancyZoom\zoom-shadow8.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-1.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-10.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-11.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-12.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-2.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-3.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-4.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-5.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-6.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-7.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-8.png" />
+    <Content Include="Scripts\FancyZoom\zoom-spin-9.png" />
+    <Content Include="Scripts\html5shiv.js" />
+    <Content Include="Scripts\jquery-1.8.3.min.js" />
+    <Content Include="Scripts\jquery.musemenu.js" />
+    <Content Include="Scripts\jquery.museoverlay.js" />
+    <Content Include="Scripts\jquery.musepolyfill.bgsize.js" />
+    <Content Include="Scripts\jquery.watch.js" />
+    <Content Include="Scripts\museutils.js" />
+    <Content Include="Scripts\musewpslideshow.js" />
+    <Content Include="Scripts\pie.js" />
+    <Content Include="Scripts\rotator.js" />
+    <Content Include="seminary-faculty.html" />
+    <Content Include="seminary-programs.html" />
+    <Content Include="seminary.html" />
+    <Content Include="whatever-else-page.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\touchswipe.js" />
+    <Content Include="Scripts\webpro.js" />
+    <Content Include="Sitemap.xml" />
+    <Content Include="css\about.css" />
+    <Content Include="css\article.css" />
+    <Content Include="css\college-faculty.css" />
+    <Content Include="css\college-programs.css" />
+    <Content Include="css\college.css" />
+    <Content Include="css\contact.css" />
+    <Content Include="css\give.css" />
+    <Content Include="css\iefonts_about.css" />
+    <Content Include="css\iefonts_article.css" />
+    <Content Include="css\iefonts_college-faculty.css" />
+    <Content Include="css\iefonts_college-programs.css" />
+    <Content Include="css\iefonts_college.css" />
+    <Content Include="css\iefonts_contact.css" />
+    <Content Include="css\iefonts_give.css" />
+    <Content Include="css\iefonts_index.css" />
+    <Content Include="css\iefonts_seminary-faculty.css" />
+    <Content Include="css\iefonts_seminary-programs.css" />
+    <Content Include="css\iefonts_seminary.css" />
+    <Content Include="css\iefonts_whatever-else-page.css" />
+    <Content Include="css\index.css" />
+    <Content Include="css\master_a-master.css" />
+    <Content Include="css\master_article-page.css" />
+    <Content Include="css\master_secondary-page.css" />
+    <Content Include="css\seminary-faculty.css" />
+    <Content Include="css\seminary-programs.css" />
+    <Content Include="css\seminary.css" />
+    <Content Include="css\site_global.css" />
+    <Content Include="css\whatever-else-page.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Prod.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Test.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.master" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52119</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://local.shiftiq.com</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <UserProperties BuildVersion_UseGlobalSettings="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
