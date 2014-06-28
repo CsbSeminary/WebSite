@@ -1,0 +1,102 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1403820034096">
+  <folder name="css">
+    <file name="site_global.css" crc="96461391"/>
+    <file name="master_a-master.css" crc="140476131" ref="index"/>
+    <file name="master_article-page.css" crc="3853435612" ref="article"/>
+    <file name="master_secondary-page.css" crc="4265176589" ref="seminary:whatever-else-page:contact:college:college-programs:seminary-programs:college-faculty:about:give:seminary-faculty"/>
+    <file name="seminary.css" crc="425018129" ref="seminary"/>
+    <file name="iefonts_seminary.css" crc="39024882" ref="seminary"/>
+    <file name="whatever-else-page.css" crc="425018129" ref="whatever-else-page"/>
+    <file name="iefonts_whatever-else-page.css" crc="39024882" ref="whatever-else-page"/>
+    <file name="contact.css" crc="425018129" ref="contact"/>
+    <file name="iefonts_contact.css" crc="39024882" ref="contact"/>
+    <file name="college.css" crc="425018129" ref="college"/>
+    <file name="iefonts_college.css" crc="39024882" ref="college"/>
+    <file name="index.css" crc="318457712" ref="index"/>
+    <file name="iefonts_index.css" crc="3762320458" ref="index"/>
+    <file name="article.css" crc="4256094812" ref="article"/>
+    <file name="iefonts_article.css" crc="4156602490" ref="article"/>
+    <file name="college-programs.css" crc="425018129" ref="college-programs"/>
+    <file name="iefonts_college-programs.css" crc="39024882" ref="college-programs"/>
+    <file name="seminary-programs.css" crc="425018129" ref="seminary-programs"/>
+    <file name="iefonts_seminary-programs.css" crc="39024882" ref="seminary-programs"/>
+    <file name="college-faculty.css" crc="425018129" ref="college-faculty"/>
+    <file name="iefonts_college-faculty.css" crc="39024882" ref="college-faculty"/>
+    <file name="about.css" crc="425018129" ref="about"/>
+    <file name="iefonts_about.css" crc="39024882" ref="about"/>
+    <file name="give.css" crc="425018129" ref="give"/>
+    <file name="iefonts_give.css" crc="39024882" ref="give"/>
+    <file name="seminary-faculty.css" crc="425018129" ref="seminary-faculty"/>
+    <file name="iefonts_seminary-faculty.css" crc="39024882" ref="seminary-faculty"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="museutils.js" crc="212726984" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="pie.js" crc="3827607177" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="webpro.js" crc="114405901" ref="index"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="index"/>
+    <file name="touchswipe.js" crc="12843993" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="index:college:article"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+  </folder>
+  <folder name="images">
+    <file name="hom-sabbia.jpg" crc="3790717154" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="hom-sabbia_2x.jpg" crc="299681467" ref="index:college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:college:article"/>
+    <file name="logocsbs_ver5a(colour).jpg" crc="4265131519" ref="index"/>
+    <file name="logocsbs_ver5a(colour)_2x.jpg" crc="3769905500" ref="index"/>
+    <file name="facebook.jpg" crc="3939955012" ref="index"/>
+    <file name="facebook_2x.jpg" crc="3951763056" ref="index"/>
+    <file name="twitter.jpg" crc="4288099977" ref="index"/>
+    <file name="twitter_2x.jpg" crc="3760330156" ref="index"/>
+    <file name="youtube.jpg" crc="3988807688" ref="index"/>
+    <file name="youtube_2x.jpg" crc="4094191815" ref="index"/>
+    <file name="rss.jpg" crc="146387421" ref="index"/>
+    <file name="rss_2x.jpg" crc="257510166" ref="index"/>
+    <file name="1291520_602546419768842_1217069544_o-crop-u1448.jpg" crc="382778753" ref="index"/>
+    <file name="1291520_602546419768842_1217069544_o-crop-u1448_2x.jpg" crc="299436033" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1276281_606542279369256_1037849875_o-crop-u1444.jpg" crc="253479692" ref="index"/>
+    <file name="1276281_606542279369256_1037849875_o-crop-u1444_2x.jpg" crc="3791857333" ref="index"/>
+    <file name="10380598_723527754337374_2460358464848321868_o-crop-u1446.jpg" crc="4229658480" ref="index"/>
+    <file name="10380598_723527754337374_2460358464848321868_o-crop-u1446_2x.jpg" crc="328184744" ref="index"/>
+    <file name="1276356_602970326393118_1831605645_o-crop-u1450.jpg" crc="48980910" ref="index"/>
+    <file name="1276356_602970326393118_1831605645_o-crop-u1450_2x.jpg" crc="3995296203" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="1097254_701378106552339_4118672191041205867_o-u2285-fr.jpg" crc="4273345017" ref="index"/>
+    <file name="1277417_606542429369241_1971740491_o-u2289-fr.jpg" crc="325899687" ref="index"/>
+    <file name="1276356_602970326393118_1831605645_o-u2293-fr.jpg" crc="4263754275" ref="index"/>
+    <file name="newspaper_shutterstock_124029454-u2558-fr.jpg" crc="31769251" ref="index"/>
+    <file name="abhe_single.jpg" crc="261000964" ref="index"/>
+    <file name="abhe_single_2x.jpg" crc="261000964" ref="index"/>
+    <file name="ats_logo2.png" crc="355612735" ref="index"/>
+    <file name="ats_logo2_2x.png" crc="355612735" ref="index"/>
+    <file name="alberta-logo.png" crc="4159170778" ref="index"/>
+    <file name="alberta-logo_2x.png" crc="4159170778" ref="index"/>
+    <file name="logocsbs_ver5a(colour).png" crc="3825434091" ref="college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="logocsbs_ver5a(colour)_2x.png" crc="3825434091" ref="college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page:article"/>
+    <file name="861409_522925891064229_488253381_o-crop-u3162.jpg" crc="85431853" ref="college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page"/>
+    <file name="861409_522925891064229_488253381_o-crop-u3162_2x.jpg" crc="371225911" ref="college:seminary:about:contact:give:seminary-faculty:seminary-programs:college-faculty:college-programs:whatever-else-page"/>
+    <file name="842872_513011325389019_1229542586_o.jpg" crc="79450557" ref="college"/>
+    <file name="1973560_688900554466761_426036276_o.jpg" crc="230922291" ref="college"/>
+    <file name="1540465_688900737800076_543670180_o.jpg" crc="203116419" ref="college"/>
+    <file name="u3056.png" crc="3802017295" ref="article"/>
+    <file name="u3056_2x.png" crc="195201452" ref="article"/>
+    <file name="1965517_688900714466745_166852069_o.jpg" crc="3871892934" ref="article"/>
+  </folder>
+  <file name="index.html" crc="3831595822" mt="1403820028455" redirect="true"/>
+  <file name="college.html" crc="220746543" mt="1403820027636" redirect="true"/>
+  <file name="seminary.html" crc="15308521" mt="1403820027637" redirect="true"/>
+  <file name="about.html" crc="4266028272" mt="1403820027638" redirect="true"/>
+  <file name="contact.html" crc="3771469252" mt="1403820027638" redirect="true"/>
+  <file name="give.html" crc="327447272" mt="1403820027639" redirect="true"/>
+  <file name="seminary-faculty.html" crc="3905193625" mt="1403820027639" redirect="true"/>
+  <file name="seminary-programs.html" crc="4179603551" mt="1403820027640" redirect="true"/>
+  <file name="college-faculty.html" crc="414660483" mt="1403820027641" redirect="true"/>
+  <file name="college-programs.html" crc="379932368" mt="1403820027641" redirect="true"/>
+  <file name="whatever-else-page.html" crc="205891490" mt="1403820027642" redirect="true"/>
+  <file name="article.html" crc="4015422488" mt="1403819771529" redirect="true"/>
+</manifest>
