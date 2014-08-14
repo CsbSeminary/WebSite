@@ -1,0 +1,115 @@
+#u8490_clip
+{
+	overflow: hidden;
+}
+
+#u8446
+{
+	-pie-box-shadow: 8px 0px 16px #7F7F7F;
+	-moz-box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 0px 16px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background: #E7E7E7 url("../images/line-diag_blue_backg2.jpg") repeat left top;
+}
+
+.hidpi #u8446
+{
+	background-image: url("../images/line-diag_blue_backg2_2x.jpg");
+	background-size: 25px 25px;
+}
+
+#u8406
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 0px 26px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	background: #000000 url("../images/dark_tire.jpg") repeat left top;
+}
+
+.hidpi #u8406
+{
+	background-image: url("../images/dark_tire_2x.jpg");
+	background-size: 125px 125px;
+}
+
+#u8412-4
+{
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8404-39
+{
+	line-height: 20px;
+	position: relative;
+}
+
+#u8404-7,#u8404-12,#u8404-17,#u8404-22,#u8404-27,#u8404-32,#u8404-37
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u8405-11
+{
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u8405-5
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u8405
+{
+	color: #FBB03B;
+	font-weight: 700;
+}
+
+#u8405-3
+{
+	font-weight: 700;
+}
+
+#u8405-4,#u8405-7,#u8405-9
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u8444,#u8490,#u8447,#u8449,#u8413,#u8407,#u8409,#u8411-15
+{
+	position: relative;
+}
+
+#u8404-2,#u8411-2
+{
+	color: #FBB03B;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u8411-4,#u8411-6,#u8411-8,#u8411-13
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+

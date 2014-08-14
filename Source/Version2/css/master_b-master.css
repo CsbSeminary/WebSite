@@ -1,0 +1,31 @@
+#u7991
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 0px 26px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	background: #000000 url("../images/dark_tire.jpg") repeat left top;
+}
+
+.hidpi #u7991
+{
+	background-image: url("../images/dark_tire_2x.jpg");
+	background-size: 125px 125px;
+}
+
+#u7992
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
+	position: relative;
+}
+
