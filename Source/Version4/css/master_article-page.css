@@ -1,0 +1,456 @@
+#u3849_clip
+{
+	overflow: hidden;
+}
+
+#u3816
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/line-diag_blue_backg2.jpg") repeat left top;
+}
+
+.hidpi #u3816
+{
+	background-image: url("../images/line-diag_blue_backg2_2x.jpg");
+	background-size: 25px 25px;
+}
+
+#pamphletu4276,#u4303
+{
+	position: relative;
+}
+
+#u4304
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4304:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4305-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4314
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4314:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4315-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4304.PamphletThumbSelected #u4305-4 p,#u4314.PamphletThumbSelected #u4315-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+#u4308
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4314.PamphletThumbSelected,#u4308:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4304.PamphletThumbSelected,#u4308.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u4309-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4312
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4312:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4312.PamphletThumbSelected
+{
+	background-color: #000000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u4313-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4306
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4306:hover
+{
+	background-color: #000000;
+}
+
+#u4307-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4310
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4306.PamphletThumbSelected,#u4310:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4310.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u4311-5
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	position: relative;
+}
+
+#u4308.PamphletThumbSelected #u4309-4 p,#u4312.PamphletThumbSelected #u4313-4 p,#u4306.PamphletThumbSelected #u4307-4 p,#u4310.PamphletThumbSelected #u4311-5 p,#u4310.PamphletThumbSelected #u4311-5 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-align: center;
+}
+
+#u4281
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u4282,#u4297,#u4291
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+}
+
+#u4283-4,#u4302-4,#u4296-4
+{
+	background-color: transparent;
+	line-height: 17px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4286-3,#u4299-3,#u4295-3
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	text-align: center;
+	position: relative;
+}
+
+#u4285-4,#u4301-4,#u4294-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u4287-12,#u4284-10,#u4298-11,#u4300-8,#u4292-11,#u4293-12
+{
+	background-color: transparent;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4288,#u4290,#u4289
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u3222-4
+{
+	background-color: transparent;
+	line-height: 36px;
+	color: #F7931E;
+	font-size: 30px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3223-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #000000;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u3221
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: #FFFFFF url("../images/1965517_688900714466745_166852069_o.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u3224-4,#u3225-4
+{
+	background-color: transparent;
+	line-height: 79px;
+	color: #000000;
+	font-size: 66px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3232-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #7F7F7F;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+}
+
+#u3220-32
+{
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u3220-2,#u3220-3,#u3220-5,#u3220-6,#u3220-8,#u3220-9,#u3220-11,#u3220-12,#u3220-14,#u3220-15,#u3220-17,#u3220-18,#u3220-20,#u3220-21,#u3220-23,#u3220-24,#u3220-26,#u3220-27,#u3220-29
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #7F7F7F;
+}
+
+#u4999
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 0px 26px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	background: #000000 url("../images/dark_tire.jpg") repeat left top;
+}
+
+.hidpi #u4999
+{
+	background-image: url("../images/dark_tire_2x.jpg");
+	background-size: 125px 125px;
+}
+
+#u5006-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u5007-39
+{
+	background-color: transparent;
+	line-height: 20px;
+	position: relative;
+}
+
+#u5007-7,#u5007-12,#u5007-17,#u5007-22,#u5007-27,#u5007-32,#u5007-37
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u5008-11
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u5008-5
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u5008
+{
+	color: #FBB03B;
+	font-weight: 700;
+}
+
+#u5008-3
+{
+	font-weight: 700;
+}
+
+#u4311,#u5008-4,#u5008-7,#u5008-9
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u3054,#u3849,#u3853,#u3851,#u3855,#u5000,#u5002,#u5004,#u5009-12
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u5007-2,#u5009-2
+{
+	color: #FBB03B;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u5009-4,#u5009-6,#u5009-8,#u5009-10
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
