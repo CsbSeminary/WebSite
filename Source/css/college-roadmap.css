@@ -1,7 +1,7 @@
 .version.college_roadmap /* version checker */
 {
 	color: #00000E;
-	background-color: #FA0480;
+	background-color: #1EAEB0;
 }
 
 .html
@@ -97,8 +97,8 @@
 {
 	z-index: 283;
 	width: 0.01px;
-	height: 32px;
-	padding-bottom: 204px;
+	height: 31px;
+	padding-bottom: 199px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -321,14 +321,14 @@
 #u8104
 {
 	width: 960px;
-	top: 39px;
+	top: 40px;
 }
 
 #u8118
 {
 	z-index: 317;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -372,7 +372,7 @@
 {
 	z-index: 389;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -380,7 +380,7 @@
 {
 	z-index: 390;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -433,7 +433,7 @@
 {
 	z-index: 450;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -523,7 +523,7 @@
 {
 	z-index: 498;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -531,7 +531,7 @@
 {
 	z-index: 499;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -539,7 +539,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #u7991,#u7991-bw
@@ -650,8 +650,8 @@
 	width: 264px;
 	min-height: 407px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 22px;
+	color: #000000;
 	font-size: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -791,11 +791,6 @@
 	margin-right: -10000px;
 	margin-top: 48px;
 	left: 161px;
-}
-
-#u5018_img
-{
-	padding-right: 1px;
 }
 
 #u5020-4

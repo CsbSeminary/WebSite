@@ -1,7 +1,7 @@
 .version.financial_aid /* version checker */
 {
-	color: #00000E;
-	background-color: #53B8C6;
+	color: #00001E;
+	background-color: #D42493;
 }
 
 .html
@@ -96,8 +96,8 @@
 {
 	z-index: 496;
 	width: 0.01px;
-	height: 32px;
-	padding-bottom: 204px;
+	height: 31px;
+	padding-bottom: 199px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -320,14 +320,14 @@
 #u8104
 {
 	width: 960px;
-	top: 39px;
+	top: 40px;
 }
 
 #u8118
 {
 	z-index: 530;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -371,7 +371,7 @@
 {
 	z-index: 602;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -379,7 +379,7 @@
 {
 	z-index: 603;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -432,7 +432,7 @@
 {
 	z-index: 663;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -522,7 +522,7 @@
 {
 	z-index: 711;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -530,7 +530,7 @@
 {
 	z-index: 712;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -538,7 +538,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #u9434,#u9434-bw
@@ -606,7 +606,7 @@
 {
 	width: 0.01px;
 	margin-left: 24px;
-	margin-top: 26px;
+	margin-top: 32px;
 }
 
 #pu9498
@@ -639,8 +639,8 @@
 	width: 264px;
 	min-height: 266px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 22px;
+	color: #000000;
 	font-size: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -1220,11 +1220,6 @@
 	margin-right: -10000px;
 	margin-top: 48px;
 	left: 161px;
-}
-
-#u5018_img
-{
-	padding-right: 1px;
 }
 
 #u5020-4

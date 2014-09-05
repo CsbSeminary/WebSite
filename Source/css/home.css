@@ -1,0 +1,62 @@
+.version.home /* version checker */
+{
+	color: #0000ED;
+	background-color: #22B76E;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 660px;
+	min-height: 267.8166666666667px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 83px 146px 149.18333333333328px 154px;
+}
+
+#u9988
+{
+	z-index: 8;
+	width: 433px;
+	background-color: transparent;
+	margin-left: 109px;
+	position: relative;
+}
+
+#u9985-6
+{
+	z-index: 2;
+	width: 660px;
+	min-height: 52px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-top: 14px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

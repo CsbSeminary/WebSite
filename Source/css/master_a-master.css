@@ -314,9 +314,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #000000;
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
 	position: relative;
 }
 

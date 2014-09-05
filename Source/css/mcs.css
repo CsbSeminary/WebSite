@@ -1,7 +1,7 @@
 .version.mcs /* version checker */
 {
-	color: #000008;
-	background-color: #0109BF;
+	color: #0000FA;
+	background-color: #8A95E1;
 }
 
 .html
@@ -319,11 +319,6 @@
 	margin-right: -10000px;
 	margin-top: 48px;
 	left: 175px;
-}
-
-#u8409_img
-{
-	padding-right: 1px;
 }
 
 #u8412-4
