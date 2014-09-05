@@ -1,0 +1,75 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    font-family: lucida, "lucida grande", verdana, helvetica, arial, sans-serif;
+    font-size: 11px;
+    background-color: #EFEFEF;
+    text-align: left;
+}
+
+img, img a {
+    border: 0 none;
+}
+
+p {
+    margin: 0;
+    padding: 3px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3em;
+    margin: 0;
+    padding: 5px 0;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+/* MENU */ 
+
+.page-navigation-menu.vertical .menu-section-title {
+    background-image: url(/Media/Images/menu_background_slink.gif);
+    border-bottom: 1px solid #CCCCCC;
+    border-top: 1px solid #CCCCCC;
+    color: #000066;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    padding: 7px 25px;
+    text-transform: uppercase;
+}
+
+.page-navigation-menu.vertical .menu-list-container {
+    line-height: 1.4em;
+    margin: 0 25px;
+    padding: 5px 0;
+}
+
+.page-navigation-menu.vertical .menu-list-container a {
+    color: blue;
+    text-decoration: none;
+}
+
+.page-navigation-menu.vertical .menu-list-container a:hover {
+    color: #000066;
+}
+
+.page-navigation-menu.vertical .menu-list-container ul {
+    margin: 0;
+    padding: 2px;
+}
+
+.page-navigation-menu.vertical .menu-list-container ul li {
+    list-style-type: circle;
+    margin: 0;
+    padding: 2px;
+}
+
+.page-navigation-menu.vertical .menu-separator {
+    display: none;
+}

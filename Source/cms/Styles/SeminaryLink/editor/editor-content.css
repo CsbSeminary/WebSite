@@ -1,0 +1,124 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    font-family: lucida, "lucida grande", verdana, helvetica, arial, sans-serif;
+    font-size: 11px;   
+    text-align: left;
+    background-color: #FFFFFF;
+}
+
+img, img a {
+    border: 0 none;
+}
+
+p {
+    margin: 0;
+    padding: 3px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3em;
+    margin: 0;
+    padding: 5px 0;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+/* Content Layout */ 
+
+.content-title {
+    border-bottom: 1px solid #CCCCCC;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 28px;
+    margin: 0 25px;
+    padding: 5px 0;
+}
+
+.content-body {
+    line-height: 1.4em;
+    margin: 0 25px;
+    padding: 10px 0;
+}
+
+.content-body p {
+    padding: 3px;
+    margin: 0;
+}
+
+.content-body a {
+    text-decoration: none;
+}
+
+.content-body h3 {
+    padding-bottom: 5px;
+}
+
+.content-body ul,
+.content-body ol {
+    margin-top: 0;
+}
+
+.content-body li {
+    margin: 0;
+    padding: 2px 2px 5px;
+}
+
+.content-body ul li {
+    list-style-type: circle;
+}
+
+.content-body ol li {
+    list-style-type: decimal;
+}
+
+.photo {
+    border: 1px solid gray;
+    margin: 5px 0 5px 8px;
+    padding: 2px;
+    text-align: center;
+}
+
+.photo.right300 {
+    float: right;
+    width: 304px;
+}
+
+.photo.right200 {
+    float: right;
+    width: 204px;
+}
+
+.photo.right150 {
+    float: right;
+    width: 154px;
+}
+
+table tr td.msg-lbl {
+    text-align: left;
+    vertical-align: top;
+}
+
+table tr td input.msg-write {
+    border-color: #000033 #EFEFEF #EFEFEF #000033;
+    border-style: solid;
+    border-width: 2px 1px 1px 2px;
+    font: 11px Lucida,Lucida Grande,Verdana,Helvetica,Arial,sans-serif;
+    width: 250px;
+}
+
+table tr td textarea.msg-txt {
+    border-color: #000033 #EFEFEF #EFEFEF #000033;
+    border-style: solid;
+    border-width: 2px 1px 1px 2px;
+    font: 11px Lucida,Lucida Grande,Verdana,Helvetica,Arial,sans-serif;
+    height: 175px;
+    width: 250px;
+}

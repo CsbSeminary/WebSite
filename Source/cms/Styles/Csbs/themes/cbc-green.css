@@ -1,0 +1,15 @@
+﻿body {
+    background-color: #004100;
+}
+
+#page-center {
+    background: url(/Media/Images/content_border_green.gif) repeat-y;
+}
+
+#page-header {
+    background: url(/Media/Images/page_header_cbc.jpg) no-repeat; 
+}
+
+#page-footer {
+    background: url(/Media/Images/page_footer_cbc.jpg) no-repeat;
+}

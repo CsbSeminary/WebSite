@@ -1,0 +1,15 @@
+﻿body {
+    background-color: #004579; 
+}
+
+#page-center {
+    background: url(/Media/Images/content_border_blue.gif) repeat-y;
+}
+
+#page-header {
+    background: url(/Media/Images/page_header_csbs.jpg) no-repeat; 
+}
+
+#page-footer {
+    background: url(/Media/Images/page_footer_csbs.jpg) no-repeat;
+}

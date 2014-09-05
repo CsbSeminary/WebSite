@@ -1,0 +1,326 @@
+﻿body { 
+    font-size: 12px;
+    background-color: #797979;
+}
+
+#page-center { 
+    background: url(/Media/Images/content_border_gray.gif) repeat-y;
+    width: 1000px;
+}
+
+#page-header {
+    background: url(/Media/Images/page_header_home.jpg) no-repeat; 
+    height: 155px;    
+    position: relative; 
+    width: 1000px;
+}
+
+#page-body {
+    padding: 1px 29px;
+}
+
+#page-body .menu-wrapper {
+    background: url(/Media/Images/home_menu_bck_opacity80.png) repeat;
+    height: 570px;
+    width: 280px;
+    margin-top: 1px;
+    float: left;
+}
+
+#page-body .menu-wrapper .contacts {
+    padding: 2px 0 0 27px;
+    color: #FFFFFF;
+}
+
+#page-body .menu-wrapper .contacts .webmaster {
+    font-size: 10px;
+}
+
+#page-body .menu-wrapper .contacts .webmaster a {
+    color: #FFFFFF;
+}
+
+#page-body .menu-wrapper .contacts .webmaster a:hover {
+    color: #FFFC00;
+    text-decoration: underline;
+}
+
+#page-body .menu-wrapper .contacts .csbs {
+    margin: 12px 0 0 4px;
+}
+
+#page-body .menu-wrapper .contacts .csbs td {
+    padding-right: 4px;
+}
+
+#page-body .content-wrapper {
+    height: 563px;
+    width: 659px;
+    margin: 1px 2px 0 0;
+    float: right;
+}
+
+#page-footer {
+    background: url(/Media/Images/page_footer_home.jpg) no-repeat;
+    height: 103px;
+    width: 1000px;
+    position: relative;
+    left: -1px;
+}
+
+#page-footer .version {
+    color: #FFFFFF;
+    font-size: 10px;
+    text-align: right;
+    float: right;
+    margin: 6px 50px 0 0;
+}
+
+#request-information {
+    background-color: #ffffff;
+    width: 186px;
+    height: 21px;
+    position: absolute;
+    padding: 4px 0 0 8px;
+    margin: 287px 0 0 743px;
+	border: 2px solid #c1272d;
+}
+
+#request-information a {
+    font-size: 14px;
+	font-weight: 600;
+	font-style:bold
+	position: center
+    color: #000000;
+}
+
+#virtual-tour {
+    width: 219px;
+    float: left;
+}
+
+#virtual-tour .content {
+    padding-top: 5px;
+}
+
+#take-note {
+    width: 168px;
+    height: 169px;
+    margin-left: 35px;
+    border-bottom: 1px solid #bcbcbc;
+    float: left;
+}
+
+#take-note .content {
+    padding-top: 13px;
+}
+
+#take-note .content a {
+    color: #0048AA;
+}
+
+#take-note .content a:hover {
+    color: #D81F00;
+}
+
+#partners {
+    padding: 30px 0 0 1px;
+    width: 425px;
+    clear: both;
+    height: 74px;
+}
+
+#partners .images {
+    float: left;
+}
+
+#partners .text {
+    font-size: 10px;
+    color: #A9A9A9;
+    padding: 0 0 0 24px;
+    float: left;
+    width: 180px;
+}
+
+#partners .text a {
+    color: #A9A9A9;
+}
+
+#partners .text a:hover {
+    color: #D81F00;
+    text-decoration: underline;
+}
+
+#news {
+    float: right;
+    width: 160px;
+    height: 280px;
+    padding: 12px 19px 0 8px;
+}
+
+#news .note {
+    background: url(/Media/Images/news_background.png) no-repeat;
+    width: 149px;
+    height: 119px;
+    margin-bottom: 11px;
+    padding: 10px 6px 0 5px;
+    font-size: 10px;
+    color: #000000;
+}
+
+#news .note div.page-navigation-menu .menu-list-container ul.triangle-bullet-list {
+    font-family: 'Verdana','sans-serif' !important;
+    margin: 7px 0 0 15px !important;
+    padding: 0 !important;
+}
+
+#news .note div.page-navigation-menu .menu-list-container ul.triangle-bullet-list li a:hover {
+    color: #D81F00;
+    text-decoration: underline;
+}
+
+.widget-boldvisitormonitor {
+    margin: 158px 0 0 762px;
+    height: 130px !important;
+}
+
+/* School Blog */
+
+.school-blog {
+    background: #CCCCCC;
+    padding: 15px 47px 0 31px;
+}
+
+.school-blog a {
+    color: #000000;
+    text-decoration: none; 
+}
+
+.school-blog a:visited {
+    color: #000000;
+}
+
+.school-blog a:hover {
+    color: #D81F00;
+    text-decoration: underline;
+}
+
+.school-blog div.header {
+    margin-left: 1px;
+}
+
+.school-blog div.header .separator-black {
+    position: relative;
+    top: -2px;
+}
+
+.school-blog .note {
+    margin: 5px 0 13px 0;
+}
+
+.school-blog .note img {
+    width: 80px;
+    height: 80px;
+    float:left;
+}
+
+.school-blog .note .note-wrapper {
+    float: right;
+    width: 488px
+}
+
+.school-blog .note .note-wrapper .note-header {
+   padding-bottom: 1px;
+}
+
+.school-blog .note .note-wrapper .note-header a {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.school-blog .additional-info {
+    padding: 7px 0 15px 1px;
+    height: 16px;
+}
+
+.school-blog .additional-info a {
+    font-size: 13px;
+}
+
+.school-blog .additional-info .articles {
+    float:left;
+}
+
+.school-blog .additional-info .chapel-online {
+    background: url(/Media/Images/menu_bullet_triangle.gif) no-repeat 1px 5px;
+    padding: 0 2px 0 10px;
+    float: right;
+}
+
+.school-blog .additional-info .chapel-online a {
+    font-weight: 700;
+}
+
+/* Menu */
+
+div.page-navigation-menu.vertical {
+    padding: 0 !important;
+}
+
+div.page-navigation-menu.vertical ul {
+    margin: 8px 0 12px 32px !important;
+}
+
+div.page-navigation-menu.vertical ul li a:hover {
+    color: #FFFC00 !important;
+    text-decoration: none !important;
+}
+
+div.page-navigation-menu .header {
+    height: 11px;
+    width: 300px;
+    margin-left: -10px;
+    padding: 7px 0px;
+    text-align: center;
+}
+
+div.page-navigation-menu .header.blue {
+    background: url(/Media/Images/menu_header_blue.png) no-repeat;
+}
+
+div.page-navigation-menu .header.green {
+    background: url(/Media/Images/menu_header_green.png) no-repeat;
+}
+
+div.page-navigation-menu .header.black {
+    background: url(/Media/Images/menu_header_black.png) no-repeat;
+    height: 15px;
+    padding: 5px 0px;
+}
+
+.global-navigation-menu {
+    position: relative !important;
+    padding: 8px !important;
+    left: 29px !important;
+    top: 125px !important;
+    margin: 0 !important;
+}
+
+.global-navigation-menu div.page-navigation-menu {
+    width: 670px !important;
+    height: 16px !important;
+    text-align: center !important;
+    margin: 0 !important;
+    color: #FFFFFF !important;
+}
+
+.global-navigation-menu div.page-navigation-menu a {
+    font-family: 'Verdana',sans-serif !important;
+    font-size: 11px !important;
+    color: #FFFFFF !important;
+}
+
+.global-navigation-menu div.page-navigation-menu a:hover {
+    color: #FFFC00 !important;
+    text-decoration: none !important;
+}

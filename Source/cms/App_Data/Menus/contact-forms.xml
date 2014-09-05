@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<forms>
+    <form id="bookstore" name="Bookstore" email="bookstore@csbs.ca">
+        <title>Contact the Bookstore</title>
+        <description>Use this form to send the Bookstore a question or request by e-mail. If you need further assistance, please call the Bookstore office at 403.932.6622, ext. 225.</description>
+    </form>
+    <form id="business" name="Business Office" email="business@csbs.ca">
+        <title>Contact the Business Office</title>
+        <description>Use this form to send the Business Office a question or request by e-mail. If you need further assistance, please call the office at 403.932.6622, ext. 252.</description>
+    </form>
+    <form id="nehemiah" name="Church Planting" email="nehemiah@csbs.ca">
+        <title>Contact the Church Planting Office</title>
+        <description>Use this form to send the Church Planting Office a question or request by e-mail. If you need further assistance, please call the office at 403.932.6622, ext. 228.</description>
+    </form>
+    <form id="development" name="Development" email="development@csbs.ca">
+        <title>Contact the Development Office</title>
+        <description>Use this form to send the Development Office a question or request by e-mail. If you need further assistance, please call them at 403.932.6622, ext. 264.</description>
+    </form>
+    <form id="housing" name="Housing" email="business@csbs.ca">
+        <title>Contact the Housing Office</title>
+        <description>Use this form to send the Housing Office a question or request by e-mail. If you need further assistance, please call the office at 403.932.6622, ext. 252.</description>
+    </form>
+    <form id="library" name="Library" email="library@csbs.ca">
+        <title>Contact the Library</title>
+        <description>Use this form to send the Library a question or request by e-mail. If you need further assistance, please call the Library office at 403.932.6622, ext. 240.</description>
+    </form>
+    <form id="pr" name="Public Relations" email="dcave@csbs.ca">
+        <title>Contact the Public Relations Office</title>
+        <description>Use this form to send the Public Relations Office a question or request by e-mail. If you need further assistance, please call the office at 403.932.6622, ext. 256.</description>
+    </form>
+    <form id="registrar" name="Registrar" email="registrar@csbs.ca">
+        <title>Contact the Registrar</title>
+        <description>Use this form to send the Registrar a question or request by e-mail. If you need further assistance, please call the Registrar&apos;s office at 403.932.6622, ext. 221.</description>
+    </form>
+    <form id="enlistment" name="Student Enlistment" email="enlistment@csbs.ca">
+        <title>Contact Student Enlistment</title>
+        <description>Use this form to send Student Enlistment a question or request by e-mail. If you need further assistance, please call the enlistment office at 403.932.6622, ext. 251.</description>
+    </form>
+    <form id="webmaster" name="Webmaster" email="dcave@csbs.ca" displayInMenu="no">
+        <title>Contact the Webmaster</title>
+        <description>Use this form to send the Webmaster a question or request by e-mail. If you need further assistance, please call the Public Relations office at 403.932.6622, ext. 256.</description>
+    </form>
+    <form id="dlc" name="Seminarylink.com" email="steve.parsons@csbs.ca" displayInMenu="no">
+        <title>Contact Seminarylink.com</title>
+        <description>Use this form to send &lt;span style=&quot;color:red;&quot;&gt;Seminarylink.com&lt;/span&gt; a question or request by e-mail. If you need further assistance, please call the &lt;span style=&quot;color:red;&quot;&gt;Seminarylink.com&lt;/span&gt; office at 403.932.6622, ext. 241.</description>       
+    </form>
+</forms>
