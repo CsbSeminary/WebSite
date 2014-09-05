@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #000004;
-	background-color: #651F42;
+	color: #000006;
+	background-color: #F9285C;
 }
 
 .html
@@ -438,7 +438,7 @@
 
 #u8109
 {
-	z-index: 303;
+	z-index: 307;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 304;
+	z-index: 308;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 310;
+	z-index: 314;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 311;
+	z-index: 315;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,23 +504,23 @@
 
 #u9520
 {
-	z-index: 317;
+	z-index: 321;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-22
 {
 	z-index: 285;
-	width: 186px;
-	min-height: 129px;
+	width: 219px;
+	min-height: 108px;
 	margin-left: 12px;
 	margin-top: 19px;
 }
 
 #u8105
 {
-	z-index: 318;
+	z-index: 322;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -528,7 +528,7 @@
 
 #u8122
 {
-	z-index: 319;
+	z-index: 323;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;

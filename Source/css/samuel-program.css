@@ -1,7 +1,7 @@
 .version.samuel_program /* version checker */
 {
-	color: #0000EE;
-	background-color: #FA0841;
+	color: #00000E;
+	background-color: #8C40D9;
 }
 
 .html
@@ -438,7 +438,7 @@
 
 #u8109
 {
-	z-index: 364;
+	z-index: 368;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 365;
+	z-index: 369;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 371;
+	z-index: 375;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 372;
+	z-index: 376;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,23 +504,23 @@
 
 #u9520
 {
-	z-index: 378;
+	z-index: 382;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-22
 {
 	z-index: 346;
-	width: 186px;
-	min-height: 129px;
+	width: 219px;
+	min-height: 108px;
 	margin-left: 12px;
 	margin-top: 19px;
 }
 
 #u8105
 {
-	z-index: 379;
+	z-index: 383;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -528,7 +528,7 @@
 
 #u8122
 {
-	z-index: 380;
+	z-index: 384;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;

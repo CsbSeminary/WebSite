@@ -1,7 +1,7 @@
 .version.faculty /* version checker */
 {
-	color: #000014;
-	background-color: #93DF20;
+	color: #0000E4;
+	background-color: #76B981;
 }
 
 .html
@@ -440,7 +440,7 @@
 
 #u8109
 {
-	z-index: 444;
+	z-index: 448;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -450,7 +450,7 @@
 
 #u8112-6
 {
-	z-index: 445;
+	z-index: 449;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -460,7 +460,7 @@
 
 #u8107
 {
-	z-index: 451;
+	z-index: 455;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -477,7 +477,7 @@
 
 #u8108-6
 {
-	z-index: 452;
+	z-index: 456;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -506,23 +506,23 @@
 
 #u9520
 {
-	z-index: 458;
+	z-index: 462;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-22
 {
 	z-index: 426;
-	width: 186px;
-	min-height: 129px;
+	width: 219px;
+	min-height: 108px;
 	margin-left: 12px;
 	margin-top: 19px;
 }
 
 #u8105
 {
-	z-index: 459;
+	z-index: 463;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -530,7 +530,7 @@
 
 #u8122
 {
-	z-index: 460;
+	z-index: 464;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
