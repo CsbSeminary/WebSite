@@ -40,15 +40,15 @@
     <div class="field">
         <csbs:Label runat="server" Text="Image" />
         <telerik:RadTextBox runat="server" ID="ImageSrc" Width="430px" />
-        <img alt="" src="/Media/Icons/symbol-edit.gif" onclick="OpenImageManager('<%= ImageSrc.ClientID %>');" style="cursor: pointer;" />
-        <img alt="" src="/Media/Icons/view.gif" onclick="ViewImage('<%= ImageSrc.ClientID %>');" style="cursor: pointer;" />
+        <img alt="" src="/cms/Media/Icons/symbol-edit.gif" onclick="OpenImageManager('<%= ImageSrc.ClientID %>');" style="cursor: pointer;" />
+        <img alt="" src="/cms/Media/Icons/view.gif" onclick="ViewImage('<%= ImageSrc.ClientID %>');" style="cursor: pointer;" />
         <asp:RequiredFieldValidator runat="server" ControlToValidate="ImageSrc" ErrorMessage="Required" ToolTip="Required field" />
     </div>
     <div class="field">
         <csbs:Label runat="server" Text="Home Page Image" />
         <telerik:RadTextBox runat="server" ID="HomeImageSrc" Width="430px" />
-        <img alt="" src="/Media/Icons/symbol-edit.gif" onclick="OpenImageManager('<%= HomeImageSrc.ClientID %>');" style="cursor: pointer;" />
-        <img alt="" src="/Media/Icons/view.gif" onclick="ViewImage('<%= HomeImageSrc.ClientID %>');" style="cursor: pointer;" />
+        <img alt="" src="/cms/Media/Icons/symbol-edit.gif" onclick="OpenImageManager('<%= HomeImageSrc.ClientID %>');" style="cursor: pointer;" />
+        <img alt="" src="/cms/Media/Icons/view.gif" onclick="ViewImage('<%= HomeImageSrc.ClientID %>');" style="cursor: pointer;" />
         <asp:RequiredFieldValidator runat="server" ControlToValidate="HomeImageSrc" ErrorMessage="Required" ToolTip="Required field" />
     </div>
     <div class="field">

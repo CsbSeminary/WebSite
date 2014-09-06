@@ -18,7 +18,7 @@
                     <div id="widget-boldchat"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldChat.html"></iframe></div>
                     <div id="widget-boldvisitormonitor"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldSoftwareVisitorMonitor.htm"></iframe></div>
                 </asp:ContentPlaceHolder>
-                <a href="/"><img alt="" src="/Media/Images/header_slink_csbs.gif" /></a>
+                <a href="/"><img alt="" src="/cms/Media/Images/header_slink_csbs.gif" /></a>
             </div>
             <div id="globalnav"></div>
             <asp:ContentPlaceHolder runat="server" ID="cb"></asp:ContentPlaceHolder>

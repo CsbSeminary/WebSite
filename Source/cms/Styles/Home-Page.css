@@ -4,12 +4,12 @@
 }
 
 #page-center { 
-    background: url(/Media/Images/content_border_gray.gif) repeat-y;
+    background: url(/cms/Media/Images/content_border_gray.gif) repeat-y;
     width: 1000px;
 }
 
 #page-header {
-    background: url(/Media/Images/page_header_home.jpg) no-repeat; 
+    background: url(/cms/Media/Images/page_header_home.jpg) no-repeat; 
     height: 155px;    
     position: relative; 
     width: 1000px;
@@ -20,7 +20,7 @@
 }
 
 #page-body .menu-wrapper {
-    background: url(/Media/Images/home_menu_bck_opacity80.png) repeat;
+    background: url(/cms/Media/Images/home_menu_bck_opacity80.png) repeat;
     height: 570px;
     width: 280px;
     margin-top: 1px;
@@ -61,7 +61,7 @@
 }
 
 #page-footer {
-    background: url(/Media/Images/page_footer_home.jpg) no-repeat;
+    background: url(/cms/Media/Images/page_footer_home.jpg) no-repeat;
     height: 103px;
     width: 1000px;
     position: relative;
@@ -77,21 +77,22 @@
 }
 
 #request-information {
-    background-color: #ffffff;
-    width: 186px;
+    background-color: #000000;
+    width: 156px;
     height: 21px;
     position: absolute;
     padding: 4px 0 0 8px;
-    margin: 287px 0 0 743px;
-	border: 2px solid #c1272d;
+    margin: 287px 0 0 776px;
 }
 
 #request-information a {
-    font-size: 14px;
-	font-weight: 600;
-	font-style:bold
-	position: center
-    color: #000000;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+#request-information a:hover {
+    color: #D81F00;
+    text-decoration: underline;
 }
 
 #virtual-tour {
@@ -159,7 +160,7 @@
 }
 
 #news .note {
-    background: url(/Media/Images/news_background.png) no-repeat;
+    background: url(/cms/Media/Images/news_background.png) no-repeat;
     width: 149px;
     height: 119px;
     margin-bottom: 11px;
@@ -252,7 +253,7 @@
 }
 
 .school-blog .additional-info .chapel-online {
-    background: url(/Media/Images/menu_bullet_triangle.gif) no-repeat 1px 5px;
+    background: url(/cms/Media/Images/menu_bullet_triangle.gif) no-repeat 1px 5px;
     padding: 0 2px 0 10px;
     float: right;
 }
@@ -285,15 +286,15 @@ div.page-navigation-menu .header {
 }
 
 div.page-navigation-menu .header.blue {
-    background: url(/Media/Images/menu_header_blue.png) no-repeat;
+    background: url(/cms/Media/Images/menu_header_blue.png) no-repeat;
 }
 
 div.page-navigation-menu .header.green {
-    background: url(/Media/Images/menu_header_green.png) no-repeat;
+    background: url(/cms/Media/Images/menu_header_green.png) no-repeat;
 }
 
 div.page-navigation-menu .header.black {
-    background: url(/Media/Images/menu_header_black.png) no-repeat;
+    background: url(/cms/Media/Images/menu_header_black.png) no-repeat;
     height: 15px;
     padding: 5px 0px;
 }

@@ -28,11 +28,7 @@
                 <csbs:GlobalNavigationMenu runat="server" ID="GlobalNavigationMenu" MenuName="csbs.global-navigation.pages" />
             </div>
             <div id="page-body">
-                
                 <asp:ContentPlaceHolder runat="server" ID="cb"></asp:ContentPlaceHolder>
-                
-                
-
             </div>
             <div id="page-footer"></div>
         </div>

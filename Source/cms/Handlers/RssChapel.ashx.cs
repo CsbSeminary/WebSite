@@ -19,7 +19,7 @@ namespace Csbs.Handlers
             context.Response.ContentType = "text/plain";
             context.Response.Write("Hello World");
 
-            const String relativePath = "/Media/Audios/Chapel/";
+            const String relativePath = "/cms/Media/Audios/Chapel/";
             String physicalPath = context.Server.MapPath(relativePath);
 
             List<Sermon> sermons = SermonHelper.GetSermons(relativePath, physicalPath);

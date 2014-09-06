@@ -45,7 +45,7 @@
             Welcome to the CSBS Chapel page. Here you'll find most of our recent chapel services, which you can hear from your computer. You must have the Flash Player  to hear this content. Please <a href="http://get.adobe.com/flashplayer/" style="text-decoration: none" target="_blank" >click here</a> to download the latest Flash Player if you can't hear any of the content. Please contact <a href="mailto:Steve.Parsons@csbs.ca" style="text-decoration: none">CSBS</a> if you have any questions or problems with the site.
         </p>
         <p>
-            <img style="border:solid 1px #555;" src="/Media/Images/inside-chapel.jpg" />
+            <img style="border:solid 1px #555;" src="/cms/Media/Images/inside-chapel.jpg" />
             <br /><br />
         </p>
         
@@ -77,7 +77,7 @@
                     <td>
                         <div runat="server" ID="SermonPhoto" class="photo-outer">
                             <div class="photo-inner">
-                                <img src='<%# Eval("PhotoUrl") %>' width="100" height="100" />
+                                <img src='/cms/<%# Eval("PhotoUrl") %>' width="100" height="100" />
                             </div>
                         </div>
                     </td>
@@ -91,9 +91,9 @@
                         <div>
                     
                             <div class="audio-player">
-                            <object type="application/x-shockwave-flash" data="/Media/Audios/Chapel/player_mp3.swf" width="200" height="20">
-                                    <param name="movie" value="/Media/Audios/Chapel/player_mp3.swf" />
-                                    <param name="FlashVars" value="mp3=<%# Eval("AudioUrl") %>" />
+                            <object type="application/x-shockwave-flash" data="/cms/Media/Audios/Chapel/player_mp3.swf" width="200" height="20">
+                                <param name="movie" value="/cms/Media/Audios/Chapel/player_mp3.swf" />
+                                <param name="FlashVars" value="mp3=<%# Eval("AudioUrl") %>" />
                             </object>
                             </div>
                     

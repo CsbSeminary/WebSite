@@ -74,7 +74,7 @@
         </asp:PlaceHolder>
         <asp:PlaceHolder runat="server" ID="ErrorMessage"></asp:PlaceHolder>
         <asp:PlaceHolder runat="server" ID="ThanksMessage">
-		    <div class="photo right200"><img src="/Media/Images/image_forms_csbs_front_tall.jpg" alt="Canadian Southern Baptist Seminary photo"></div>
+		    <div class="photo right200"><img src="/cms/Media/Images/image_forms_csbs_front_tall.jpg" alt="Canadian Southern Baptist Seminary photo"></div>
 		    <p>Thank you for contacting us. We hope to be able to pray for you in your decisions regarding seminary.</p>
 		    <p>You can return to our main website pages at left, or if you'd like to contact another seminary department, you can do so in the contacts menu at bottom left.</p>
 		    <p>Please let us know about your experience with our website. We are still in the process of updating and optimizing the site, and would love to have your input. We invite your suggestions, problems, questions and feedback as we continue to make the site easier to use.</p>

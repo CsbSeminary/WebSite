@@ -1,5 +1,5 @@
 ﻿body {
-    background: url(/Media/Images/content_border_slink.gif) repeat center center;
+    background: url(/cms/Media/Images/content_border_slink.gif) repeat center center;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -86,7 +86,7 @@ h4 {
 }
 
 .page-side-content .page-navigation-menu.vertical .menu-section-title {
-    background-image: url(/Media/Images/menu_background_slink.gif);
+    background-image: url(/cms/Media/Images/menu_background_slink.gif);
     border-bottom: 1px solid #CCCCCC;
     border-top: 1px solid #CCCCCC;
     color: #000066;
@@ -248,7 +248,7 @@ h4 {
 }
 
 .header-title-content {
-    background-image: url(/Media/Images/menu_background_slink.gif);
+    background-image: url(/cms/Media/Images/menu_background_slink.gif);
     border-bottom: 1px solid #CCCCCC;
     border-top: 1px solid #CCCCCC;
     color: #000066;

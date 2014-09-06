@@ -58,6 +58,10 @@ namespace Csbs.Pages
                         controlPath = "~/Controls/ChapelViewer.ascx";
                         title = "Chapel";
                         break;
+                    case ScheduleViewer.ActionName:
+                        controlPath = "~/Controls/ScheduleViewer.ascx";
+                        title = "CSBS Event Calendar";
+                        break;
                 }
             }
 

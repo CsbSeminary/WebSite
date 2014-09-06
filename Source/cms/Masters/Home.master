@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head runat="server">
     <title></title>
-    <link rel="Stylesheet" type="text/css" href="/styles/csbs/default.css" />
-    <link rel="Stylesheet" type="text/css" href="/styles/home-page.css" />
+    <link rel="Stylesheet" type="text/css" href="/cms/styles/csbs/default.css" />
+    <link rel="Stylesheet" type="text/css" href="/cms/styles/home-page.css" />
     <style type="text/css">
         #page-header, #request-information { z-index: 100; }
          .slideshow { z-index: -100; }
@@ -25,25 +25,25 @@
             <div id="page-header">
                 <csbs:GlobalNavigationMenu runat="server" ID="GlobalNavigation" MenuName="csbs.global-navigation.home" />
                 <div style="position: absolute; height: 24px; width: 398px; top: 53px; left: 146px;">
-                    <a href="/pages/csbs/csbs/default.html" title="Canadian Southern Baptist Seminary">
-                        <img alt="Canadian Southern Baptist Seminary" src="~/Media/Images/tp.gif" style="height: 24px; width: 100%;" />
+                    <a href="/cms/pages/csbs/csbs/default.html" title="Canadian Southern Baptist Seminary">
+                        <img alt="Canadian Southern Baptist Seminary" src="/cms/Media/Images/tp.gif" style="height: 24px; width: 100%;" />
                     </a>
                 </div>
                 <div style="position: absolute; width: 279px; height: 24px; left: 146px; top: 77px;">
-                    <a href="/pages/csbs/cbc/default.html" title="Canadian Baptist College">
-                        <img alt="Canadian Baptist College" src="~/Media/Images/tp.gif" style="height: 24px; width: 100%;" />
+                    <a href="/cms/pages/csbs/cbc/default.html" title="Canadian Baptist College">
+                        <img alt="Canadian Baptist College" src="/cms/Media/Images/tp.gif" style="height: 24px; width: 100%;" />
                     </a>
                 </div>
                 <div style="position: absolute; height: 254px; width: 248px; top: 38px; left: 693px;">
-                    <img alt="" src="~/Media/Images/home_info.png" />
+                    <img alt="" src="/cms/Media/Images/home_info.png" />
                 </div>
             </div>
             <div id="page-body">
             <div class="widget-boldvisitormonitor"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldSoftwareVisitorMonitor.htm"></iframe></div>
-                <div id="request-information"><a href="https://www.csbssonisweb.com/webiqent.cfm" target="_blank" style="text-decoration: none">Request more information</a></div>
+                <div id="request-information"><a href="https://www.csbssonisweb.com/webiqent.cfm" target="_blank">Request more information</a></div>
                 
                 <div>
-                    <telerik:RadRotator runat="server" ID="HomeImageRotator" Width="940" Height="300" FrameDuration="5000" RotatorType="SlideShow" BannersPath="~/Media/Images/Banners" CssClass="slideshow">
+                    <telerik:RadRotator runat="server" ID="HomeImageRotator" Width="940" Height="300" FrameDuration="5000" RotatorType="SlideShow" BannersPath="/cms/Media/Images/Banners" CssClass="slideshow">
                         <SlideShowAnimation Type="CrossFade" Duration="800" />
                     </telerik:RadRotator>
                 </div>
@@ -52,51 +52,51 @@
                 </div>               
                 <div class="menu-wrapper">
                     <div class="page-navigation-menu vertical">
-                        <div class="header blue"><img alt="Canadian Southern Baptist Seminary" src="~/Media/Images/home_menu_hdr1.png" /></div>
+                        <div class="header blue"><img alt="Canadian Southern Baptist Seminary" src="/cms/Media/Images/home_menu_hdr1.png" /></div>
                         <div class="menu-list-container">
                             <ul class="triangle-bullet-list">
-                                <li><a href="/pages/csbs/csbs/master-of-divinity.html">Master of Divinity (MDiv)</a></li>
-                                <li><a href="/pages/csbs/csbs/master-of-christian-ministry.html">Master of Christian Ministry (MCMin)</a></li>
-                                <li><a href="/pages/csbs/csbs/master-of-biblical-studies.html">Master of Biblical Studies (MBS)</a></li>
-                                <li><a href="/pages/seminarylink/distance/default.html" target="_blank">SeminaryLink (Online Education)</a></li>
-                                <li><a href="/pages/csbs/csbs/csbsc-faculty.html">CSBS&C Faculty</a></li>
-								<li><a href="/pages/csbs/csbs/upcoming-seminary-classes.html">Upcoming Seminary Classes</a></li>
-                                <li><a href="/pages/csbs/admissions/seminary-application-roadmap.html">Prospective Students</a></li>
+                                <li><a href="/cms/pages/csbs/csbs/master-of-divinity.html">Master of Divinity (MDiv)</a></li>
+                                <li><a href="/cms/pages/csbs/csbs/master-of-christian-ministry.html">Master of Christian Ministry (MCMin)</a></li>
+                                <li><a href="/cms/pages/csbs/csbs/master-of-biblical-studies.html">Master of Biblical Studies (MBS)</a></li>
+                                <li><a href="/cms/pages/seminarylink/distance/default.html" target="_blank">SeminaryLink (Online Education)</a></li>
+                                <li><a href="/cms/pages/csbs/csbs/seminary-faculty.html">Meet our Seminary Faculty</a></li>
+								<li><a href="/cms/pages/csbs/csbs/upcoming-seminary-classes.html">Upcoming Seminary Classes</a></li>
+                                <li><a href="/cms/pages/csbs/admissions/seminary-application-roadmap.html">Prospective Students</a></li>
                             </ul>
                         </div>
                         <div class="separator-white"></div>
-                        <div class="header green"><img alt="Canadian Southern Baptist Seminary" src="~/Media/Images/home_menu_hdr2.png" /></div>
+                        <div class="header green"><img alt="Canadian Southern Baptist Seminary" src="/cms/Media/Images/home_menu_hdr2.png" /></div>
                         <div class="menu-list-container">
                             <ul class="triangle-bullet-list">
-                                <li><a href="/pages/csbs/cbc/bachelor-of-christian-studies.html">Bachelor of Christian Studies (BCS)</a></li>
-                                <li><a href="/pages/csbs/cbc/bachelor-of-christian-ministry.html">Bachelor of Christian Ministry (BCMin)</a></li>
-                                <li><a href="/pages/csbs/cbc/diploma-of-christian-studies.html">Diploma of Christian Studies (DCS)</a></li>
-								<li><a href="/pages/csbs/cbc/diploma-of-christian-ministry.html">Diploma of Christian Ministry (DCMin)</a></li>
-								<li><a href="/pages/csbs/cbc/certificate-of-christian-studies.html">Certificate of Christian Studies (CCS)</a></li>
-                                <li><a href="/pages/csbs/cbc/samuel-program.html">Samuel Program</a></li>
-                                <li><a href="/pages/csbs/csbs/csbsc-faculty.html">CSBS&C Faculty</a></li>
-                                <li><a href="/pages/csbs/cbc/upcoming-college-intensives.html">Upcoming College Courses</a></li>
-                                <li><a href="/pages/csbs/admissions/college-application-roadmap.html">Prospective Students</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/bachelor-of-christian-studies.html">Bachelor of Christian Studies (BCS)</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/bachelor-of-christian-ministry.html">Bachelor of Christian Ministry (BCMin)</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/diploma-of-christian-studies.html">Diploma of Christian Studies (DCS)</a></li>
+								<li><a href="/cms/pages/csbs/cbc/diploma-of-christian-ministry.html">Diploma of Christian Ministry (DCMin)</a></li>
+								<li><a href="/cms/pages/csbs/cbc/certificate-of-christian-studies.html">Certificate of Christian Studies (CCS)</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/samuel-program.html">Samuel Program</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/college-faculty.html">Meet our College Faculty</a></li>
+                                <li><a href="/cms/pages/csbs/cbc/upcoming-college-intensives.html">Upcoming College Courses</a></li>
+                                <li><a href="/cms/pages/csbs/admissions/college-application-roadmap.html">Prospective Students</a></li>
                             </ul>
                         </div>
                         <div class="separator-white"></div>
-                        <div class="header black"><img alt="Canadian Southern Baptist Seminary" src="~/Media/Images/home_menu_hdr3.png" /></div>
+                        <div class="header black"><img alt="Canadian Southern Baptist Seminary" src="/cms/Media/Images/home_menu_hdr3.png" /></div>
                         <div class="menu-list-container">
                             <ul class="triangle-bullet-list">                           
 								<li><a href="https://www.csbssonisweb.com/" target="_blank">Sonisweb Login</a></li>
-                                <li><a href="/pages/seminarylink/distance/default.html" target="_blank">SeminaryLink (Online Education)</a></li>   								
+                                <li><a href="/cms/pages/seminarylink/distance/default.html" target="_blank">SeminaryLink (Online Education)</a></li>   								
                                 <li><a href="https://www.csbssonisweb.com/GENSRsC.cfm" target="_blank">Course Information</a></li>
-                                <li><a href="/pages/csbs/current/financial-aid-for-current-students.html">Financial Aid for Current Students</a></li>                                
-                                <li><a href="~/Media/Documents/Academic_Catalogue2014-15.pdf">2014-15 Academic Catalogue</a></li>	
-								<li><a href="/pages/csbs/current/academic-calendar.html">2014-15 Academic Calendar</a></li>													
+                                <li><a href="/cms/pages/csbs/current/financial-aid-for-current-students.html">Financial Aid for Current Students</a></li>                                
+                                <li><a href="/Media/Documents/Academic_Catalogue2014-15.pdf">2014-15 Academic Catalogue</a></li>	
+								<li><a href="/cms/pages/csbs/current/academic-calendar.html">2013-14 Academic Calendar</a></li>													
                             </ul>
                         </div>
                     </div>
                     <div class="contacts">
                         <table cellpadding="0" cellspacing="0" border="0" class="csbs">
                             <tr>
-                                <td><a href="https://twitter.com/#!/CSBSeminary"><img alt="" src="~/Media/Images/icon_twitter.png" /></a></td>
-                                <td><a href="http://www.facebook.com/pages/Canadian-Southern-Baptist-Seminary-College/151490401541115"><img alt="" src="~/Media/Images/icon_facebook.png" /></a></td>
+                                <td><a href="https://twitter.com/#!/CSBSeminary"><img alt="" src="/cms/Media/Images/icon_twitter.png" /></a></td>
+                                <td><a href="http://www.facebook.com/pages/Canadian-Southern-Baptist-Seminary-College/151490401541115"><img alt="" src="/cms/Media/Images/icon_facebook.png" /></a></td>
                                 <td style="padding-left:3px;" valign="top">&lt; Follow and <br>"Like" us!</td>
                             </tr>
                         </table>
@@ -105,9 +105,11 @@
             </div>
             <div id="page-footer">
                 <div style="float: left; margin: 13px 0 0 96px;">
+                    <a href="http://certs.websiteprotection.com/sealws/?sealId=4c6ad2d8-f348-4941-be87-18740a0607d7&amp;pop=true" title="Website Protection Site Scanner Certificate">
+                        <img src="/cms/Media/Images/WP_light_notxt.gif" alt="" />
                     </a>
                 </div>
-                <div class="version">2014.6.5</div>
+                <div class="version">2013.11.5.2022</div>
             </div>
         </div>
     </div>

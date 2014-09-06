@@ -126,11 +126,11 @@ div.page-navigation-menu.vertical ul li {
 }
 
 div.page-navigation-menu.vertical ul.triangle-bullet-list li {
-    background: url(/Media/Images/menu_bullet_triangle.gif) no-repeat 1px 7px;
+    background: url(/cms/Media/Images/menu_bullet_triangle.gif) no-repeat 1px 7px;
 }
 
 div.page-navigation-menu.vertical ul.sun-bullet-list li {
-    background: url(/Media/Images/menu_bullet_sun.gif) no-repeat 0px 8px !important;
+    background: url(/cms/Media/Images/menu_bullet_sun.gif) no-repeat 0px 8px !important;
 }
 
 div.page-navigation-menu.vertical ul li a {
@@ -372,7 +372,7 @@ table.image-table .bottom-row {
 }
 
 .fees-table .dots {
-    background: url('/Media/Images/image_dot.gif') repeat-x 0px 75%;
+    background: url('/cms/Media/Images/image_dot.gif') repeat-x 0px 75%;
     width: 100%;
     height: 100%;
     float:left;
@@ -397,7 +397,7 @@ table.image-table .bottom-row {
 }
 
 .fees-table .bullet {
-    background: url('/Media/Images/menu_bullet_triangle.gif') no-repeat 0 7px;
+    background: url('/cms/Media/Images/menu_bullet_triangle.gif') no-repeat 0 7px;
     width: 15px;
 }
 
