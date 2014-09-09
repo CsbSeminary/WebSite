@@ -43,9 +43,9 @@ namespace Csbs.Controls
         protected void Page_Load(Object sender, EventArgs e)
         {
             const String relativePath = "/cms/Media/Audios/Chapel/";
-            String physicalPath = Server.MapPath(relativePath);
+            var physicalPath = Server.MapPath(relativePath);
 
-            List<Sermon> sermons = SermonHelper.GetSermons(relativePath,physicalPath);
+            var sermons = SermonHelper.GetSermons(relativePath,physicalPath);
 
             SermonRepeater.DataSource = SermonHelper.FilterSermons(CurrentSemester, sermons);
             SermonRepeater.Comparer = new SermonComparer();
@@ -64,13 +64,13 @@ namespace Csbs.Controls
             if (e.Item.ItemType != ListItemType.Item && e.Item.ItemType != ListItemType.AlternatingItem)
                 return;
 
-            HtmlGenericControl photo = (HtmlGenericControl)e.Item.FindControl("SermonPhoto");
-            HtmlTableRow heading = (HtmlTableRow)e.Item.FindControl("SermonHeading");
-            HtmlTableCell detail = (HtmlTableCell) e.Item.FindControl("SermonDetail");
+            var photo = (HtmlGenericControl)e.Item.FindControl("SermonPhoto");
+            var heading = (HtmlTableRow)e.Item.FindControl("SermonHeading");
+            var detail = (HtmlTableCell) e.Item.FindControl("SermonDetail");
 
-            Sermon sermon = (Sermon)e.Item.DataItem;
+            var sermon = (Sermon)e.Item.DataItem;
 
-            Boolean showHeading = !String.IsNullOrEmpty(sermon.Heading) && _lastHeading != sermon.Heading;
+            var showHeading = !String.IsNullOrEmpty(sermon.Heading) && _lastHeading != sermon.Heading;
             
             photo.Visible = !String.IsNullOrEmpty(sermon.PhotoUrl);
             heading.Visible = showHeading;
