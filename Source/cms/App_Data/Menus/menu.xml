@@ -109,13 +109,8 @@
     <sections>
       <section id="27" showHeader="1" html="0">
         <items>
-          <item id="91" adminOnly="0" title="Home" href="/" />
-          <item id="92" adminOnly="0" title="About us" href="/pages/csbs/about/our-vision.html" />
-          <item id="93" adminOnly="0" title="Library" href="/pages/seminarylink/library/default.html" />
-          <item id="95" adminOnly="0" title="Church Planting" href="/pages/csbs/home/church-planting.html" />
-          <item id="96" adminOnly="0" title="Partners &amp; Alumni" href="/pages/csbs/partners/partners.html" />
-          <item id="97" adminOnly="0" title="Contact us" href="/pages/csbs/home/contact-us.html" />
-          <item id="98" adminOnly="1" title="Admin" href="/Pages/admin/default.aspx" />
+          <item id="91" adminOnly="0" title="Home" href="http://www.csbs.ca" />
+          <item id="98" adminOnly="1" title="Admin" href="/Pages/Admin/Default.aspx" />
           <item id="99" adminOnly="0" title="Login" href="/signin.html" adminTitle="Logout" adminHref="/signout.html" />
         </items>
       </section>
@@ -129,7 +124,7 @@
           <item id="101" adminOnly="1" title="Edit Page" href="/Pages/admin/default.aspx?action=edit-page&amp;id={$id}" />
           <item id="102" adminOnly="1" title="Edit Article" href="/Pages/admin/default.aspx?action=edit-article&amp;id={$article_id}" />
           <item id="193" adminOnly="0" title="Articles" href="/articles/" target="_self" visibleURL="^/articles/(.+)$" />
-          <item id="103" adminOnly="0" title="Home" href="/" />
+          <item id="103" adminOnly="0" title="Home" href="http://www.csbs.ca" />
         </items>
       </section>
     </sections>
@@ -315,7 +310,7 @@
     <sections>
       <section id="46" showHeader="1" html="0" title="CSBS :: Main Menu">
         <items>
-          <item id="186" adminOnly="0" title="Home" href="/" />
+          <item id="186" adminOnly="0" title="Home" href="http://www.csbs.ca" />
           <item id="187" adminOnly="0" title="About" href="/pages/csbs/about/our-vision.html" />
           <item id="188" adminOnly="0" title="Library" href="/pages/seminarylink/library/default.html" />
           <item id="189" adminOnly="0" title="Bookstore" href="/pages/csbs/bookstore/mountain-view.html" />

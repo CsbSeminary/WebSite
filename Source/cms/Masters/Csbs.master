@@ -22,8 +22,7 @@
         <div id="page-center">
             <div id="page-header">
                 <asp:ContentPlaceHolder runat="server" ID="Widgets">
-                    <div class="widget-boldchat"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldChat.html"></iframe></div>
-                    <div class="widget-boldvisitormonitor"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowTransparency="true" src="/Snippets/BoldSoftwareVisitorMonitor.htm"></iframe></div>
+                    
                 </asp:ContentPlaceHolder>
                 <csbs:GlobalNavigationMenu runat="server" ID="GlobalNavigationMenu" MenuName="csbs.global-navigation.pages" />
             </div>

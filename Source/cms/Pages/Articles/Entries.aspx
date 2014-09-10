@@ -7,8 +7,8 @@
 
 <asp:Content runat="server" ContentPlaceHolderID="head">
     <asp:PlaceHolder runat="server" ID="HeadContent" />
-    <link rel="Stylesheet" type="text/css" href="/styles/csbs/default.css" />
-    <link rel="Stylesheet" type="text/css" href="/styles/csbs/themes/csb-gray.css" />
+    <link rel="Stylesheet" type="text/css" href="/cms/styles/csbs/default.css" />
+    <link rel="Stylesheet" type="text/css" href="/cms/styles/csbs/themes/csb-gray.css" />
 </asp:Content>
 
 <asp:Content runat="server" ContentPlaceHolderID="cb">

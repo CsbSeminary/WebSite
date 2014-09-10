@@ -96,12 +96,12 @@
         }
 
         if (doc.createStyleSheet) {
-            doc.createStyleSheet('/styles/csbs/default.css');
-            doc.createStyleSheet('/styles/articles.css');
+            doc.createStyleSheet('/cms/styles/csbs/default.css');
+            doc.createStyleSheet('/cms/styles/articles.css');
         }
         else {
-            head.appendChild(getCssLink(doc, '/styles/csbs/default.css'));
-            head.appendChild(getCssLink(doc, '/styles/articles.css'));           
+            head.appendChild(getCssLink(doc, '/cms/styles/csbs/default.css'));
+            head.appendChild(getCssLink(doc, '/cms/styles/articles.css'));
         }
     }
 

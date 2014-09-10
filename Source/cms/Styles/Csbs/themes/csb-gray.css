@@ -3,18 +3,18 @@
 }
 
 #page-center {
-    background: url(/Media/Images/content_border_gray_940.gif) repeat-y;
+    background: url(/cms/Media/Images/content_border_gray_940.gif) repeat-y;
     width: 940px;
 }
 
 #page-header {
-    background: url(/Media/Images/page_header_csb.jpg) no-repeat;
+    background: url(/cms/Media/Images/page_header_csb.jpg) no-repeat;
     height: 94px;
     width: 940px;
 }
 
 #page-footer {
-    background: url(/Media/Images/page_footer_csb.jpg) no-repeat;
+    background: url(/cms/Media/Images/page_footer_csb.jpg) no-repeat;
     height: 94px;
     width: 940px;
 }
