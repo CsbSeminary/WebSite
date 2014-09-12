@@ -1,7 +1,7 @@
 .version.college_roadmap /* version checker */
 {
-	color: #00001E;
-	background-color: #77B588;
+	color: #000003;
+	background-color: #1334C9;
 }
 
 .html
@@ -36,14 +36,14 @@
 
 #u6668
 {
-	z-index: 274;
+	z-index: 295;
 	width: 486px;
 	margin-right: -10000px;
 }
 
 #u3803
 {
-	z-index: 276;
+	z-index: 297;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -64,7 +64,7 @@
 
 #u3807
 {
-	z-index: 278;
+	z-index: 299;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -73,7 +73,7 @@
 
 #u6680
 {
-	z-index: 281;
+	z-index: 302;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -89,23 +89,23 @@
 
 #u4176,#u4176-bw
 {
-	z-index: 280;
+	z-index: 301;
 	height: 40px;
 }
 
 #pamphletu8086
 {
-	z-index: 283;
+	z-index: 304;
 	width: 0.01px;
-	height: 31px;
-	padding-bottom: 199px;
+	height: 32px;
+	padding-bottom: 204px;
 	margin-right: -10000px;
 	left: 100px;
 }
 
 #u8091
 {
-	z-index: 284;
+	z-index: 305;
 	width: 530px;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -127,7 +127,7 @@
 
 #u8097-4
 {
-	z-index: 286;
+	z-index: 307;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -156,7 +156,7 @@
 
 #u8103-4
 {
-	z-index: 291;
+	z-index: 312;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -186,7 +186,7 @@
 
 #u8099-4
 {
-	z-index: 296;
+	z-index: 317;
 	width: 101px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -216,7 +216,7 @@
 
 #u8093-4
 {
-	z-index: 301;
+	z-index: 322;
 	width: 80px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -254,7 +254,7 @@
 
 #u8101-4
 {
-	z-index: 306;
+	z-index: 327;
 	width: 77px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -290,7 +290,7 @@
 
 #u8095-5
 {
-	z-index: 311;
+	z-index: 332;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -315,26 +315,26 @@
 
 #u8104popup
 {
-	z-index: 316;
+	z-index: 337;
 }
 
 #u8104
 {
 	width: 960px;
-	top: 40px;
+	top: 39px;
 }
 
 #u8118
 {
-	z-index: 317;
+	z-index: 338;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8119-7
 {
-	z-index: 381;
+	z-index: 402;
 	width: 219px;
 	min-height: 140px;
 	margin-right: -10000px;
@@ -344,7 +344,7 @@
 
 #u9519
 {
-	z-index: 388;
+	z-index: 409;
 	width: 82px;
 	height: 9px;
 	margin-left: 152px;
@@ -352,7 +352,7 @@
 
 #u8120-33
 {
-	z-index: 318;
+	z-index: 339;
 	width: 253px;
 	min-height: 145px;
 	margin-top: 19px;
@@ -360,7 +360,7 @@
 
 #u8121-30
 {
-	z-index: 351;
+	z-index: 372;
 	width: 218px;
 	min-height: 127px;
 	margin-right: -10000px;
@@ -370,23 +370,23 @@
 
 #u8117
 {
-	z-index: 389;
+	z-index: 410;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8113
 {
-	z-index: 390;
+	z-index: 411;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8116-6
 {
-	z-index: 443;
+	z-index: 464;
 	width: 286px;
 	min-height: 116px;
 	margin-right: -10000px;
@@ -405,7 +405,7 @@
 
 #u9517
 {
-	z-index: 449;
+	z-index: 470;
 	width: 82px;
 	height: 9px;
 	margin-left: 57px;
@@ -413,7 +413,7 @@
 
 #u8114-22
 {
-	z-index: 391;
+	z-index: 412;
 	width: 253px;
 	min-height: 104px;
 	margin-top: 19px;
@@ -421,7 +421,7 @@
 
 #u8115-30
 {
-	z-index: 413;
+	z-index: 434;
 	width: 218px;
 	min-height: 148px;
 	margin-right: -10000px;
@@ -431,15 +431,15 @@
 
 #u8106
 {
-	z-index: 450;
+	z-index: 471;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 487;
+	z-index: 504;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -449,7 +449,7 @@
 
 #u8112-6
 {
-	z-index: 488;
+	z-index: 505;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -459,7 +459,7 @@
 
 #u8107
 {
-	z-index: 494;
+	z-index: 511;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -476,7 +476,7 @@
 
 #u8108-6
 {
-	z-index: 495;
+	z-index: 512;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -486,7 +486,7 @@
 
 #u8110-14
 {
-	z-index: 451;
+	z-index: 472;
 	width: 142px;
 	min-height: 128px;
 	margin-right: -10000px;
@@ -505,33 +505,33 @@
 
 #u9520
 {
-	z-index: 501;
+	z-index: 518;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-22
+#u8111-18
 {
-	z-index: 465;
-	width: 219px;
-	min-height: 108px;
+	z-index: 486;
+	width: 186px;
+	min-height: 129px;
 	margin-left: 12px;
 	margin-top: 19px;
 }
 
 #u8105
 {
-	z-index: 502;
+	z-index: 519;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 503;
+	z-index: 520;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
@@ -539,18 +539,18 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -191px;
+	margin-top: -197px;
 }
 
 #u7991,#u7991-bw
 {
-	z-index: 265;
+	z-index: 286;
 	height: 280px;
 }
 
 #u7992
 {
-	z-index: 266;
+	z-index: 287;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -559,7 +559,7 @@
 
 #u9393
 {
-	z-index: 267;
+	z-index: 288;
 	width: 960px;
 	border-style: none;
 	border-color: transparent;
@@ -571,7 +571,7 @@
 
 #u9395
 {
-	z-index: 268;
+	z-index: 289;
 	width: 960px;
 	height: 280px;
 	border-style: none;
@@ -589,7 +589,7 @@
 
 #u9394
 {
-	z-index: 269;
+	z-index: 290;
 	width: 277px;
 	border-style: none;
 	border-color: transparent;
@@ -603,7 +603,7 @@
 
 #u9396-4
 {
-	z-index: 270;
+	z-index: 291;
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
@@ -632,7 +632,7 @@
 	width: 277px;
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 10px;
+	padding-bottom: 11px;
 	position: relative;
 	margin-right: -10000px;
 	background: #CBC8C8 url("../images/texturetastic_gray.jpg") repeat left top;
@@ -644,14 +644,13 @@
 	background-size: 238px 238px;
 }
 
-#u9354-60
+#u9354-81
 {
 	z-index: 205;
 	width: 264px;
-	min-height: 407px;
+	min-height: 428px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #000000;
 	font-size: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -662,6 +661,22 @@
 #u9354-4
 {
 	color: #7F7F7F;
+}
+
+#u9354-2,#u9354-31,#u9354-33
+{
+	color: #000000;
+	font-weight: 700;
+}
+
+#u9354-5,#u9354-10,#u9354-15,#u9354-20,#u9354-25,#u9354-30,#u9354-38,#u9354-43,#u9354-53,#u9354-59,#u9354-64,#u9354-69,#u9354-74,#u9354-79
+{
+	color: #000000;
+}
+
+#u9354-34,#u9354-39,#u9354-48,#u9354-49,#u9354-54,#u9354-55,#u9354-60,#u9354-65,#u9354-70,#u9354-75
+{
+	color: #F7931E;
 }
 
 #pu9358-4
@@ -712,7 +727,7 @@
 	font-style: italic;
 }
 
-#u9354-2,#u9354-31,#u9354-33,#u9352-10,#u9352-13,#u9352-16
+#u9352-10,#u9352-13,#u9352-16
 {
 	font-weight: 700;
 }

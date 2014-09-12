@@ -1,7 +1,7 @@
 .version.job_postings /* version checker */
 {
-	color: #00000C;
-	background-color: #C13EB0;
+	color: #000009;
+	background-color: #14DA66;
 }
 
 .html
@@ -96,8 +96,8 @@
 {
 	z-index: 114;
 	width: 0.01px;
-	height: 31px;
-	padding-bottom: 199px;
+	height: 32px;
+	padding-bottom: 204px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -320,14 +320,14 @@
 #u8104
 {
 	width: 960px;
-	top: 40px;
+	top: 39px;
 }
 
 #u8118
 {
 	z-index: 148;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
@@ -371,7 +371,7 @@
 {
 	z-index: 220;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
@@ -379,7 +379,7 @@
 {
 	z-index: 221;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
@@ -432,13 +432,13 @@
 {
 	z-index: 281;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 318;
+	z-index: 314;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 319;
+	z-index: 315;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 325;
+	z-index: 321;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 326;
+	z-index: 322;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,33 +504,33 @@
 
 #u9520
 {
-	z-index: 332;
+	z-index: 328;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-22
+#u8111-18
 {
 	z-index: 296;
-	width: 219px;
-	min-height: 108px;
+	width: 186px;
+	min-height: 129px;
 	margin-left: 12px;
 	margin-top: 19px;
 }
 
 #u8105
 {
-	z-index: 333;
+	z-index: 329;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 334;
+	z-index: 330;
 	width: 960px;
-	height: 190px;
+	height: 196px;
 	margin-right: -10000px;
 }
 
@@ -538,7 +538,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -191px;
+	margin-top: -197px;
 }
 
 #u9434,#u9434-bw
@@ -583,7 +583,7 @@
 	background-color: transparent;
 	line-height: 43px;
 	margin-left: 178px;
-	margin-top: 53px;
+	margin-top: 51px;
 	position: relative;
 }
 

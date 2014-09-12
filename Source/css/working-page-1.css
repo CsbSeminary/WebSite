@@ -1,7 +1,7 @@
 .version.working_page_1 /* version checker */
 {
-	color: #0000EA;
-	background-color: #3D5E90;
+	color: #0000FF;
+	background-color: #12595E;
 }
 
 .html
@@ -1845,7 +1845,7 @@
 	height: 142px;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../images/1097254_701378106552339_4118672191041205867_o-u9593-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/noah-u9593-fr.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1893,7 +1893,7 @@
 	height: 142px;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../images/1277417_606542429369241_1971740491_o-u9596-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/noah-u9593-fr.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1942,8 +1942,13 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: #FFFFFF url("../images/1276356_602970326393118_1831605645_o-u9594-fr.jpg") no-repeat left center;
+	background: #FFFFFF url("../images/noah-u9593-fr.jpg") no-repeat left center;
 	background-size: cover;
+}
+
+.hidpi #u9593,.hidpi #u9596,.hidpi #u9594
+{
+	background-image: url("../images/noah-u9593-fr_2x.jpg");
 }
 
 #u9595-8
