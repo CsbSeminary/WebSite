@@ -1,7 +1,7 @@
 .version.student_housing /* version checker */
 {
-	color: #000002;
-	background-color: #454B95;
+	color: #0000F6;
+	background-color: #150008;
 }
 
 .html
@@ -97,7 +97,7 @@
 	z-index: 109;
 	width: 0.01px;
 	height: 32px;
-	padding-bottom: 204px;
+	padding-bottom: 198px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -327,7 +327,7 @@
 {
 	z-index: 143;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -371,7 +371,7 @@
 {
 	z-index: 215;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -379,7 +379,7 @@
 {
 	z-index: 216;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -432,13 +432,13 @@
 {
 	z-index: 276;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 309;
+	z-index: 305;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 310;
+	z-index: 306;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 316;
+	z-index: 312;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 317;
+	z-index: 313;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,12 +504,12 @@
 
 #u9520
 {
-	z-index: 323;
+	z-index: 319;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-14
 {
 	z-index: 291;
 	width: 186px;
@@ -520,17 +520,17 @@
 
 #u8105
 {
-	z-index: 324;
+	z-index: 320;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 325;
+	z-index: 321;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -538,7 +538,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #u7991,#u7991-bw

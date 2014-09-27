@@ -1,7 +1,7 @@
 .version.mdiv /* version checker */
 {
-	color: #0000E1;
-	background-color: #4B1B6E;
+	color: #00001A;
+	background-color: #ACC84C;
 }
 
 .html
@@ -97,7 +97,7 @@
 	z-index: 201;
 	width: 0.01px;
 	height: 32px;
-	padding-bottom: 204px;
+	padding-bottom: 198px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -327,7 +327,7 @@
 {
 	z-index: 235;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -371,7 +371,7 @@
 {
 	z-index: 307;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -379,7 +379,7 @@
 {
 	z-index: 308;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -432,13 +432,13 @@
 {
 	z-index: 368;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 401;
+	z-index: 397;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 402;
+	z-index: 398;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 408;
+	z-index: 404;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 409;
+	z-index: 405;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,12 +504,12 @@
 
 #u9520
 {
-	z-index: 415;
+	z-index: 411;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-14
 {
 	z-index: 383;
 	width: 186px;
@@ -520,17 +520,17 @@
 
 #u8105
 {
-	z-index: 416;
+	z-index: 412;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 417;
+	z-index: 413;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -538,7 +538,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #u7991,#u7991-bw
@@ -606,8 +606,8 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #FFFFFF;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: open-sans, sans-serif;

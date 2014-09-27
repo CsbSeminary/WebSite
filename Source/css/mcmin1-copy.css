@@ -1,7 +1,7 @@
 .version.mcmin1_copy /* version checker */
 {
-	color: #0000E1;
-	background-color: #8C596F;
+	color: #00000F;
+	background-color: #E8A455;
 }
 
 .html
@@ -97,7 +97,7 @@
 	z-index: 249;
 	width: 0.01px;
 	height: 32px;
-	padding-bottom: 204px;
+	padding-bottom: 198px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -327,7 +327,7 @@
 {
 	z-index: 283;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -371,7 +371,7 @@
 {
 	z-index: 355;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -379,7 +379,7 @@
 {
 	z-index: 356;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -432,13 +432,13 @@
 {
 	z-index: 416;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 449;
+	z-index: 445;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 450;
+	z-index: 446;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 456;
+	z-index: 452;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 457;
+	z-index: 453;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -504,12 +504,12 @@
 
 #u9520
 {
-	z-index: 463;
+	z-index: 459;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-14
 {
 	z-index: 431;
 	width: 186px;
@@ -520,17 +520,17 @@
 
 #u8105
 {
-	z-index: 464;
+	z-index: 460;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 465;
+	z-index: 461;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -538,7 +538,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #a1
@@ -615,8 +615,8 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #FFFFFF;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
@@ -780,8 +780,8 @@
 	width: 604px;
 	min-height: 51px;
 	background-color: transparent;
-	line-height: 43px;
 	font-size: 36px;
+	line-height: 43px;
 	position: relative;
 }
 

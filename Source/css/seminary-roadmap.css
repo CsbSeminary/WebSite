@@ -1,7 +1,7 @@
 .version.seminary_roadmap /* version checker */
 {
-	color: #0000EC;
-	background-color: #55385A;
+	color: #00000D;
+	background-color: #ECEBC3;
 }
 
 .html
@@ -98,7 +98,7 @@
 	z-index: 302;
 	width: 0.01px;
 	height: 32px;
-	padding-bottom: 204px;
+	padding-bottom: 198px;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -328,7 +328,7 @@
 {
 	z-index: 336;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -372,7 +372,7 @@
 {
 	z-index: 408;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -380,7 +380,7 @@
 {
 	z-index: 409;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -433,13 +433,13 @@
 {
 	z-index: 469;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8109
 {
-	z-index: 502;
+	z-index: 498;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -449,7 +449,7 @@
 
 #u8112-6
 {
-	z-index: 503;
+	z-index: 499;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -459,7 +459,7 @@
 
 #u8107
 {
-	z-index: 509;
+	z-index: 505;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -476,7 +476,7 @@
 
 #u8108-6
 {
-	z-index: 510;
+	z-index: 506;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -505,12 +505,12 @@
 
 #u9520
 {
-	z-index: 516;
+	z-index: 512;
 	width: 82px;
 	height: 9px;
 }
 
-#u8111-18
+#u8111-14
 {
 	z-index: 484;
 	width: 186px;
@@ -521,17 +521,17 @@
 
 #u8105
 {
-	z-index: 517;
+	z-index: 513;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
 #u8122
 {
-	z-index: 518;
+	z-index: 514;
 	width: 960px;
-	height: 196px;
+	height: 190px;
 	margin-right: -10000px;
 }
 
@@ -539,7 +539,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -197px;
+	margin-top: -191px;
 }
 
 #u7991,#u7991-bw
@@ -607,8 +607,8 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #FFFFFF;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
