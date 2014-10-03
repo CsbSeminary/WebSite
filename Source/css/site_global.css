@@ -185,12 +185,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.Orange-Link-on-Black a,.Black-on-White a,.Orange-on-White a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Orange-on-White a:link
 {
 	color: #F7931E;
@@ -343,36 +337,36 @@ a,.Orange-Link-on-Black a,.Black-on-White a,.Orange-on-White a
 	left: 100%;
 }
 
-.nls-None > li:before,.nls-None .list3 > li:before,.nls-None .list6 > li:before
+.nls-None > li:before,.nls-None .list3 > li:before,.nls-None .list6 > li:before,.Bullet-Style > li:before,.Bullet-Style .list3 > li:before,.Bullet-Style .list6 > li:before
 {
 	margin-right: 6px;
 	content: '•';
 }
 
-.nls-None .list1 > li:before,.nls-None .list4 > li:before,.nls-None .list7 > li:before
+.nls-None .list1 > li:before,.nls-None .list4 > li:before,.nls-None .list7 > li:before,.Bullet-Style .list1 > li:before,.Bullet-Style .list4 > li:before,.Bullet-Style .list7 > li:before
 {
 	margin-right: 6px;
 	content: '○';
 }
 
-.nls-None,.nls-None .list1,.nls-None .list2,.nls-None .list3,.nls-None .list4,.nls-None .list5,.nls-None .list6,.nls-None .list7,.nls-None .list8
+.nls-None,.nls-None .list1,.nls-None .list2,.nls-None .list3,.nls-None .list4,.nls-None .list5,.nls-None .list6,.nls-None .list7,.nls-None .list8,.Bullet-Style,.Bullet-Style .list1,.Bullet-Style .list2,.Bullet-Style .list3,.Bullet-Style .list4,.Bullet-Style .list5,.Bullet-Style .list6,.Bullet-Style .list7,.Bullet-Style .list8
 {
 	padding-left: 34px;
 }
 
-.nls-None.rtl-list,.nls-None .list1.rtl-list,.nls-None .list2.rtl-list,.nls-None .list3.rtl-list,.nls-None .list4.rtl-list,.nls-None .list5.rtl-list,.nls-None .list6.rtl-list,.nls-None .list7.rtl-list,.nls-None .list8.rtl-list
+.nls-None.rtl-list,.nls-None .list1.rtl-list,.nls-None .list2.rtl-list,.nls-None .list3.rtl-list,.nls-None .list4.rtl-list,.nls-None .list5.rtl-list,.nls-None .list6.rtl-list,.nls-None .list7.rtl-list,.nls-None .list8.rtl-list,.Bullet-Style.rtl-list,.Bullet-Style .list1.rtl-list,.Bullet-Style .list2.rtl-list,.Bullet-Style .list3.rtl-list,.Bullet-Style .list4.rtl-list,.Bullet-Style .list5.rtl-list,.Bullet-Style .list6.rtl-list,.Bullet-Style .list7.rtl-list,.Bullet-Style .list8.rtl-list
 {
 	padding-left: 0px;
 	padding-right: 34px;
 }
 
-.nls-None .list2 > li:before,.nls-None .list5 > li:before,.nls-None .list8 > li:before
+.nls-None .list2 > li:before,.nls-None .list5 > li:before,.nls-None .list8 > li:before,.Bullet-Style .list2 > li:before,.Bullet-Style .list5 > li:before,.Bullet-Style .list8 > li:before
 {
 	margin-right: 6px;
 	content: '-';
 }
 
-.nls-None.rtl-list > li:before,.nls-None .list1.rtl-list > li:before,.nls-None .list2.rtl-list > li:before,.nls-None .list3.rtl-list > li:before,.nls-None .list4.rtl-list > li:before,.nls-None .list5.rtl-list > li:before,.nls-None .list6.rtl-list > li:before,.nls-None .list7.rtl-list > li:before,.nls-None .list8.rtl-list > li:before
+.nls-None.rtl-list > li:before,.nls-None .list1.rtl-list > li:before,.nls-None .list2.rtl-list > li:before,.nls-None .list3.rtl-list > li:before,.nls-None .list4.rtl-list > li:before,.nls-None .list5.rtl-list > li:before,.nls-None .list6.rtl-list > li:before,.nls-None .list7.rtl-list > li:before,.nls-None .list8.rtl-list > li:before,.Bullet-Style.rtl-list > li:before,.Bullet-Style .list1.rtl-list > li:before,.Bullet-Style .list2.rtl-list > li:before,.Bullet-Style .list3.rtl-list > li:before,.Bullet-Style .list4.rtl-list > li:before,.Bullet-Style .list5.rtl-list > li:before,.Bullet-Style .list6.rtl-list > li:before,.Bullet-Style .list7.rtl-list > li:before,.Bullet-Style .list8.rtl-list > li:before
 {
 	margin-right: 0px;
 	margin-left: 6px;

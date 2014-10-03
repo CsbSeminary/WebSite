@@ -1,7 +1,7 @@
 .version.student_housing /* version checker */
 {
-	color: #0000F6;
-	background-color: #150008;
+	color: #000011;
+	background-color: #8F810B;
 }
 
 .html
@@ -35,14 +35,14 @@
 
 #u6668
 {
-	z-index: 100;
+	z-index: 179;
 	width: 486px;
 	margin-right: -10000px;
 }
 
 #u3803
 {
-	z-index: 102;
+	z-index: 181;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -63,7 +63,7 @@
 
 #u3807
 {
-	z-index: 104;
+	z-index: 183;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -72,7 +72,7 @@
 
 #u6680
 {
-	z-index: 107;
+	z-index: 186;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -88,13 +88,13 @@
 
 #u4176,#u4176-bw
 {
-	z-index: 106;
+	z-index: 185;
 	height: 40px;
 }
 
 #pamphletu8086
 {
-	z-index: 109;
+	z-index: 188;
 	width: 0.01px;
 	height: 32px;
 	padding-bottom: 198px;
@@ -104,7 +104,7 @@
 
 #u8091
 {
-	z-index: 110;
+	z-index: 189;
 	width: 530px;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -126,7 +126,7 @@
 
 #u8097-4
 {
-	z-index: 112;
+	z-index: 191;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -155,7 +155,7 @@
 
 #u8103-4
 {
-	z-index: 117;
+	z-index: 196;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -185,7 +185,7 @@
 
 #u8099-4
 {
-	z-index: 122;
+	z-index: 201;
 	width: 101px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -215,7 +215,7 @@
 
 #u8093-4
 {
-	z-index: 127;
+	z-index: 206;
 	width: 80px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -253,7 +253,7 @@
 
 #u8101-4
 {
-	z-index: 132;
+	z-index: 211;
 	width: 77px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -289,7 +289,7 @@
 
 #u8095-5
 {
-	z-index: 137;
+	z-index: 216;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -314,7 +314,7 @@
 
 #u8104popup
 {
-	z-index: 142;
+	z-index: 221;
 }
 
 #u8104
@@ -325,7 +325,7 @@
 
 #u8118
 {
-	z-index: 143;
+	z-index: 222;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -333,7 +333,7 @@
 
 #u8119-7
 {
-	z-index: 207;
+	z-index: 286;
 	width: 219px;
 	min-height: 140px;
 	margin-right: -10000px;
@@ -343,7 +343,7 @@
 
 #u9519
 {
-	z-index: 214;
+	z-index: 293;
 	width: 82px;
 	height: 9px;
 	margin-left: 152px;
@@ -351,7 +351,7 @@
 
 #u8120-33
 {
-	z-index: 144;
+	z-index: 223;
 	width: 253px;
 	min-height: 145px;
 	margin-top: 19px;
@@ -359,7 +359,7 @@
 
 #u8121-30
 {
-	z-index: 177;
+	z-index: 256;
 	width: 218px;
 	min-height: 127px;
 	margin-right: -10000px;
@@ -369,7 +369,7 @@
 
 #u8117
 {
-	z-index: 215;
+	z-index: 294;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -377,7 +377,7 @@
 
 #u8113
 {
-	z-index: 216;
+	z-index: 295;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -385,7 +385,7 @@
 
 #u8116-6
 {
-	z-index: 269;
+	z-index: 348;
 	width: 286px;
 	min-height: 116px;
 	margin-right: -10000px;
@@ -404,7 +404,7 @@
 
 #u9517
 {
-	z-index: 275;
+	z-index: 354;
 	width: 82px;
 	height: 9px;
 	margin-left: 57px;
@@ -412,7 +412,7 @@
 
 #u8114-22
 {
-	z-index: 217;
+	z-index: 296;
 	width: 253px;
 	min-height: 104px;
 	margin-top: 19px;
@@ -420,7 +420,7 @@
 
 #u8115-30
 {
-	z-index: 239;
+	z-index: 318;
 	width: 218px;
 	min-height: 148px;
 	margin-right: -10000px;
@@ -430,7 +430,7 @@
 
 #u8106
 {
-	z-index: 276;
+	z-index: 355;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -438,7 +438,7 @@
 
 #u8109
 {
-	z-index: 305;
+	z-index: 384;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -448,7 +448,7 @@
 
 #u8112-6
 {
-	z-index: 306;
+	z-index: 385;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #u8107
 {
-	z-index: 312;
+	z-index: 391;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -475,7 +475,7 @@
 
 #u8108-6
 {
-	z-index: 313;
+	z-index: 392;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -485,7 +485,7 @@
 
 #u8110-14
 {
-	z-index: 277;
+	z-index: 356;
 	width: 142px;
 	min-height: 128px;
 	margin-right: -10000px;
@@ -504,14 +504,14 @@
 
 #u9520
 {
-	z-index: 319;
+	z-index: 398;
 	width: 82px;
 	height: 9px;
 }
 
 #u8111-14
 {
-	z-index: 291;
+	z-index: 370;
 	width: 186px;
 	min-height: 129px;
 	margin-left: 12px;
@@ -520,7 +520,7 @@
 
 #u8105
 {
-	z-index: 320;
+	z-index: 399;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -528,7 +528,7 @@
 
 #u8122
 {
-	z-index: 321;
+	z-index: 400;
 	width: 960px;
 	height: 190px;
 	margin-right: -10000px;
@@ -556,37 +556,85 @@
 	left: 100px;
 }
 
-#u9902-6
+#u10193
+{
+	z-index: 178;
+	width: 960px;
+	height: 280px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+	background: #FFFFFF url("../images/dscn1182%20(1).jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u10193
+{
+	background-image: url("../images/dscn1182%20(1)_2x.jpg");
+}
+
+#u10185-84
 {
 	z-index: 94;
-	width: 912px;
-	min-height: 135px;
+	width: 604px;
+	min-height: 1248px;
 	background-color: transparent;
-	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
-	margin-left: 24px;
-	margin-top: 65px;
+	margin-left: 178px;
+	margin-top: 48px;
 	position: relative;
 }
 
-#u9902-2
+#u10185-2
 {
-	font-size: 48px;
-	line-height: 58px;
+	line-height: 43px;
 }
 
-#u9902-4
+#u10185-28
 {
-	font-size: 18px;
-	line-height: 22px;
+	color: #C1272D;
+}
+
+#u10185-31
+{
+	line-height: 19px;
+	color: #C1272D;
+}
+
+#u10185-51
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-style: italic;
+}
+
+#u10185-36,#u10185-37,#u10185-63
+{
+	line-height: 29px;
+}
+
+#u10185-38,#u10185-53,#u10185-65
+{
+	font-weight: 700;
+}
+
+#u10185-4,#u10185-5,#u10185-15,#u10185-16,#u10185-18,#u10185-20,#u10185-22,#u10185-23,#u10185-25,#u10185-26,#u10185-29,#u10185-32,#u10185-33,#u10185-34,#u10185-44,#u10185-45,#u10185-47,#u10185-52,#u10185-59,#u10185-60,#u10185-61,#u10185-64,#u10185-71,#u10185-72,#u10185-74,#u10185-76,#u10185-78
+{
+	line-height: 19px;
+}
+
+#u10185-49,#u10185-80,#u10185-82
+{
+	font-size: 12px;
+	line-height: 14px;
 }
 
 #pu5013
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 588px;
+	margin-top: 32px;
 }
 
 #u5013,#u5013-bw
