@@ -1,7 +1,7 @@
 .version.samuel_program /* version checker */
 {
-	color: #000006;
-	background-color: #01DFDF;
+	color: #000013;
+	background-color: #224A01;
 }
 
 .html
@@ -606,9 +606,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -665,9 +665,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -694,9 +694,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -729,9 +729,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -770,8 +770,8 @@
 	width: 604px;
 	min-height: 46px;
 	background-color: transparent;
-	font-size: 34px;
 	line-height: 41px;
+	font-size: 34px;
 	position: relative;
 }
 

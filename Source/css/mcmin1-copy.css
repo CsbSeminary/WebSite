@@ -1,7 +1,7 @@
 .version.mcmin1_copy /* version checker */
 {
-	color: #00000F;
-	background-color: #E8A455;
+	color: #0000F1;
+	background-color: #86E0CD;
 }
 
 .html
@@ -615,9 +615,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -675,9 +675,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -704,9 +704,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -739,9 +739,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -780,8 +780,8 @@
 	width: 604px;
 	min-height: 51px;
 	background-color: transparent;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	position: relative;
 }
 

@@ -355,8 +355,8 @@
 #u8112-6,#u8108-6
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	text-align: center;
 	position: relative;
 }
@@ -372,8 +372,8 @@
 #u8121-30,#u8114-22,#u8115-30,#u8110-14,#u8111-14
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -418,9 +418,9 @@
 #u5020-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 14px;
 	font-size: 12px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

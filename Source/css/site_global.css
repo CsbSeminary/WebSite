@@ -513,7 +513,6 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	display: block;
 	vertical-align: top;
-	overflow: hidden;
 }
 
 span.wrap /* used to force wrap after floated array when nested inside a paragraph */

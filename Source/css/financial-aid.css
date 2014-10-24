@@ -1,7 +1,7 @@
 .version.financial_aid /* version checker */
 {
-	color: #000013;
-	background-color: #A353C6;
+	color: #000010;
+	background-color: #352D9B;
 }
 
 .html
@@ -590,9 +590,9 @@
 	width: 240px;
 	min-height: 46px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -639,9 +639,9 @@
 	width: 264px;
 	min-height: 266px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 14px;
 	line-height: 22px;
+	font-size: 14px;
+	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;

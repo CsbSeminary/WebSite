@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #EED1FD;
+	color: #00001E;
+	background-color: #3AE8EF;
 }
 
 .html
@@ -661,9 +661,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 90px;
 	font-size: 64px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -684,9 +684,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 90px;
 	font-size: 64px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -740,9 +740,9 @@
 	width: 450px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #0071BC;
 	line-height: 29px;
 	font-size: 24px;
+	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -791,9 +791,9 @@
 	width: 217px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -837,9 +837,9 @@
 	width: 218px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -882,9 +882,9 @@
 	width: 218px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -912,9 +912,9 @@
 	z-index: 127;
 	width: 219px;
 	background-color: transparent;
-	color: #0071BC;
 	line-height: 29px;
 	font-size: 24px;
+	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -961,9 +961,9 @@
 	z-index: 139;
 	width: 219px;
 	background-color: transparent;
-	color: #0071BC;
 	line-height: 29px;
 	font-size: 24px;
+	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1025,9 +1025,9 @@
 	z-index: 152;
 	width: 219px;
 	background-color: transparent;
-	color: #0071BC;
 	line-height: 29px;
 	font-size: 24px;
+	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

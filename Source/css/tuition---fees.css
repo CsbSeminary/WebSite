@@ -1,7 +1,7 @@
 .version.tuition___fees /* version checker */
 {
-	color: #0000ED;
-	background-color: #22DDE6;
+	color: #000006;
+	background-color: #626017;
 }
 
 .html
@@ -591,9 +591,9 @@
 	width: 240px;
 	min-height: 46px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
 	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -634,9 +634,9 @@
 	width: 264px;
 	min-height: 266px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 14px;
 	line-height: 22px;
+	font-size: 14px;
+	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
@@ -764,8 +764,8 @@
 	width: 605px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #C1272D;
 	line-height: 14px;
+	color: #C1272D;
 	margin-left: 331px;
 	margin-top: 7px;
 	position: relative;

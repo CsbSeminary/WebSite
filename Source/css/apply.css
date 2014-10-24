@@ -1,7 +1,7 @@
 .version.apply /* version checker */
 {
-	color: #000002;
-	background-color: #B4C75D;
+	color: #000013;
+	background-color: #EC2704;
 }
 
 .html
@@ -69,10 +69,10 @@
 	width: 195px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 22px;
-	color: #FFFFFF;
-	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 75px;
@@ -122,10 +122,10 @@
 	width: 190px;
 	min-height: 53px;
 	background-color: transparent;
-	line-height: 22px;
-	color: #FFFFFF;
-	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 70px;

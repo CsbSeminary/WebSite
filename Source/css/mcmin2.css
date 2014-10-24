@@ -1,7 +1,7 @@
 .version.mcmin2 /* version checker */
 {
-	color: #00000A;
-	background-color: #EC606B;
+	color: #000011;
+	background-color: #7D15FA;
 }
 
 .html
@@ -679,9 +679,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -708,9 +708,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -743,9 +743,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -784,8 +784,8 @@
 	width: 604px;
 	min-height: 51px;
 	background-color: transparent;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	position: relative;
 }
 
