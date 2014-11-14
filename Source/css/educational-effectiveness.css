@@ -1,7 +1,7 @@
 .version.educational_effectiveness /* version checker */
 {
-	color: #000019;
-	background-color: #BB7046;
+	color: #000005;
+	background-color: #D7B2D7;
 }
 
 .html
@@ -595,11 +595,11 @@
 {
 	z-index: 92;
 	width: 604px;
-	min-height: 59px;
+	min-height: 45px;
 	background-color: transparent;
 	line-height: 43px;
-	margin-left: 101px;
-	margin-top: 58px;
+	margin-left: 178px;
+	margin-top: 57px;
 	position: relative;
 }
 
@@ -607,10 +607,11 @@
 {
 	z-index: 96;
 	width: 604px;
-	min-height: 353px;
+	min-height: 354px;
 	background-color: transparent;
 	line-height: 19px;
-	margin-left: 101px;
+	margin-left: 178px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -622,7 +623,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 101px;
+	margin-left: 178px;
 	margin-top: 8px;
 	position: relative;
 }
@@ -633,7 +634,7 @@
 	width: 604px;
 	background-color: transparent;
 	line-height: 14px;
-	margin-left: 101px;
+	margin-left: 178px;
 	position: relative;
 }
 
@@ -641,7 +642,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 238px;
+	margin-top: 239px;
 }
 
 #u5013,#u5013-bw

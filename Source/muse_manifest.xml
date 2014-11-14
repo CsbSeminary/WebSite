@@ -1,6 +1,6 @@
-<manifest alg="2" build="569" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1414188729952" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1415990841155" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="508786282"/>
+    <file name="site_global.css" crc="263962979"/>
     <file name="master_b-master.css" crc="4062901423" ref="mbs:mcmin3:mcmin2:student-housing:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:mcmin1-copy:mdiv:dcmin:ccs:dcs:bcmin:students:staff:bcs:upcoming-classes:college-roadmap:mcs2"/>
     <file name="master_a-master.css" crc="49401244" ref="financial-aid:mbs:mcmin3:tuition---fees:mcmin2:student-housing:location:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:give:mcmin1-copy:index:mdiv:contact:vision:accreditation:dcmin:about:ccs:privacy-policy:dcs:seminary:job-postings:bcmin:students:college:staff:bcs:donate:educational-effectiveness:upcoming-classes:college-roadmap:mcs2"/>
     <file name="master_c-master.css" crc="3999787319" ref="financial-aid:tuition---fees:location:give:contact:vision:accreditation:privacy-policy:job-postings:donate:educational-effectiveness"/>
@@ -43,8 +43,8 @@
     <file name="iefonts_mdiv.css" crc="453137400" ref="mdiv"/>
     <file name="contact.css" crc="4106119715" ref="contact"/>
     <file name="iefonts_contact.css" crc="4172568425" ref="contact"/>
-    <file name="vision.css" crc="212427123" ref="vision"/>
-    <file name="iefonts_vision.css" crc="486258838" ref="vision"/>
+    <file name="vision.css" crc="3833352782" ref="vision"/>
+    <file name="iefonts_vision.css" crc="4172568425" ref="vision"/>
     <file name="accreditation.css" crc="100078637" ref="accreditation"/>
     <file name="iefonts_accreditation.css" crc="4276249776" ref="accreditation"/>
     <file name="dcmin.css" crc="259012626" ref="dcmin"/>
@@ -75,7 +75,7 @@
     <file name="iefonts_bcs.css" crc="3968182362" ref="bcs"/>
     <file name="donate.css" crc="3887938720" ref="donate"/>
     <file name="iefonts_donate.css" crc="4172568425" ref="donate"/>
-    <file name="educational-effectiveness.css" crc="431714374" ref="educational-effectiveness"/>
+    <file name="educational-effectiveness.css" crc="98022103" ref="educational-effectiveness"/>
     <file name="iefonts_educational-effectiveness.css" crc="4172568425" ref="educational-effectiveness"/>
     <file name="upcoming-classes.css" crc="446905990" ref="upcoming-classes"/>
     <file name="iefonts_upcoming-classes.css" crc="401982545" ref="upcoming-classes"/>
@@ -115,15 +115,15 @@
     <file name="privacy-policy-october-2013.pdf" crc="322584465" mt="1412378065000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
-    <file name="museutils.js" crc="4050293121" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
+    <file name="museutils.js" crc="3777594392" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
     <file name="pie.js" crc="3827607177" ref="index:mcs:faculty:mcs2:staff:working-page-1:financial-aid:apply"/>
-    <file name="jquery.watch.js" crc="3946357177" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
-    <file name="webpro.js" crc="140723489" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
-    <file name="musewpslideshow.js" crc="4170221289" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
-    <file name="jquery.museoverlay.js" crc="439400757" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
-    <file name="touchswipe.js" crc="321465556" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="84270510" ref="contact:give:mdiv:seminary-roadmap:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:staff:job-postings:mcmin1-copy:working-page-1:tuition---fees:financial-aid:college-roadmap:privacy-policy:international-students:student-housing:educational-effectiveness"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home"/>
+    <file name="webpro.js" crc="474087315" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="contact:give:mdiv:seminary-roadmap:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:staff:job-postings:mcmin1-copy:working-page-1:tuition---fees:financial-aid:college-roadmap:privacy-policy:international-students:student-housing:educational-effectiveness:vision"/>
   </folder>
   <folder name="images">
     <file name="logocsbs_ver5a(colour).png" crc="4258501730" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap"/>
@@ -239,46 +239,47 @@
     <file name="dscn1182 (1)_2x.jpg" crc="262926368" ref="student-housing"/>
     <file name="csbs_anita-john.jpg" crc="3872326234" ref="educational-effectiveness"/>
     <file name="csbs_anita-john_2x.jpg" crc="4055438641" ref="educational-effectiveness"/>
+    <file name="dsc_06272.jpg" crc="229705531" ref="vision"/>
   </folder>
-  <file name="index.html" crc="60155461" mt="1414188111559" redirect="true"/>
-  <file name="college.html" crc="380638365" mt="1412357790634" redirect="true"/>
-  <file name="seminary.html" crc="4011775819" mt="1412357790635" redirect="true"/>
-  <file name="about.html" crc="108574342" mt="1412357790635" redirect="true"/>
-  <file name="contact.html" crc="78209202" mt="1414188102517" redirect="true"/>
-  <file name="give.html" crc="396982234" mt="1414188111560" redirect="true"/>
-  <file name="donate.html" crc="4086863592" mt="1414188102518" redirect="true"/>
-  <file name="students.html" crc="384456131" mt="1414188102472" redirect="true"/>
-  <file name="apply.html" crc="395446982" mt="1408771375669" redirect="true"/>
-  <file name="mcs.html" crc="4129295341" mt="1410543637624" redirect="true"/>
-  <file name="mdiv.html" crc="373284410" mt="1414188102473" redirect="true"/>
-  <file name="seminary-roadmap.html" crc="237595012" mt="1414188102474" redirect="true"/>
-  <file name="faculty.html" crc="387872851" mt="1414188113576" redirect="true"/>
-  <file name="mcmin1.html" crc="486131401" mt="1414188102476" redirect="true"/>
-  <file name="mcmin2.html" crc="319048124" mt="1414188102477" redirect="true"/>
-  <file name="mcmin3.html" crc="4248607349" mt="1414188102478" redirect="true"/>
-  <file name="mbs.html" crc="4073179168" mt="1414188102479" redirect="true"/>
-  <file name="mcs2.html" crc="186975484" mt="1414188102480" redirect="true"/>
-  <file name="upcoming-classes.html" crc="4271596961" mt="1414188102481" redirect="true"/>
-  <file name="bcs.html" crc="4083468032" mt="1414188102482" redirect="true"/>
-  <file name="bcmin.html" crc="4124497160" mt="1414188102482" redirect="true"/>
-  <file name="dcs.html" crc="85179992" mt="1414188102483" redirect="true"/>
-  <file name="dcmin.html" crc="4156171241" mt="1414188102484" redirect="true"/>
-  <file name="ccs.html" crc="3778969747" mt="1414188102485" redirect="true"/>
-  <file name="samuel-program.html" crc="536472407" mt="1414188102485" redirect="true"/>
-  <file name="history.html" crc="453144957" mt="1414188102486" redirect="true"/>
-  <file name="location.html" crc="236202049" mt="1414188102520" redirect="true"/>
-  <file name="vision.html" crc="410669030" mt="1414188102521" redirect="true"/>
-  <file name="staff.html" crc="102815178" mt="1414188113577" redirect="true"/>
-  <file name="educational-effectiveness.html" crc="461990339" mt="1414188149003" redirect="true"/>
-  <file name="job-postings.html" crc="3765107937" mt="1414188102523" redirect="true"/>
-  <file name="privacy-policy.html" crc="4105114901" mt="1414188102523" redirect="true"/>
-  <file name="accreditation.html" crc="353224400" mt="1414188102524" redirect="true"/>
-  <file name="mcmin1-copy.html" crc="197736930" mt="1414188102488" redirect="true"/>
-  <file name="working-page-1.html" crc="523249245" mt="1414188111561" redirect="true"/>
-  <file name="international-students.html" crc="340353044" mt="1414188102488" redirect="true"/>
-  <file name="student-housing.html" crc="3846443177" mt="1414188102489" redirect="true"/>
-  <file name="tuition---fees.html" crc="394682325" mt="1414188102525" redirect="true"/>
-  <file name="financial-aid.html" crc="82152249" mt="1414188102525" redirect="true"/>
-  <file name="college-roadmap.html" crc="287374709" mt="1414188102490" redirect="true"/>
-  <file name="home.html" crc="4002829002" mt="1408768283892" redirect="true"/>
+  <file name="index.html" crc="284819950" mt="1414188111559" redirect="true"/>
+  <file name="college.html" crc="4150568057" mt="1412357790634" redirect="true"/>
+  <file name="seminary.html" crc="74404003" mt="1412357790635" redirect="true"/>
+  <file name="about.html" crc="418187226" mt="1412357790635" redirect="true"/>
+  <file name="contact.html" crc="24509109" mt="1414188102517" redirect="true"/>
+  <file name="give.html" crc="3979295757" mt="1414188111560" redirect="true"/>
+  <file name="donate.html" crc="233297298" mt="1414188102518" redirect="true"/>
+  <file name="students.html" crc="436102725" mt="1414188102472" redirect="true"/>
+  <file name="apply.html" crc="4031408378" mt="1408771375669" redirect="true"/>
+  <file name="mcs.html" crc="3782345336" mt="1410543637624" redirect="true"/>
+  <file name="mdiv.html" crc="4149852703" mt="1414188102473" redirect="true"/>
+  <file name="seminary-roadmap.html" crc="3945158828" mt="1414188102474" redirect="true"/>
+  <file name="faculty.html" crc="4244764953" mt="1414188113576" redirect="true"/>
+  <file name="mcmin1.html" crc="4146587668" mt="1414188102476" redirect="true"/>
+  <file name="mcmin2.html" crc="187546290" mt="1414188102477" redirect="true"/>
+  <file name="mcmin3.html" crc="3931059892" mt="1414188102478" redirect="true"/>
+  <file name="mbs.html" crc="4022537706" mt="1414188102479" redirect="true"/>
+  <file name="mcs2.html" crc="4249206829" mt="1414188102480" redirect="true"/>
+  <file name="upcoming-classes.html" crc="2057388" mt="1414188102481" redirect="true"/>
+  <file name="bcs.html" crc="4090021445" mt="1414188102482" redirect="true"/>
+  <file name="bcmin.html" crc="3844684121" mt="1414188102482" redirect="true"/>
+  <file name="dcs.html" crc="4189593438" mt="1414188102483" redirect="true"/>
+  <file name="dcmin.html" crc="4178564124" mt="1414188102484" redirect="true"/>
+  <file name="ccs.html" crc="516978658" mt="1414188102485" redirect="true"/>
+  <file name="samuel-program.html" crc="4288854495" mt="1414188102485" redirect="true"/>
+  <file name="history.html" crc="345937032" mt="1414188102486" redirect="true"/>
+  <file name="location.html" crc="3877093541" mt="1414188102520" redirect="true"/>
+  <file name="vision.html" crc="4177211835" mt="1415990162874" redirect="true"/>
+  <file name="staff.html" crc="107848378" mt="1414188113577" redirect="true"/>
+  <file name="educational-effectiveness.html" crc="136246782" mt="1415990208102" redirect="true"/>
+  <file name="job-postings.html" crc="523810735" mt="1414188102523" redirect="true"/>
+  <file name="privacy-policy.html" crc="424037145" mt="1414188102523" redirect="true"/>
+  <file name="accreditation.html" crc="4014922450" mt="1414188102524" redirect="true"/>
+  <file name="mcmin1-copy.html" crc="516677764" mt="1414188102488" redirect="true"/>
+  <file name="working-page-1.html" crc="3823455484" mt="1414188111561" redirect="true"/>
+  <file name="international-students.html" crc="323049826" mt="1414188102488" redirect="true"/>
+  <file name="student-housing.html" crc="187358379" mt="1414188102489" redirect="true"/>
+  <file name="tuition---fees.html" crc="3759356536" mt="1414188102525" redirect="true"/>
+  <file name="financial-aid.html" crc="257645455" mt="1414188102525" redirect="true"/>
+  <file name="college-roadmap.html" crc="489577064" mt="1414188102490" redirect="true"/>
+  <file name="home.html" crc="4039951973" mt="1408768283892" redirect="true"/>
 </manifest>
