@@ -157,6 +157,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.csbs.ca/assets/online-registration-form-spring-2015.pdf</loc>
+    <lastmod>2014-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.csbs.ca/images/logocsbs_ver5a(colour).png</loc>
     <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -841,50 +847,56 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.csbs.ca/images/_dsc0220.jpg</loc>
+    <lastmod>2014-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.csbs.ca/index.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/college.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/seminary.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/about.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/contact.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/give.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/donate.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/students.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -902,103 +914,103 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/mdiv.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/seminary-roadmap.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/faculty.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin1.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin2.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin3.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mbs.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcs2.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/upcoming-classes.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/bcs.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/bcmin.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/dcs.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/dcmin.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/ccs.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/samuel-program.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/history.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/location.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1010,7 +1022,7 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/staff.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1022,25 +1034,25 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/job-postings.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/privacy-policy.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/accreditation.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin1-copy.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1052,37 +1064,49 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/international-students.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/student-housing.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/tuition---fees.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/financial-aid.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/college-roadmap.html</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/home.html</loc>
     <lastmod>2014-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/upcoming-classes---college.html</loc>
+    <lastmod>2014-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/upcoming-classes---seminary.html</loc>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
