@@ -1,0 +1,41 @@
+#u10692-6
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	position: relative;
+}
+
+#u10750
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10690
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 15px 15px 0px 0px ;
+	-webkit-border-radius: 15px 15px 0px 0px ;
+	-khtml-border-radius: 15px 15px 0px 0px ;
+	border-radius: 15px 15px 0px 0px ;
+	position: relative;
+	background: #FFFFFF url("../images/_dsc0220-ieu10690-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/_dsc0220.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+.hidpi #u10690
+{
+	background-image: url("../images/_dsc0220_2x.jpg");
+}
+
+#u10741
+{
+	border-color: #000000;
+	background-color: #C1272D;
+	position: relative;
+}
+

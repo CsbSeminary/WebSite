@@ -1,7 +1,7 @@
 .version.upcoming_classes___college /* version checker */
 {
-	color: #000018;
-	background-color: #5A2D75;
+	color: #000016;
+	background-color: #4D1981;
 }
 
 .html
@@ -585,7 +585,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/_dsc0220.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/_dsc02202.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -601,8 +601,8 @@
 	width: 900px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #FFFFFF;
+	line-height: 43px;
 	margin-left: 20px;
 	top: -25px;
 	margin-bottom: -25px;
@@ -620,8 +620,8 @@
 	width: 604px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #C1272D;
+	line-height: 43px;
 	margin-left: 178px;
 	margin-top: 63px;
 	position: relative;
@@ -681,8 +681,8 @@
 	width: 604px;
 	min-height: 52px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #C1272D;
+	line-height: 43px;
 	margin-left: 178px;
 	margin-top: 62px;
 	position: relative;
@@ -765,7 +765,7 @@
 	-webkit-border-radius: 10px;
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
-	padding-bottom: 27px;
+	padding-bottom: 15px;
 	margin-left: 178px;
 	margin-top: 21px;
 	position: relative;
@@ -775,7 +775,7 @@
 {
 	z-index: 168;
 	width: 568px;
-	min-height: 225px;
+	min-height: 187px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -796,7 +796,7 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 27px;
-	margin-left: 178px;
+	margin-left: 177px;
 	margin-top: 21px;
 	position: relative;
 }
@@ -826,7 +826,7 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 23px;
-	margin-left: 178px;
+	margin-left: 177px;
 	margin-top: 20px;
 	position: relative;
 }
@@ -856,7 +856,7 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 27px;
-	margin-left: 176px;
+	margin-left: 175px;
 	margin-top: 21px;
 	position: relative;
 }
@@ -896,7 +896,7 @@
 	width: 604px;
 	min-height: 158px;
 	background-color: transparent;
-	margin-left: 178px;
+	margin-left: 177px;
 	margin-top: 22px;
 	position: relative;
 }

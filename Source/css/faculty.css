@@ -1,7 +1,7 @@
 .version.faculty /* version checker */
 {
-	color: #000004;
-	background-color: #9D6B6B;
+	color: #00001D;
+	background-color: #7597F4;
 }
 
 .html
@@ -1036,8 +1036,8 @@
 	z-index: 212;
 	width: 604px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #C1272D;
+	line-height: 29px;
 	margin-left: 178px;
 	margin-top: 50px;
 	position: relative;

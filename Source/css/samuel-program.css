@@ -1,7 +1,7 @@
 .version.samuel_program /* version checker */
 {
-	color: #000019;
-	background-color: #03E61F;
+	color: #0000E4;
+	background-color: #8F0AF3;
 }
 
 .html
@@ -615,9 +615,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
 	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 43px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -779,8 +779,8 @@
 	width: 604px;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 41px;
 	font-size: 34px;
+	line-height: 41px;
 	position: relative;
 }
 
