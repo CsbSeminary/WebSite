@@ -83,13 +83,13 @@ body
 
 a:link
 {
-	color: #000000;
+	color: #FFFFFF;
 	text-decoration: inherit;
 }
 
 a:visited
 {
-	color: #000000;
+	color: #FFFFFF;
 	text-decoration: inherit;
 }
 
@@ -101,7 +101,7 @@ a:hover
 
 a:active
 {
-	color: #FBB03B;
+	color: #FFFFFF;
 	text-decoration: underline;
 }
 
@@ -161,6 +161,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
+.Orange-Link-on-Black a,.Black-on-White a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Black-on-White a:link
 {
 	color: #000000;
@@ -185,16 +191,10 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.Orange-Link-on-Black a,.Black-on-White a,.Orange-on-White a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Orange-on-White a:link
 {
 	color: #F7931E;
-	text-decoration: inherit;
+	text-decoration: none;
 }
 
 .Orange-on-White a:visited
@@ -318,6 +318,16 @@ a,.Orange-Link-on-Black a,.Black-on-White a,.Orange-on-White a
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 20px;
+	padding: 0px;
+}
+
+.Paragraph-Style-1,.Paragraph-Style-3
+{
+	color: #999999;
+	font-family: open-sans, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 15px;
 	padding: 0px;
 }
 

@@ -1,7 +1,7 @@
 .version.tuition___fees /* version checker */
 {
-	color: #000017;
-	background-color: #C5DB85;
+	color: #000007;
+	background-color: #2F7863;
 }
 
 .html
@@ -643,8 +643,8 @@
 	width: 264px;
 	min-height: 266px;
 	background-color: transparent;
-	color: #000000;
 	font-size: 14px;
+	color: #000000;
 	line-height: 22px;
 	position: relative;
 	margin-right: -10000px;

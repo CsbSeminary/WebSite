@@ -43,8 +43,8 @@
 #u8412-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -115,5 +115,10 @@
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u8446_align_to_page
+{
+	position: relative;
 }
 

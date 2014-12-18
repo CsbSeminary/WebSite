@@ -1,7 +1,7 @@
 .version.working_page_1 /* version checker */
 {
-	color: #00001D;
-	background-color: #A43D24;
+	color: #0000F5;
+	background-color: #A7E9CB;
 }
 
 .html
@@ -53,8 +53,8 @@
 	z-index: 107;
 	width: 296px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -69,8 +69,8 @@
 	width: 607px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #0071BC;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -92,9 +92,9 @@
 	width: 219px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 26px;
-	font-size: 22px;
 	color: #1B1464;
+	font-size: 22px;
+	line-height: 26px;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -109,9 +109,9 @@
 	width: 451px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 26px;
-	font-size: 22px;
 	color: #1B1464;
+	font-size: 22px;
+	line-height: 26px;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -125,8 +125,8 @@
 	width: 130px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 16px;
 	font-size: 13px;
+	line-height: 16px;
 	text-align: right;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -141,8 +141,8 @@
 	width: 219px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 716px;
@@ -194,8 +194,8 @@
 	width: 218px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 681px;
@@ -222,8 +222,8 @@
 	width: 218px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 681px;
@@ -251,8 +251,8 @@
 	width: 217px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 681px;
@@ -302,8 +302,8 @@
 	width: 217px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -333,8 +333,8 @@
 	width: 217px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -349,8 +349,8 @@
 	width: 142px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 16px;
 	font-size: 13px;
+	line-height: 16px;
 	text-align: right;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -365,9 +365,9 @@
 	z-index: 111;
 	width: 200px;
 	background-color: transparent;
-	line-height: 29px;
-	font-size: 24px;
 	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -477,9 +477,9 @@
 	width: 181px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
 	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 43px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -520,9 +520,9 @@
 	width: 181px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
 	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 43px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -575,8 +575,8 @@
 	width: 373px;
 	min-height: 99px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 7px;
@@ -615,9 +615,9 @@
 	width: 212px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
 	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 43px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -740,8 +740,8 @@
 	width: 89px;
 	min-height: 17px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -815,8 +815,8 @@
 	width: 89px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -890,8 +890,8 @@
 	width: 89px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -991,8 +991,8 @@
 	width: 89px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -1094,8 +1094,8 @@
 	width: 89px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -1152,8 +1152,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1218,8 +1218,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1274,8 +1274,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1338,8 +1338,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1411,8 +1411,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1515,8 +1515,8 @@
 	width: 517px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	top: -4px;
@@ -1582,8 +1582,8 @@
 	width: 517px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	top: -4px;
@@ -1612,13 +1612,13 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	background: #CBC8C8 url("../images/noah-u9631-fr.jpg") no-repeat left top;
+	background: #CBC8C8 url("../images/noah-u9653-fr.jpg") no-repeat left top;
 	background-size: cover;
 }
 
 .hidpi #u9533
 {
-	background-image: url("../images/noah-u9631-fr_2x.jpg");
+	background-image: url("../images/noah-u9653-fr_2x.jpg");
 }
 
 #u9534-6
@@ -1649,8 +1649,8 @@
 	width: 517px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	top: -4px;
@@ -1716,8 +1716,8 @@
 	width: 517px;
 	min-height: 65px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	top: -4px;
@@ -1855,8 +1855,8 @@
 	width: 142px;
 	min-height: 57px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 5px;
@@ -1869,8 +1869,8 @@
 	width: 142px;
 	min-height: 171px;
 	background-color: transparent;
-	line-height: 18px;
 	font-size: 14px;
+	line-height: 18px;
 	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1903,8 +1903,8 @@
 	width: 142px;
 	min-height: 97px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 7px;
@@ -1917,8 +1917,8 @@
 	width: 142px;
 	min-height: 68px;
 	background-color: transparent;
-	line-height: 18px;
 	font-size: 14px;
+	line-height: 18px;
 	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -1957,8 +1957,8 @@
 	width: 142px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 8px;
@@ -1971,8 +1971,8 @@
 	width: 142px;
 	min-height: 68px;
 	background-color: transparent;
-	line-height: 18px;
 	font-size: 14px;
+	line-height: 18px;
 	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
