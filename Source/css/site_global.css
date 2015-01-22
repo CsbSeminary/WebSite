@@ -161,12 +161,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.Orange-Link-on-Black a,.Black-on-White a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Black-on-White a:link
 {
 	color: #000000;

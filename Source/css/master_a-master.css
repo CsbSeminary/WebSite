@@ -355,8 +355,8 @@
 #u8112-6,#u8108-6
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	text-align: center;
 	position: relative;
 }
@@ -419,8 +419,8 @@
 {
 	background-color: transparent;
 	font-size: 12px;
-	line-height: 14px;
 	color: #FFFFFF;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

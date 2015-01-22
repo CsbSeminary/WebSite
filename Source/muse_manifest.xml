@@ -1,8 +1,8 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1418925004970" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1421885279659" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="12626025"/>
+    <file name="site_global.css" crc="3917930087"/>
     <file name="master_b-master.css" crc="4062901423" ref="mbs:mcmin3:mcmin2:student-housing:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:mcmin1-copy:mdiv:dcmin:ccs:dcs:bcmin:students:staff:bcs:college-roadmap:mcs2"/>
-    <file name="master_a-master.css" crc="4179940135" ref="financial-aid:mbs:mcmin3:tuition---fees:mcmin2:student-housing:location:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:give:mcmin1-copy:index:mdiv:contact:vision:accreditation:dcmin:about:ccs:privacy-policy:dcs:seminary:job-postings:bcmin:students:college:staff:bcs:donate:educational-effectiveness:college-roadmap:mcs2:upcoming-classes---seminary:upcoming-classes---college"/>
+    <file name="master_a-master.css" crc="3824605559" ref="financial-aid:mbs:mcmin3:tuition---fees:mcmin2:student-housing:location:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:give:mcmin1-copy:index:mdiv:contact:vision:accreditation:dcmin:about:ccs:privacy-policy:dcs:seminary:job-postings:bcmin:students:college:staff:bcs:donate:educational-effectiveness:college-roadmap:mcs2:upcoming-classes---seminary:upcoming-classes---college"/>
     <file name="master_c-master.css" crc="3999787319" ref="financial-aid:tuition---fees:location:give:contact:vision:accreditation:privacy-policy:job-postings:donate:educational-effectiveness:upcoming-classes---seminary:upcoming-classes---college"/>
     <file name="master_d-master.css" crc="89937049" ref="mcs:article---virtual-classes"/>
     <file name="financial-aid.css" crc="23672796" ref="financial-aid"/>
@@ -37,7 +37,7 @@
     <file name="iefonts_give.css" crc="4290480017" ref="give"/>
     <file name="mcmin1-copy.css" crc="185306378" ref="mcmin1-copy"/>
     <file name="iefonts_mcmin1-copy.css" crc="4024215535" ref="mcmin1-copy"/>
-    <file name="index.css" crc="4055330266" ref="index"/>
+    <file name="index.css" crc="12050850" ref="index"/>
     <file name="iefonts_index.css" crc="303921026" ref="index"/>
     <file name="mdiv.css" crc="4248521337" ref="mdiv"/>
     <file name="iefonts_mdiv.css" crc="4004788944" ref="mdiv"/>
@@ -263,7 +263,7 @@
     <file name="online-class-tips.jpg" crc="476992748" ref="article---virtual-classes"/>
     <file name="online-class-tips_2x.jpg" crc="502988880" ref="article---virtual-classes"/>
   </folder>
-  <file name="index.html" crc="3833573934" mt="1418924069643" redirect="true"/>
+  <file name="index.html" crc="426789837" mt="1421885046798" redirect="true"/>
   <file name="college.html" crc="3853828332" mt="1418922876120" redirect="true"/>
   <file name="seminary.html" crc="302736165" mt="1418922876120" redirect="true"/>
   <file name="about.html" crc="3993952542" mt="1418922876121" redirect="true"/>
