@@ -1,7 +1,7 @@
 .version.mcmin1_copy /* version checker */
 {
-	color: #00000B;
-	background-color: #0B8D0A;
+	color: #0000F7;
+	background-color: #06E506;
 }
 
 .html
@@ -624,9 +624,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -789,8 +789,8 @@
 	width: 604px;
 	min-height: 51px;
 	background-color: transparent;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	position: relative;
 }
 

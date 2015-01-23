@@ -1,7 +1,7 @@
 .version.mcmin1 /* version checker */
 {
-	color: #000012;
-	background-color: #D8167B;
+	color: #0000E7;
+	background-color: #8FE4C4;
 }
 
 .html
@@ -780,8 +780,8 @@
 	width: 604px;
 	min-height: 51px;
 	background-color: transparent;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	position: relative;
 }
 

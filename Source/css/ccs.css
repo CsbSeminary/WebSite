@@ -1,7 +1,7 @@
 .version.ccs /* version checker */
 {
-	color: #0000ED;
-	background-color: #98DBE1;
+	color: #000015;
+	background-color: #5CF07F;
 }
 
 .html
@@ -616,9 +616,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -780,8 +780,8 @@
 	width: 604px;
 	min-height: 46px;
 	background-color: transparent;
-	font-size: 34px;
 	line-height: 41px;
+	font-size: 34px;
 	position: relative;
 }
 

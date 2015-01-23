@@ -1,7 +1,7 @@
 .version.upcoming_classes___seminary /* version checker */
 {
-	color: #0000E7;
-	background-color: #8EB687;
+	color: #00000F;
+	background-color: #27246F;
 }
 
 .html
@@ -601,8 +601,8 @@
 	width: 900px;
 	min-height: 47px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 43px;
+	color: #FFFFFF;
 	margin-left: 24px;
 	top: -26px;
 	margin-bottom: -26px;
@@ -620,8 +620,8 @@
 	width: 604px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #C1272D;
 	line-height: 43px;
+	color: #C1272D;
 	margin-left: 178px;
 	margin-top: 58px;
 	position: relative;
@@ -729,8 +729,8 @@
 	width: 604px;
 	min-height: 52px;
 	background-color: transparent;
-	color: #C1272D;
 	line-height: 43px;
+	color: #C1272D;
 	margin-left: 178px;
 	margin-top: 57px;
 	position: relative;
@@ -843,8 +843,8 @@
 	width: 604px;
 	min-height: 52px;
 	background-color: transparent;
-	color: #C1272D;
 	line-height: 43px;
+	color: #C1272D;
 	margin-left: 178px;
 	margin-top: 25px;
 	position: relative;

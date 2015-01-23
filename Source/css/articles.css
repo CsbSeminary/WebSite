@@ -1,0 +1,185 @@
+.version.articles /* version checker */
+{
+	color: #0000FB;
+	background-color: #1ED1D6;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1657px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 20px;
+}
+
+#pu8444
+{
+	width: 0.01px;
+	margin-left: 24px;
+}
+
+#u8444
+{
+	z-index: 78;
+	width: 486px;
+	margin-right: -10000px;
+}
+
+#u8490
+{
+	z-index: 80;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 803px;
+}
+
+#u8490_clip
+{
+	width: 30px;
+	height: 30px;
+}
+
+#u8490_img
+{
+	margin-right: -3px;
+	margin-bottom: -3px;
+}
+
+#u8447
+{
+	z-index: 82;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 843px;
+}
+
+#u8449
+{
+	z-index: 85;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 882px;
+}
+
+#u8446
+{
+	z-index: 84;
+	height: 40px;
+}
+
+#u8446-bw
+{
+	z-index: 84;
+	margin-top: 22px;
+	height: 40px;
+}
+
+#pu8406
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 1318px;
+}
+
+#u8406,#u8406-bw
+{
+	z-index: 2;
+	height: 218px;
+}
+
+#u8413
+{
+	z-index: 3;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 124px;
+}
+
+#u8407
+{
+	z-index: 5;
+	width: 91px;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 251px;
+}
+
+#u8409
+{
+	z-index: 7;
+	width: 71px;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 175px;
+}
+
+#u8412-4
+{
+	z-index: 9;
+	width: 218px;
+	min-height: 77px;
+	margin-right: -10000px;
+	margin-top: 109px;
+	left: 124px;
+}
+
+#u8404-39
+{
+	z-index: 13;
+	width: 288px;
+	min-height: 165px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 405px;
+}
+
+#u8405-11
+{
+	z-index: 52;
+	width: 295px;
+	min-height: 71px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 728px;
+}
+
+#u8411-15
+{
+	z-index: 63;
+	width: 308px;
+	min-height: 76px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 728px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,97 +1,101 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1421885279659" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1422051801834" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="3917930087"/>
+    <file name="site_global.css" crc="281187005"/>
     <file name="master_b-master.css" crc="4062901423" ref="mbs:mcmin3:mcmin2:student-housing:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:mcmin1-copy:mdiv:dcmin:ccs:dcs:bcmin:students:staff:bcs:college-roadmap:mcs2"/>
-    <file name="master_a-master.css" crc="3824605559" ref="financial-aid:mbs:mcmin3:tuition---fees:mcmin2:student-housing:location:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:give:mcmin1-copy:index:mdiv:contact:vision:accreditation:dcmin:about:ccs:privacy-policy:dcs:seminary:job-postings:bcmin:students:college:staff:bcs:donate:educational-effectiveness:college-roadmap:mcs2:upcoming-classes---seminary:upcoming-classes---college"/>
+    <file name="master_a-master.css" crc="3923137277" ref="financial-aid:mbs:mcmin3:tuition---fees:mcmin2:student-housing:location:mcmin1:history:faculty:international-students:samuel-program:seminary-roadmap:give:mcmin1-copy:index:mdiv:contact:vision:accreditation:dcmin:about:ccs:privacy-policy:dcs:seminary:job-postings:bcmin:students:college:staff:bcs:donate:educational-effectiveness:college-roadmap:mcs2:upcoming-classes---seminary:upcoming-classes---college"/>
     <file name="master_c-master.css" crc="3999787319" ref="financial-aid:tuition---fees:location:give:contact:vision:accreditation:privacy-policy:job-postings:donate:educational-effectiveness:upcoming-classes---seminary:upcoming-classes---college"/>
-    <file name="master_d-master.css" crc="89937049" ref="mcs:article---virtual-classes"/>
-    <file name="financial-aid.css" crc="23672796" ref="financial-aid"/>
+    <file name="master_d-master.css" crc="3822183309" ref="mcs:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="financial-aid.css" crc="520218259" ref="financial-aid"/>
     <file name="iefonts_financial-aid.css" crc="3914640396" ref="financial-aid"/>
-    <file name="mbs.css" crc="493914022" ref="mbs"/>
+    <file name="mbs.css" crc="493865124" ref="mbs"/>
     <file name="iefonts_mbs.css" crc="4209088820" ref="mbs"/>
-    <file name="mcmin3.css" crc="353687378" ref="mcmin3"/>
+    <file name="mcmin3.css" crc="4126500693" ref="mcmin3"/>
     <file name="iefonts_mcmin3.css" crc="380472622" ref="mcmin3"/>
-    <file name="tuition---fees.css" crc="120551523" ref="tuition---fees"/>
+    <file name="tuition---fees.css" crc="4189147489" ref="tuition---fees"/>
     <file name="iefonts_tuition---fees.css" crc="4097640506" ref="tuition---fees"/>
-    <file name="mcmin2.css" crc="3932721791" ref="mcmin2"/>
+    <file name="mcmin2.css" crc="3829623696" ref="mcmin2"/>
     <file name="iefonts_mcmin2.css" crc="3976876924" ref="mcmin2"/>
     <file name="student-housing.css" crc="4180846849" ref="student-housing"/>
     <file name="iefonts_student-housing.css" crc="4290480017" ref="student-housing"/>
     <file name="location.css" crc="477357787" ref="location"/>
     <file name="iefonts_location.css" crc="3927424103" ref="location"/>
-    <file name="mcmin1.css" crc="316151419" ref="mcmin1"/>
+    <file name="mcmin1.css" crc="3884967108" ref="mcmin1"/>
     <file name="iefonts_mcmin1.css" crc="4160043205" ref="mcmin1"/>
-    <file name="working-page-1.css" crc="4121422283" ref="working-page-1"/>
+    <file name="working-page-1.css" crc="3924231647" ref="working-page-1"/>
     <file name="iefonts_working-page-1.css" crc="329581628" ref="working-page-1"/>
     <file name="history.css" crc="4124445170" ref="history"/>
     <file name="iefonts_history.css" crc="4290480017" ref="history"/>
-    <file name="faculty.css" crc="494245876" ref="faculty"/>
+    <file name="faculty.css" crc="77425515" ref="faculty"/>
     <file name="iefonts_faculty.css" crc="4290480017" ref="faculty"/>
     <file name="international-students.css" crc="4275898936" ref="international-students"/>
     <file name="iefonts_international-students.css" crc="4290480017" ref="international-students"/>
-    <file name="samuel-program.css" crc="3834579699" ref="samuel-program"/>
+    <file name="samuel-program.css" crc="419685919" ref="samuel-program"/>
     <file name="iefonts_samuel-program.css" crc="4226975532" ref="samuel-program"/>
-    <file name="seminary-roadmap.css" crc="4197037922" ref="seminary-roadmap"/>
+    <file name="seminary-roadmap.css" crc="3920783236" ref="seminary-roadmap"/>
     <file name="iefonts_seminary-roadmap.css" crc="249484121" ref="seminary-roadmap"/>
     <file name="give.css" crc="57615603" ref="give"/>
     <file name="iefonts_give.css" crc="4290480017" ref="give"/>
-    <file name="mcmin1-copy.css" crc="185306378" ref="mcmin1-copy"/>
+    <file name="mcmin1-copy.css" crc="4144424198" ref="mcmin1-copy"/>
     <file name="iefonts_mcmin1-copy.css" crc="4024215535" ref="mcmin1-copy"/>
-    <file name="index.css" crc="12050850" ref="index"/>
-    <file name="iefonts_index.css" crc="303921026" ref="index"/>
-    <file name="mdiv.css" crc="4248521337" ref="mdiv"/>
+    <file name="index.css" crc="119804817" ref="index"/>
+    <file name="iefonts_index.css" crc="3941035102" ref="index"/>
+    <file name="mdiv.css" crc="4164847822" ref="mdiv"/>
     <file name="iefonts_mdiv.css" crc="4004788944" ref="mdiv"/>
     <file name="contact.css" crc="451888453" ref="contact"/>
     <file name="iefonts_contact.css" crc="4290480017" ref="contact"/>
-    <file name="vision.css" crc="264926662" ref="vision"/>
+    <file name="vision.css" crc="4065354449" ref="vision"/>
     <file name="iefonts_vision.css" crc="4290480017" ref="vision"/>
     <file name="accreditation.css" crc="445889312" ref="accreditation"/>
     <file name="iefonts_accreditation.css" crc="4228597225" ref="accreditation"/>
-    <file name="dcmin.css" crc="4005784966" ref="dcmin"/>
+    <file name="dcmin.css" crc="369575448" ref="dcmin"/>
     <file name="iefonts_dcmin.css" crc="4182961785" ref="dcmin"/>
-    <file name="mcs.css" crc="242770405" ref="mcs"/>
+    <file name="mcs.css" crc="4242812327" ref="mcs"/>
     <file name="iefonts_mcs.css" crc="20671472" ref="mcs"/>
     <file name="about.css" crc="427368637" ref="about"/>
     <file name="iefonts_about.css" crc="4290480017" ref="about"/>
-    <file name="ccs.css" crc="3986217953" ref="ccs"/>
+    <file name="ccs.css" crc="358412415" ref="ccs"/>
     <file name="iefonts_ccs.css" crc="4246727305" ref="ccs"/>
     <file name="privacy-policy.css" crc="85960305" ref="privacy-policy"/>
     <file name="iefonts_privacy-policy.css" crc="72330569" ref="privacy-policy"/>
-    <file name="dcs.css" crc="4044948318" ref="dcs"/>
+    <file name="dcs.css" crc="165488832" ref="dcs"/>
     <file name="iefonts_dcs.css" crc="3958683086" ref="dcs"/>
     <file name="seminary.css" crc="427368637" ref="seminary"/>
     <file name="iefonts_seminary.css" crc="4290480017" ref="seminary"/>
-    <file name="job-postings.css" crc="24702991" ref="job-postings"/>
+    <file name="job-postings.css" crc="70164535" ref="job-postings"/>
     <file name="iefonts_job-postings.css" crc="4290480017" ref="job-postings"/>
-    <file name="bcmin.css" crc="226900463" ref="bcmin"/>
+    <file name="bcmin.css" crc="3962927239" ref="bcmin"/>
     <file name="iefonts_bcmin.css" crc="272109517" ref="bcmin"/>
     <file name="students.css" crc="3907565788" ref="students"/>
     <file name="iefonts_students.css" crc="4290480017" ref="students"/>
     <file name="college.css" crc="427368637" ref="college"/>
     <file name="iefonts_college.css" crc="4290480017" ref="college"/>
-    <file name="staff.css" crc="229071782" ref="staff"/>
+    <file name="staff.css" crc="4038252781" ref="staff"/>
     <file name="iefonts_staff.css" crc="4290480017" ref="staff"/>
-    <file name="bcs.css" crc="68127197" ref="bcs"/>
+    <file name="bcs.css" crc="3849824209" ref="bcs"/>
     <file name="iefonts_bcs.css" crc="406428494" ref="bcs"/>
     <file name="donate.css" crc="355021000" ref="donate"/>
     <file name="iefonts_donate.css" crc="4290480017" ref="donate"/>
     <file name="educational-effectiveness.css" crc="4247700186" ref="educational-effectiveness"/>
     <file name="iefonts_educational-effectiveness.css" crc="4290480017" ref="educational-effectiveness"/>
-    <file name="upcoming-classes.css" crc="4214216674" ref="upcoming-classes"/>
+    <file name="upcoming-classes.css" crc="93202520" ref="upcoming-classes"/>
     <file name="iefonts_upcoming-classes.css" crc="295900937" ref="upcoming-classes"/>
-    <file name="college-roadmap.css" crc="270943450" ref="college-roadmap"/>
+    <file name="college-roadmap.css" crc="463147077" ref="college-roadmap"/>
     <file name="iefonts_college-roadmap.css" crc="142555342" ref="college-roadmap"/>
-    <file name="mcs2.css" crc="481996857" ref="mcs2"/>
+    <file name="mcs2.css" crc="516624155" ref="mcs2"/>
     <file name="iefonts_mcs2.css" crc="4102702716" ref="mcs2"/>
-    <file name="apply.css" crc="4167338063" ref="apply"/>
-    <file name="home.css" crc="246757286" ref="home"/>
-    <file name="upcoming-classes---seminary.css" crc="3884889735" ref="upcoming-classes---seminary"/>
+    <file name="apply.css" crc="334243588" ref="apply"/>
+    <file name="home.css" crc="3978475374" ref="home"/>
+    <file name="upcoming-classes---seminary.css" crc="254223471" ref="upcoming-classes---seminary"/>
     <file name="iefonts_upcoming-classes---seminary.css" crc="4290480017" ref="upcoming-classes---seminary"/>
-    <file name="upcoming-classes---college.css" crc="374151553" ref="upcoming-classes---college"/>
+    <file name="upcoming-classes---college.css" crc="343641881" ref="upcoming-classes---college"/>
     <file name="iefonts_upcoming-classes---college.css" crc="4290480017" ref="upcoming-classes---college"/>
     <file name="master_e-master.css" crc="283413584" ref="upcoming-classes"/>
     <file name="article---virtual-classes.css" crc="4218221579" ref="article---virtual-classes"/>
     <file name="iefonts_article---virtual-classes.css" crc="4113139729" ref="article---virtual-classes"/>
+    <file name="i-am-charlie_-and-i-am-forgiven_.css" crc="3834405015" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="iefonts_i-am-charlie_-and-i-am-forgiven_.css" crc="54867903" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="articles.css" crc="4213101014" ref="articles"/>
+    <file name="iefonts_articles.css" crc="3994308630" ref="articles"/>
   </folder>
   <folder name="assets">
     <file name="academic_catalogue_2014-15_small_size.pdf" crc="232489659" mt="1407523832000"/>
@@ -124,25 +128,25 @@
     <file name="audit-form-2014-fillable.pdf" crc="194360540" mt="1416606999000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="museutils.js" crc="3777594392" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="pie.js" crc="3827607177" ref="index:mcs:faculty:mcs2:staff:working-page-1:financial-aid:apply:upcoming-classes:upcoming-classes---college:upcoming-classes---seminary"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="museutils.js" crc="3777594392" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="pie.js" crc="3827607177" ref="index:mcs:faculty:mcs2:staff:working-page-1:financial-aid:apply:upcoming-classes:upcoming-classes---college:upcoming-classes---seminary:i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:college:seminary:about:contact:give:donate:students:apply:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:upcoming-classes:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:home:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
     <file name="webpro.js" crc="474087315" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary"/>
     <file name="musewpslideshow.js" crc="274584885" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary"/>
     <file name="jquery.museoverlay.js" crc="170414611" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary"/>
     <file name="touchswipe.js" crc="100683906" ref="index:college:seminary:about:contact:give:donate:students:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:working-page-1:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="contact:give:mdiv:seminary-roadmap:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:staff:job-postings:mcmin1-copy:working-page-1:tuition---fees:financial-aid:college-roadmap:privacy-policy:international-students:student-housing:educational-effectiveness:vision:upcoming-classes---college:upcoming-classes---seminary"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="contact:give:mdiv:seminary-roadmap:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:staff:job-postings:mcmin1-copy:working-page-1:tuition---fees:financial-aid:college-roadmap:privacy-policy:international-students:student-housing:educational-effectiveness:vision:upcoming-classes---college:upcoming-classes---seminary:i-am-charlie!-and-i-am-forgiven!"/>
   </folder>
   <folder name="images">
-    <file name="logocsbs_ver5a(colour).png" crc="4258501730" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="logocsbs_ver5a(colour)_2x.png" crc="284243638" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="facebook.jpg" crc="4252366785" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="facebook_2x.jpg" crc="56465014" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="twitter.jpg" crc="257391493" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="twitter_2x.jpg" crc="3950160170" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="linkedin.jpg" crc="10105910" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="linkedin_2x.jpg" crc="390623781" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
+    <file name="logocsbs_ver5a(colour).png" crc="4258501730" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="logocsbs_ver5a(colour)_2x.png" crc="284243638" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="facebook.jpg" crc="4252366785" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="facebook_2x.jpg" crc="56465014" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="twitter.jpg" crc="257391493" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="twitter_2x.jpg" crc="3950160170" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="linkedin.jpg" crc="10105910" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="linkedin_2x.jpg" crc="390623781" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
     <file name="line-diag_blue_backg2.jpg" crc="420365721" ref="index:mcs"/>
     <file name="line-diag_blue_backg2_2x.jpg" crc="398071982" ref="index:mcs"/>
     <file name="dark_tire.jpg" crc="3864519272" ref="index:contact:students:mcs"/>
@@ -155,12 +159,12 @@
     <file name="seminarylink-logo_2x.png" crc="3991348263" ref="index"/>
     <file name="keithcwillslibrary.png" crc="4211200449" ref="index"/>
     <file name="keithcwillslibrary_2x.png" crc="4211200449" ref="index"/>
-    <file name="abhe_single.jpg" crc="4010818793" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="abhe_single_2x.jpg" crc="432316057" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="alberta-logo.png" crc="319836614" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="alberta-logo_2x.png" crc="4286012034" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="ats_logo2.png" crc="4080021182" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
-    <file name="ats_logo2_2x.png" crc="4001971516" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes"/>
+    <file name="abhe_single.jpg" crc="4010818793" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="abhe_single_2x.jpg" crc="432316057" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="alberta-logo.png" crc="319836614" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="alberta-logo_2x.png" crc="4286012034" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="ats_logo2.png" crc="4080021182" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
+    <file name="ats_logo2_2x.png" crc="4001971516" ref="index:college:seminary:about:contact:give:donate:students:mcs:mdiv:seminary-roadmap:faculty:mcmin1:mcmin2:mcmin3:mbs:mcs2:bcs:bcmin:dcs:dcmin:ccs:samuel-program:history:location:vision:staff:educational-effectiveness:job-postings:privacy-policy:accreditation:mcmin1-copy:international-students:student-housing:tuition---fees:financial-aid:college-roadmap:upcoming-classes---college:upcoming-classes---seminary:article---virtual-classes:i-am-charlie!-and-i-am-forgiven!:articles"/>
     <file name="dsc_0097.jpg" crc="67483799" ref="contact"/>
     <file name="dsc_0605.jpg" crc="3980491539" ref="give"/>
     <file name="writing.jpg" crc="305416262" ref="mcs"/>
@@ -256,55 +260,70 @@
     <file name="_dsc0220-ieu10690-fr2.png" crc="60392417" ref="upcoming-classes"/>
     <file name="_dsc0220_2x.jpg" crc="4077231760" ref="upcoming-classes"/>
     <file name="_dsc02202.jpg" crc="4077231760" ref="upcoming-classes---college:upcoming-classes---seminary"/>
-    <file name="j0316779-1--u9631-fr.jpg" crc="4237849578" ref="index"/>
-    <file name="j0316779-1--u9631-fr_2x.jpg" crc="4094995750" ref="index"/>
-    <file name="noah-u9653-fr.jpg" crc="60137861" ref="index:working-page-1"/>
-    <file name="noah-u9653-fr_2x.jpg" crc="3942594228" ref="index:working-page-1"/>
     <file name="online-class-tips.jpg" crc="476992748" ref="article---virtual-classes"/>
     <file name="online-class-tips_2x.jpg" crc="502988880" ref="article---virtual-classes"/>
+    <file name="o-je-suis-charlie-facebook-u10949-fr.jpg" crc="4046873156" ref="index"/>
+    <file name="o-je-suis-charlie-facebook-u10949-fr_2x.jpg" crc="338604921" ref="index"/>
+    <file name="noah-u9656-fr.jpg" crc="60137861" ref="index:working-page-1"/>
+    <file name="noah-u9656-fr_2x.jpg" crc="3942594228" ref="index:working-page-1"/>
+    <file name="j0316779-1--u10952-fr.jpg" crc="4237849578" ref="index"/>
+    <file name="j0316779-1--u10952-fr_2x.jpg" crc="4094995750" ref="index"/>
+    <file name="o-je-suis-charlie-facebook-u10863-fr.jpg" crc="238414006" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="o-je-suis-charlie-facebook-u10863-fr_2x.jpg" crc="32783457" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="susan_booth-u11001-fr.jpg" crc="483462664" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="susan_booth-u11001-fr_2x.jpg" crc="12379582" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="alexamenos1-u10975-fr.jpg" crc="4135721250" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="alexamenos1-u10975-fr_2x.jpg" crc="3773484091" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="505960741-suis-charlie-2sef-u10977-fr.jpg" crc="262153149" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="505960741-suis-charlie-2sef-u10977-fr_2x.jpg" crc="216741807" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="charliehedbo_toutestpardonne.jpg" crc="342861339" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="charlie.jpg" crc="40206493" ref="i-am-charlie!-and-i-am-forgiven!"/>
+    <file name="charlie_2x.jpg" crc="389959134" ref="i-am-charlie!-and-i-am-forgiven!"/>
   </folder>
-  <file name="index.html" crc="426789837" mt="1421885046798" redirect="true"/>
-  <file name="college.html" crc="3853828332" mt="1418922876120" redirect="true"/>
-  <file name="seminary.html" crc="302736165" mt="1418922876120" redirect="true"/>
-  <file name="about.html" crc="3993952542" mt="1418922876121" redirect="true"/>
-  <file name="contact.html" crc="3979313958" mt="1418922876290" redirect="true"/>
-  <file name="give.html" crc="123875736" mt="1418923205268" redirect="true"/>
-  <file name="donate.html" crc="4227727570" mt="1418922876292" redirect="true"/>
-  <file name="students.html" crc="4293214157" mt="1418922876265" redirect="true"/>
-  <file name="apply.html" crc="4031408378" mt="1418922876068" redirect="true"/>
-  <file name="mcs.html" crc="4242499207" mt="1418923332079" redirect="true"/>
-  <file name="mdiv.html" crc="3791330645" mt="1418923486658" redirect="true"/>
-  <file name="seminary-roadmap.html" crc="4121955044" mt="1418922876267" redirect="true"/>
-  <file name="faculty.html" crc="465174010" mt="1418922876268" redirect="true"/>
-  <file name="mcmin1.html" crc="449590169" mt="1418923437669" redirect="true"/>
-  <file name="mcmin2.html" crc="321859029" mt="1418923414689" redirect="true"/>
-  <file name="mcmin3.html" crc="4064790862" mt="1418923389597" redirect="true"/>
-  <file name="mbs.html" crc="4006062160" mt="1418922876270" redirect="true"/>
-  <file name="mcs2.html" crc="3981439049" mt="1418923301370" redirect="true"/>
-  <file name="upcoming-classes.html" crc="23380537" mt="1418922876313" redirect="true"/>
-  <file name="bcs.html" crc="3868466539" mt="1418922876272" redirect="true"/>
-  <file name="bcmin.html" crc="113104413" mt="1418922876272" redirect="true"/>
-  <file name="dcs.html" crc="3791747320" mt="1418922876273" redirect="true"/>
-  <file name="dcmin.html" crc="76786349" mt="1418922876274" redirect="true"/>
-  <file name="ccs.html" crc="125250994" mt="1418922876274" redirect="true"/>
-  <file name="samuel-program.html" crc="534733551" mt="1418922876275" redirect="true"/>
-  <file name="history.html" crc="169631998" mt="1418923040583" redirect="true"/>
-  <file name="location.html" crc="293016635" mt="1418922876293" redirect="true"/>
-  <file name="vision.html" crc="3780316091" mt="1418922876294" redirect="true"/>
-  <file name="staff.html" crc="108479750" mt="1418922876276" redirect="true"/>
-  <file name="educational-effectiveness.html" crc="3776028896" mt="1418922876295" redirect="true"/>
-  <file name="job-postings.html" crc="3784357279" mt="1418922876295" redirect="true"/>
-  <file name="privacy-policy.html" crc="206289265" mt="1418922876296" redirect="true"/>
-  <file name="accreditation.html" crc="428930717" mt="1418922876296" redirect="true"/>
-  <file name="mcmin1-copy.html" crc="232750626" mt="1418923458009" redirect="true"/>
-  <file name="working-page-1.html" crc="3823455484" mt="1418922876084" redirect="true"/>
-  <file name="international-students.html" crc="293150075" mt="1418922876278" redirect="true"/>
-  <file name="student-housing.html" crc="499103368" mt="1418922876278" redirect="true"/>
-  <file name="tuition---fees.html" crc="3911398806" mt="1418922876297" redirect="true"/>
-  <file name="financial-aid.html" crc="323721601" mt="1418922876298" redirect="true"/>
-  <file name="college-roadmap.html" crc="4056634334" mt="1418922876279" redirect="true"/>
-  <file name="home.html" crc="4039951973" mt="1418922876088" redirect="true"/>
-  <file name="upcoming-classes---college.html" crc="4216455969" mt="1418923705782" redirect="true"/>
-  <file name="upcoming-classes---seminary.html" crc="4164750223" mt="1418923650465" redirect="true"/>
-  <file name="article---virtual-classes.html" crc="3969346145" mt="1418923599065" redirect="true"/>
+  <file name="index.html" crc="4279344041" mt="1422046578529" redirect="true"/>
+  <file name="college.html" crc="3853828332" mt="1422046166110" redirect="true"/>
+  <file name="seminary.html" crc="302736165" mt="1422046166111" redirect="true"/>
+  <file name="about.html" crc="3993952542" mt="1422046166112" redirect="true"/>
+  <file name="contact.html" crc="3979313958" mt="1422046166113" redirect="true"/>
+  <file name="give.html" crc="123875736" mt="1422046166114" redirect="true"/>
+  <file name="donate.html" crc="4227727570" mt="1422046166115" redirect="true"/>
+  <file name="students.html" crc="4293214157" mt="1422046166116" redirect="true"/>
+  <file name="apply.html" crc="4031408378" mt="1422046166117" redirect="true"/>
+  <file name="mcs.html" crc="4242499207" mt="1422046166118" redirect="true"/>
+  <file name="mdiv.html" crc="3791330645" mt="1422046166119" redirect="true"/>
+  <file name="seminary-roadmap.html" crc="4121955044" mt="1422046166120" redirect="true"/>
+  <file name="faculty.html" crc="465174010" mt="1422046166121" redirect="true"/>
+  <file name="mcmin1.html" crc="449590169" mt="1422046166123" redirect="true"/>
+  <file name="mcmin2.html" crc="321859029" mt="1422046166124" redirect="true"/>
+  <file name="mcmin3.html" crc="4064790862" mt="1422046166125" redirect="true"/>
+  <file name="mbs.html" crc="4006062160" mt="1422046166126" redirect="true"/>
+  <file name="mcs2.html" crc="3981439049" mt="1422046166127" redirect="true"/>
+  <file name="upcoming-classes.html" crc="23380537" mt="1422046166128" redirect="true"/>
+  <file name="bcs.html" crc="3868466539" mt="1422046166129" redirect="true"/>
+  <file name="bcmin.html" crc="113104413" mt="1422046166130" redirect="true"/>
+  <file name="dcs.html" crc="3791747320" mt="1422046166131" redirect="true"/>
+  <file name="dcmin.html" crc="76786349" mt="1422046166132" redirect="true"/>
+  <file name="ccs.html" crc="125250994" mt="1422046166133" redirect="true"/>
+  <file name="samuel-program.html" crc="534733551" mt="1422046166134" redirect="true"/>
+  <file name="history.html" crc="169631998" mt="1422046166136" redirect="true"/>
+  <file name="location.html" crc="293016635" mt="1422046166137" redirect="true"/>
+  <file name="vision.html" crc="3780316091" mt="1422046166138" redirect="true"/>
+  <file name="staff.html" crc="108479750" mt="1422046166139" redirect="true"/>
+  <file name="educational-effectiveness.html" crc="3776028896" mt="1422046166140" redirect="true"/>
+  <file name="job-postings.html" crc="511797688" mt="1422046166141" redirect="true"/>
+  <file name="privacy-policy.html" crc="206289265" mt="1422046166142" redirect="true"/>
+  <file name="accreditation.html" crc="428930717" mt="1422046166143" redirect="true"/>
+  <file name="mcmin1-copy.html" crc="232750626" mt="1422046166144" redirect="true"/>
+  <file name="working-page-1.html" crc="3823455484" mt="1422046166145" redirect="true"/>
+  <file name="international-students.html" crc="293150075" mt="1422046166147" redirect="true"/>
+  <file name="student-housing.html" crc="499103368" mt="1422046166148" redirect="true"/>
+  <file name="tuition---fees.html" crc="3911398806" mt="1422046166149" redirect="true"/>
+  <file name="financial-aid.html" crc="323721601" mt="1422046166150" redirect="true"/>
+  <file name="college-roadmap.html" crc="4056634334" mt="1422046166151" redirect="true"/>
+  <file name="home.html" crc="4039951973" mt="1422046166152" redirect="true"/>
+  <file name="upcoming-classes---college.html" crc="4216455969" mt="1422046166153" redirect="true"/>
+  <file name="upcoming-classes---seminary.html" crc="4164750223" mt="1422046166154" redirect="true"/>
+  <file name="article---virtual-classes.html" crc="3969346145" mt="1422046166155" redirect="true"/>
+  <file name="i-am-charlie!-and-i-am-forgiven!.html" crc="60957017" mt="1422046943728" redirect="true"/>
+  <file name="articles.html" crc="4252531464" mt="1422046166275" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.seminary_roadmap /* version checker */
 {
-	color: #0000FA;
-	background-color: #29B762;
+	color: #0000E9;
+	background-color: #B26784;
 }
 
 .html
@@ -615,9 +615,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

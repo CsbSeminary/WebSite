@@ -1,0 +1,534 @@
+.version.i_am_charlie__and_i_am_forgiven_ /* version checker */
+{
+	color: #0000E4;
+	background-color: #8C6097;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1656.650000000001px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 20px;
+}
+
+#pu8444
+{
+	width: 0.01px;
+	margin-left: 24px;
+}
+
+#u8444
+{
+	z-index: 163;
+	width: 486px;
+	margin-right: -10000px;
+}
+
+#u8490
+{
+	z-index: 165;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 803px;
+}
+
+#u8490_clip
+{
+	width: 30px;
+	height: 30px;
+}
+
+#u8490_img
+{
+	margin-right: -3px;
+	margin-bottom: -3px;
+}
+
+#u8447
+{
+	z-index: 167;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 843px;
+}
+
+#u8449
+{
+	z-index: 170;
+	width: 30px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 882px;
+}
+
+#u8446
+{
+	z-index: 169;
+	padding-bottom: 8px;
+}
+
+#u8446_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u10880-6
+{
+	z-index: 172;
+	width: 206px;
+	min-height: 22px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 201px;
+}
+
+#u10880
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u8446-bw
+{
+	z-index: 169;
+	margin-top: 22px;
+	height: 32px;
+}
+
+#u10863
+{
+	z-index: 162;
+	width: 758px;
+	height: 245px;
+	border-color: #000000;
+	margin-left: 101px;
+	margin-top: 36px;
+	position: relative;
+	background: #FFFFFF url("../images/o-je-suis-charlie-facebook-u10863-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u10863
+{
+	background-image: url("../images/o-je-suis-charlie-facebook-u10863-fr_2x.jpg");
+}
+
+#u10961-4
+{
+	z-index: 78;
+	width: 758px;
+	min-height: 19px;
+	background-color: transparent;
+	font-size: 12px;
+	color: #000000;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 101px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u10962-4
+{
+	z-index: 82;
+	width: 758px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	margin-left: 101px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#pu11001
+{
+	width: 0.01px;
+	margin-left: 100px;
+	margin-top: 2px;
+}
+
+#u11001
+{
+	z-index: 161;
+	width: 66px;
+	height: 66px;
+	border-color: #000000;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-khtml-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/susan_booth-u11001-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+.hidpi #u11001
+{
+	background-image: url("../images/susan_booth-u11001-fr_2x.jpg");
+}
+
+#u10963-8
+{
+	z-index: 86;
+	width: 681px;
+	min-height: 51px;
+	background-color: transparent;
+	color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 78px;
+}
+
+#u10963-4
+{
+	font-size: 14px;
+	line-height: 17px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u10963-2,#u10963-6
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#pu10964-56
+{
+	width: 0.01px;
+	margin-left: 101px;
+	margin-top: 18px;
+}
+
+#u10964-56
+{
+	z-index: 94;
+	width: 758px;
+	background-color: transparent;
+	line-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u10976
+{
+	float: left;
+	margin-right: 10px;
+}
+
+#u10975
+{
+	z-index: 110;
+	width: 219px;
+	height: 171px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/alexamenos1-u10975-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u10975
+{
+	background-image: url("../images/alexamenos1-u10975-fr_2x.jpg");
+}
+
+#u10978
+{
+	float: right;
+	margin-bottom: 4px;
+	margin-left: 10px;
+}
+
+#u10977
+{
+	z-index: 118;
+	width: 305px;
+	height: 171px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/505960741-suis-charlie-2sef-u10977-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u10977
+{
+	background-image: url("../images/505960741-suis-charlie-2sef-u10977-fr_2x.jpg");
+}
+
+#u10986
+{
+	float: left;
+	margin-bottom: 4px;
+	margin-right: 10px;
+}
+
+#u10985
+{
+	z-index: 133;
+	width: 379px;
+	height: 171px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/charliehedbo_toutestpardonne.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u10964-31,#u10964-36
+{
+	font-weight: bold;
+}
+
+#u10994
+{
+	float: right;
+	margin-right: 10px;
+}
+
+#u10993
+{
+	z-index: 140;
+	width: 235px;
+	height: 244px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/charlie.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u10993
+{
+	background-image: url("../images/charlie_2x.jpg");
+}
+
+#u10964-49
+{
+	counter-reset: list0;
+}
+
+#u10964-49 > li:before
+{
+	counter-increment: list0;
+	content:  counter(list0, decimal) '.';
+}
+
+#u10964-49 .list1
+{
+	counter-reset: list1;
+}
+
+#u10964-49 .list1 > li:before
+{
+	counter-increment: list1;
+	content:  counter(list1, lower-alpha) '.';
+}
+
+#u10964-49 .list2
+{
+	counter-reset: list2;
+}
+
+#u10964-49 .list2 > li:before
+{
+	counter-increment: list2;
+	content:  counter(list2, lower-roman) '.';
+}
+
+#u10964-49 .list3
+{
+	counter-reset: list3;
+}
+
+#u10964-49 .list3 > li:before
+{
+	counter-increment: list3;
+	content:  counter(list3, decimal) '.';
+}
+
+#u10964-49 .list4
+{
+	counter-reset: list4;
+}
+
+#u10964-49 .list4 > li:before
+{
+	counter-increment: list4;
+	content:  counter(list4, lower-alpha) '.';
+}
+
+#u10964-49 .list5
+{
+	counter-reset: list5;
+}
+
+#u10964-49 .list5 > li:before
+{
+	counter-increment: list5;
+	content:  counter(list5, lower-roman) '.';
+}
+
+#u10964-49 .list6
+{
+	counter-reset: list6;
+}
+
+#u10964-49 .list6 > li:before
+{
+	counter-increment: list6;
+	content:  counter(list6, decimal) '.';
+}
+
+#u10964-49 .list7
+{
+	counter-reset: list7;
+}
+
+#u10964-49 .list7 > li:before
+{
+	counter-increment: list7;
+	content:  counter(list7, lower-alpha) '.';
+}
+
+#u10964-49 .list8
+{
+	counter-reset: list8;
+}
+
+#u10964-49 .list8 > li:before
+{
+	counter-increment: list8;
+	content:  counter(list8, lower-roman) '.';
+}
+
+#u10964,#u10964-5,#u10964-15,#u10964-20,#u10964-23,#u10964-27,#u10964-32,#u10964-37,#u10964-52
+{
+	font-weight: 700;
+}
+
+#u10966-3
+{
+	z-index: 158;
+	width: 527px;
+	background-color: transparent;
+	line-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1849px;
+	left: 231px;
+}
+
+#pu8406
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 26px;
+}
+
+#u8406,#u8406-bw
+{
+	z-index: 2;
+	height: 218px;
+}
+
+#u8413
+{
+	z-index: 3;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 124px;
+}
+
+#u8407
+{
+	z-index: 5;
+	width: 91px;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 251px;
+}
+
+#u8409
+{
+	z-index: 7;
+	width: 71px;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 175px;
+}
+
+#u8412-4
+{
+	z-index: 9;
+	width: 218px;
+	min-height: 77px;
+	margin-right: -10000px;
+	margin-top: 110px;
+	left: 124px;
+}
+
+#u8404-39
+{
+	z-index: 13;
+	width: 288px;
+	min-height: 165px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 405px;
+}
+
+#u8405-11
+{
+	z-index: 52;
+	width: 295px;
+	min-height: 71px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 728px;
+}
+
+#u8411-15
+{
+	z-index: 63;
+	width: 308px;
+	min-height: 76px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 728px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

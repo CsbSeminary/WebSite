@@ -1,7 +1,7 @@
 .version.college_roadmap /* version checker */
 {
-	color: #000010;
-	background-color: #2644DA;
+	color: #00001B;
+	background-color: #9B1045;
 }
 
 .html
@@ -616,9 +616,9 @@
 	width: 237px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
