@@ -1,7 +1,7 @@
 .version.article___virtual_classes /* version checker */
 {
-	color: #0000FB;
-	background-color: #6CF40B;
+	color: #000008;
+	background-color: #6395BD;
 }
 
 .html
@@ -25,6 +25,7 @@
 #page_position_content
 {
 	padding-top: 20px;
+	width: 0.01px;
 }
 
 #pu8444
@@ -82,6 +83,7 @@
 #u8446
 {
 	z-index: 116;
+	min-height: 32px;
 	padding-bottom: 8px;
 }
 
@@ -114,8 +116,8 @@
 #u8446-bw
 {
 	z-index: 116;
+	min-height: 32px;
 	margin-top: 22px;
-	height: 32px;
 }
 
 #u10798

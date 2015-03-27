@@ -6,9 +6,7 @@
 #u8446
 {
 	-pie-box-shadow: 8px 0px 16px #7F7F7F;
-	-moz-box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 8px 0px 16px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 16px rgba(0,0,0,0.5);
 	border-style: none;
 	border-color: transparent;
 	background: #E7E7E7 url("../images/line-diag_blue_backg2.jpg") repeat left top;
@@ -23,9 +21,7 @@
 #u8406
 {
 	-pie-box-shadow: none;
-	-moz-box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 8px 0px 26px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 26px rgba(0,0,0,0.5);
 	border-style: none;
 	border-color: transparent;
 	opacity: 0.9;

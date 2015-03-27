@@ -1,7 +1,7 @@
 .version.articles /* version checker */
 {
-	color: #0000FB;
-	background-color: #1ED1D6;
+	color: #0000E9;
+	background-color: #8A3416;
 }
 
 .html
@@ -25,6 +25,7 @@
 #page_position_content
 {
 	padding-top: 20px;
+	width: 0.01px;
 }
 
 #pu8444

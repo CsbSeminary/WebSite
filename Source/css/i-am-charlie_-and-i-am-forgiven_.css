@@ -1,7 +1,7 @@
 .version.i_am_charlie__and_i_am_forgiven_ /* version checker */
 {
-	color: #0000E4;
-	background-color: #8C6097;
+	color: #0000FC;
+	background-color: #0E2083;
 }
 
 .html
@@ -26,6 +26,7 @@
 #page_position_content
 {
 	padding-top: 20px;
+	width: 0.01px;
 }
 
 #pu8444
@@ -83,6 +84,7 @@
 #u8446
 {
 	z-index: 169;
+	min-height: 32px;
 	padding-bottom: 8px;
 }
 
@@ -115,8 +117,8 @@
 #u8446-bw
 {
 	z-index: 169;
+	min-height: 32px;
 	margin-top: 22px;
-	height: 32px;
 }
 
 #u10863
@@ -128,13 +130,13 @@
 	margin-left: 101px;
 	margin-top: 36px;
 	position: relative;
-	background: #FFFFFF url("../images/o-je-suis-charlie-facebook-u10863-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/o-je-suis-charlie-facebook.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u10863
 {
-	background-image: url("../images/o-je-suis-charlie-facebook-u10863-fr_2x.jpg");
+	background-image: url("../images/o-je-suis-charlie-facebook_2x.jpg");
 }
 
 #u10961-4
@@ -143,9 +145,9 @@
 	width: 758px;
 	min-height: 19px;
 	background-color: transparent;
-	font-size: 12px;
 	color: #000000;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 101px;
@@ -178,19 +180,16 @@
 	width: 66px;
 	height: 66px;
 	border-color: #000000;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	-khtml-border-radius: 50px;
 	border-radius: 50px;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/susan_booth-u11001-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/susan_booth2.jpg") no-repeat left top;
 	background-size: cover;
 }
 
 .hidpi #u11001
 {
-	background-image: url("../images/susan_booth-u11001-fr_2x.jpg");
+	background-image: url("../images/susan_booth_2x2.jpg");
 }
 
 #u10963-8
@@ -251,13 +250,13 @@
 	width: 219px;
 	height: 171px;
 	border-color: #000000;
-	background: #FFFFFF url("../images/alexamenos1-u10975-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/alexamenos1.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u10975
 {
-	background-image: url("../images/alexamenos1-u10975-fr_2x.jpg");
+	background-image: url("../images/alexamenos1_2x.jpg");
 }
 
 #u10978
@@ -273,13 +272,13 @@
 	width: 305px;
 	height: 171px;
 	border-color: #000000;
-	background: #FFFFFF url("../images/505960741-suis-charlie-2sef-u10977-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/505960741-suis-charlie-2sef.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u10977
 {
-	background-image: url("../images/505960741-suis-charlie-2sef-u10977-fr_2x.jpg");
+	background-image: url("../images/505960741-suis-charlie-2sef_2x.jpg");
 }
 
 #u10986

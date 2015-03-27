@@ -1,9 +1,7 @@
 #u7991
 {
 	-pie-box-shadow: none;
-	-moz-box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 8px 0px 26px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 8px 0px 26px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 26px rgba(0,0,0,0.5);
 	border-style: none;
 	border-color: transparent;
 	opacity: 0.9;

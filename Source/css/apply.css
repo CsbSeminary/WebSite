@@ -1,7 +1,7 @@
 .version.apply /* version checker */
 {
-	color: #000013;
-	background-color: #EC2704;
+	color: #000005;
+	background-color: #10B6A0;
 }
 
 .html
@@ -48,9 +48,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #F15A24;
-	-moz-border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-khtml-border-radius: 100px;
 	border-radius: 100px;
 	padding-bottom: 71px;
 	position: relative;
@@ -60,6 +57,8 @@
 #u9997:hover
 {
 	background-color: #000000;
+	width: 195px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -69,10 +68,10 @@
 	width: 195px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: center;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FFFFFF;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 75px;
@@ -99,9 +98,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #F7931E;
-	-moz-border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-khtml-border-radius: 100px;
 	border-radius: 100px;
 	padding-bottom: 67px;
 	position: relative;
@@ -113,6 +109,8 @@
 #u9998:hover
 {
 	background-color: #000000;
+	width: 190px;
+	min-height: 0px;
 	margin: 8px -10000px 0px 0px;
 }
 
@@ -122,10 +120,10 @@
 	width: 190px;
 	min-height: 53px;
 	background-color: transparent;
-	text-align: center;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FFFFFF;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 70px;

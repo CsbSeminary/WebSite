@@ -1,7 +1,7 @@
 .version.mcs /* version checker */
 {
-	color: #0000FC;
-	background-color: #E42DA7;
+	color: #0000E2;
+	background-color: #8D5617;
 }
 
 .html
@@ -26,6 +26,7 @@
 #page_position_content
 {
 	padding-top: 20px;
+	width: 0.01px;
 }
 
 #pu8444
@@ -181,9 +182,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	position: relative;
@@ -199,9 +197,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 19px;
+	text-align: right;
 	font-size: 16px;
 	color: #7F7F7F;
-	text-align: right;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
