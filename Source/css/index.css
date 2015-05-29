@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001A;
-	background-color: #5261C4;
+	color: #000010;
+	background-color: #FF85C0;
 }
 
 .html
@@ -36,14 +36,14 @@
 
 #u6668
 {
-	z-index: 250;
+	z-index: 262;
 	width: 486px;
 	margin-right: -10000px;
 }
 
 #u3803
 {
-	z-index: 252;
+	z-index: 264;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -64,7 +64,7 @@
 
 #u3807
 {
-	z-index: 254;
+	z-index: 266;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -73,7 +73,7 @@
 
 #u6680
 {
-	z-index: 257;
+	z-index: 269;
 	width: 30px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -89,13 +89,13 @@
 
 #u4176,#u4176-bw
 {
-	z-index: 256;
+	z-index: 268;
 	height: 40px;
 }
 
 #pamphletu8086
 {
-	z-index: 259;
+	z-index: 271;
 	width: 0.01px;
 	height: 32px;
 	padding-bottom: 288px;
@@ -105,7 +105,7 @@
 
 #u8091
 {
-	z-index: 260;
+	z-index: 272;
 	width: 530px;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -129,7 +129,7 @@
 
 #u8097-4
 {
-	z-index: 262;
+	z-index: 274;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -170,7 +170,7 @@
 
 #u8103-4
 {
-	z-index: 267;
+	z-index: 279;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -210,7 +210,7 @@
 
 #u8099-4
 {
-	z-index: 272;
+	z-index: 284;
 	width: 101px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -259,7 +259,7 @@
 
 #u8093-4
 {
-	z-index: 277;
+	z-index: 289;
 	width: 80px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -308,7 +308,7 @@
 
 #u8101-4
 {
-	z-index: 282;
+	z-index: 294;
 	width: 77px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -358,7 +358,7 @@
 
 #u8095-5
 {
-	z-index: 287;
+	z-index: 299;
 	width: 100px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -385,7 +385,7 @@
 
 #u8104popup
 {
-	z-index: 292;
+	z-index: 304;
 }
 
 #u8104
@@ -396,7 +396,7 @@
 
 #u8118
 {
-	z-index: 293;
+	z-index: 305;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -404,7 +404,7 @@
 
 #u8119-7
 {
-	z-index: 341;
+	z-index: 353;
 	width: 219px;
 	min-height: 140px;
 	margin-right: -10000px;
@@ -422,7 +422,7 @@
 
 #u11194
 {
-	z-index: 381;
+	z-index: 393;
 	width: 36px;
 	height: 36px;
 	margin-right: -10000px;
@@ -431,7 +431,7 @@
 
 #u11195-4
 {
-	z-index: 382;
+	z-index: 394;
 	width: 36px;
 	min-height: 19px;
 	margin-right: -10000px;
@@ -450,14 +450,14 @@
 
 #u8120-35
 {
-	z-index: 294;
+	z-index: 306;
 	width: 253px;
 	min-height: 145px;
 }
 
 #u11189-8
 {
-	z-index: 373;
+	z-index: 385;
 	width: 235px;
 	min-height: 66px;
 	margin-top: 10px;
@@ -474,14 +474,14 @@
 
 #u9519
 {
-	z-index: 348;
+	z-index: 360;
 	width: 82px;
 	height: 9px;
 }
 
 #u11185-24
 {
-	z-index: 349;
+	z-index: 361;
 	width: 235px;
 	min-height: 145px;
 	margin-left: 24px;
@@ -490,7 +490,7 @@
 
 #u8121-12
 {
-	z-index: 329;
+	z-index: 341;
 	width: 235px;
 	min-height: 66px;
 	margin-left: 24px;
@@ -499,7 +499,7 @@
 
 #u8117
 {
-	z-index: 386;
+	z-index: 398;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -507,7 +507,7 @@
 
 #u8113
 {
-	z-index: 387;
+	z-index: 399;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -515,7 +515,7 @@
 
 #u8116-6
 {
-	z-index: 416;
+	z-index: 428;
 	width: 219px;
 	min-height: 227px;
 	margin-right: -10000px;
@@ -533,7 +533,7 @@
 
 #u11192
 {
-	z-index: 467;
+	z-index: 479;
 	width: 36px;
 	height: 36px;
 	margin-right: -10000px;
@@ -542,7 +542,7 @@
 
 #u11193-4
 {
-	z-index: 468;
+	z-index: 480;
 	width: 36px;
 	min-height: 19px;
 	margin-right: -10000px;
@@ -560,7 +560,7 @@
 
 #u9517
 {
-	z-index: 422;
+	z-index: 434;
 	width: 82px;
 	height: 9px;
 	margin-left: 189px;
@@ -568,7 +568,7 @@
 
 #u8114-28
 {
-	z-index: 388;
+	z-index: 400;
 	width: 253px;
 	min-height: 163px;
 	margin-top: 19px;
@@ -576,7 +576,7 @@
 
 #u11188-8
 {
-	z-index: 459;
+	z-index: 471;
 	width: 253px;
 	min-height: 66px;
 	margin-top: 8px;
@@ -592,14 +592,14 @@
 
 #u11187-24
 {
-	z-index: 435;
+	z-index: 447;
 	width: 235px;
 	min-height: 166px;
 }
 
 #u11186-12
 {
-	z-index: 423;
+	z-index: 435;
 	width: 235px;
 	min-height: 66px;
 	margin-top: 7px;
@@ -607,7 +607,7 @@
 
 #u8106
 {
-	z-index: 472;
+	z-index: 484;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -615,7 +615,7 @@
 
 #u8109
 {
-	z-index: 509;
+	z-index: 521;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -625,7 +625,7 @@
 
 #u8112-6
 {
-	z-index: 510;
+	z-index: 522;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -635,7 +635,7 @@
 
 #u8107
 {
-	z-index: 516;
+	z-index: 528;
 	width: 122px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -652,7 +652,7 @@
 
 #u8108-6
 {
-	z-index: 517;
+	z-index: 529;
 	width: 122px;
 	min-height: 48px;
 	margin-right: -10000px;
@@ -662,7 +662,7 @@
 
 #u8110-22
 {
-	z-index: 473;
+	z-index: 485;
 	width: 142px;
 	min-height: 128px;
 	margin-right: -10000px;
@@ -681,14 +681,14 @@
 
 #u9520
 {
-	z-index: 523;
+	z-index: 535;
 	width: 82px;
 	height: 9px;
 }
 
 #u8111-14
 {
-	z-index: 495;
+	z-index: 507;
 	width: 186px;
 	min-height: 129px;
 	margin-left: 12px;
@@ -697,7 +697,7 @@
 
 #u8105
 {
-	z-index: 524;
+	z-index: 536;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -705,7 +705,7 @@
 
 #u8122
 {
-	z-index: 525;
+	z-index: 537;
 	width: 960px;
 	height: 280px;
 	margin-right: -10000px;
@@ -720,7 +720,7 @@
 
 #u4024
 {
-	z-index: 230;
+	z-index: 242;
 	height: 380px;
 	border-style: none;
 	border-color: transparent;
@@ -738,13 +738,13 @@
 
 #u4024-bw
 {
-	z-index: 230;
+	z-index: 242;
 	height: 380px;
 }
 
 #u4035
 {
-	z-index: 231;
+	z-index: 243;
 	width: 959px;
 	height: 380px;
 	-pie-box-shadow: 0px 0px 26px #7F7F7F;
@@ -759,7 +759,7 @@
 
 #slideshowu1442
 {
-	z-index: 232;
+	z-index: 244;
 	width: 0.01px;
 	height: 380px;
 	position: relative;
@@ -777,12 +777,12 @@
 
 #u1443popup
 {
-	z-index: 233;
+	z-index: 245;
 }
 
 #u1450
 {
-	z-index: 234;
+	z-index: 246;
 	width: 960px;
 	height: 380px;
 	border-style: none;
@@ -794,7 +794,7 @@
 
 #u10115
 {
-	z-index: 236;
+	z-index: 248;
 	width: 960px;
 	height: 380px;
 	border-style: none;
@@ -806,7 +806,7 @@
 
 #u10124
 {
-	z-index: 238;
+	z-index: 250;
 	width: 960px;
 	height: 380px;
 	border-style: none;
@@ -818,7 +818,7 @@
 
 #u10133
 {
-	z-index: 240;
+	z-index: 252;
 	width: 960px;
 	height: 380px;
 	border-style: none;
@@ -848,7 +848,7 @@
 
 #u1473-4popup
 {
-	z-index: 242;
+	z-index: 254;
 }
 
 #u1490-4
@@ -871,7 +871,7 @@
 
 #u1490-4popup
 {
-	z-index: 246;
+	z-index: 258;
 }
 
 .SSSlideLoading /* slideshowFreeStyle */
@@ -1072,7 +1072,7 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 200px;
+	margin-top: 208px;
 	left: 840px;
 }
 
@@ -1174,23 +1174,9 @@
 	left: 354px;
 }
 
-#u9580
-{
-	z-index: 150;
-	width: 219px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 33px;
-	left: 840px;
-}
-
 #u9556-5
 {
-	z-index: 151;
+	z-index: 150;
 	width: 219px;
 	background-color: transparent;
 	line-height: 29px;
@@ -1199,72 +1185,46 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 840px;
+}
+
+#u9569-16
+{
+	z-index: 155;
+	width: 219px;
+	min-height: 127px;
+	background-color: transparent;
+	line-height: 15px;
+	font-size: 13px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 840px;
 }
 
 #u9576
 {
-	z-index: 176;
+	z-index: 171;
 	width: 219px;
 	height: 1px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #000000;
-	margin-top: 2px;
-	position: relative;
-}
-
-#pu9563-3
-{
-	width: 0.01px;
-	margin-top: 2px;
-}
-
-#u9563-3
-{
-	z-index: 156;
-	width: 219px;
-	min-height: 22px;
-	background-color: transparent;
-	font-size: 14px;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
-}
-
-#u9564-3
-{
-	z-index: 159;
-	width: 219px;
-	min-height: 17px;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u9569-14
-{
-	z-index: 162;
-	width: 219px;
-	min-height: 123px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 3px;
+	margin-top: 64px;
+	left: 840px;
 }
 
 #pamphletu9601
 {
-	z-index: 177;
+	z-index: 172;
 	width: 0.01px;
 	height: 16px;
 	padding-bottom: 465px;
-	margin-bottom: -122px;
+	margin-bottom: -76px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
@@ -1275,19 +1235,19 @@
 {
 	position: absolute;
 	width: 451px;
-	top: 35px;
+	top: 31px;
 }
 
 #u9608popup
 {
-	z-index: 178;
+	z-index: 173;
 }
 
 #u9609
 {
-	z-index: 179;
+	z-index: 174;
 	width: 451px;
-	height: 305px;
+	height: 373px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1296,9 +1256,9 @@
 	margin-right: -10000px;
 }
 
-#u11170
+#u11298
 {
-	z-index: 184;
+	z-index: 179;
 	width: 120px;
 	height: 120px;
 	border-style: none;
@@ -1306,30 +1266,31 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	background: #CBC8C8 url("../images/bible-reading-christian-stock-image-ieu11170-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/bible-reading-christian-stock-image.jpg") no-repeat center center;
+	margin-top: 4px;
+	left: 4px;
+	background: #CBC8C8 url("../images/bible%20copy-ieu11298-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bible%20copy.jpg") no-repeat center center;
 	background-color: #CBC8C8;
 	background-size: cover;
 }
 
-.hidpi #u11170
+.hidpi #u11298
 {
-	background-image: url("../images/bible-reading-christian-stock-image_2x.jpg");
+	background-image: url("../images/bible%20copy_2x.jpg");
 }
 
-#pu11169-4
+#pu11297-4
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 9px;
-	margin-left: 142px;
+	margin-top: 4px;
+	margin-left: 146px;
 }
 
-#u11169-4
+#u11297-4
 {
-	z-index: 180;
+	z-index: 175;
 	width: 302px;
 	min-height: 26px;
 	background-color: transparent;
@@ -1339,33 +1300,19 @@
 	position: relative;
 }
 
-#u11171-23
+#u11299-12
 {
-	z-index: 185;
+	z-index: 180;
 	width: 301px;
-	min-height: 204px;
+	min-height: 254px;
 	background-color: transparent;
 	margin-top: 4px;
 	position: relative;
 }
 
-#u11171-2,#u11171-3,#u11171-5,#u11171-7,#u11171-9,#u11171-11,#u11171-13
-{
-	line-height: 19px;
-}
-
-#u11171-14,#u11171-21
-{
-	font-size: 14px;
-	line-height: 20px;
-	color: #999999;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-}
-
 #u9614
 {
-	z-index: 208;
+	z-index: 192;
 	width: 449px;
 	height: 296px;
 	border-style: none;
@@ -1373,14 +1320,58 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 }
 
-.ie #u9614
+#u11283
 {
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	z-index: 199;
+	width: 120px;
+	height: 120px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	left: 2px;
+	background: #CBC8C8 url("../images/o-je-suis-charlie-facebook-u11283-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u11283
+{
+	background-image: url("../images/o-je-suis-charlie-facebook-u11283-fr_2x.jpg");
+}
+
+#u11282-6
+{
+	z-index: 193;
+	width: 302px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+}
+
+#u11284-9
+{
+	z-index: 200;
+	width: 301px;
+	min-height: 265px;
+	background-color: transparent;
+	font-size: 14px;
+	line-height: 20px;
+	color: #999999;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u9570-2,#u9571-2,#u9556-2,#u9569-2,#u9569-6,#u9569-12,#u11284
+{
+	font-weight: 700;
 }
 
 #u9619
@@ -1392,14 +1383,15 @@
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 15px 15px 15px ;
-	margin-bottom: -141px;
+	margin-bottom: -77px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 }
 
-#u11167
+#u11286
 {
-	z-index: 216;
+	z-index: 214;
 	width: 120px;
 	height: 120px;
 	border-style: none;
@@ -1407,25 +1399,27 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	left: 1px;
-	background: #CBC8C8 url("../images/o-je-suis-charlie-facebook-u11167-fr.jpg") no-repeat center center;
+	left: 3px;
+	background: #CBC8C8 url("../images/bible-reading-christian-stock-image-ieu11286-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bible-reading-christian-stock-image.jpg") no-repeat center center;
+	background-color: #CBC8C8;
 	background-size: cover;
 }
 
-.hidpi #u11167
+.hidpi #u11286
 {
-	background-image: url("../images/o-je-suis-charlie-facebook-u11167-fr_2x.jpg");
+	background-image: url("../images/bible-reading-christian-stock-image_2x.jpg");
 }
 
-#pu11166-6
+#pu11282-6,#pu11285-4
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-left: 143px;
+	margin-left: 145px;
 }
 
-#u11166-6
+#u11285-4
 {
 	z-index: 210;
 	width: 302px;
@@ -1433,32 +1427,37 @@
 	background-color: transparent;
 	line-height: 22px;
 	font-size: 18px;
+	color: #0071BC;
 	position: relative;
 }
 
-#u11168-9
+#u11287-23
 {
-	z-index: 217;
+	z-index: 215;
 	width: 301px;
-	min-height: 265px;
+	min-height: 204px;
 	background-color: transparent;
-	line-height: 20px;
-	font-size: 14px;
-	color: #999999;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
 	margin-top: 4px;
 	position: relative;
 }
 
-#u9570-2,#u9571-2,#u9556-2,#u11168
+#u11287-2,#u11287-3,#u11287-5,#u11287-7,#u11287-9,#u11287-11,#u11287-13
 {
-	font-weight: 700;
+	line-height: 19px;
+}
+
+#u11299-3,#u11299-10,#u11287-14,#u11287-21
+{
+	font-size: 14px;
+	line-height: 20px;
+	color: #999999;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
 }
 
 #u9604
 {
-	z-index: 226;
+	z-index: 238;
 	width: 74px;
 	position: relative;
 	margin-right: -10000px;
@@ -1559,7 +1558,7 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 25px;
+	margin-top: -21px;
 }
 
 #u8971

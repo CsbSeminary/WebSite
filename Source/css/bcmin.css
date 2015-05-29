@@ -1,7 +1,7 @@
 .version.bcmin /* version checker */
 {
-	color: #0000E7;
-	background-color: #7E45CC;
+	color: #000012;
+	background-color: #B534FF;
 }
 
 .html
@@ -845,8 +845,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -874,8 +874,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -911,8 +911,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.csbs.ca/assets/academic_catalogue_2014-15_small_size.pdf</loc>
-    <lastmod>2014-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.csbs.ca/assets/college-personal-ref-2014-15.pdf</loc>
     <lastmod>2014-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,12 +67,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.csbs.ca/assets/employment-opportunity-announcement-receptionist---administrative-assistant.pdf</loc>
-    <lastmod>2014-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.csbs.ca/assets/7_scholarship-application-2013-oct_distributed.pdf</loc>
     <lastmod>2014-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,26 +127,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.csbs.ca/assets/student-housing-policy-manual-2011.pdf</loc>
-    <lastmod>2014-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/assets/student-housing-application-20141003.pdf</loc>
-    <lastmod>2014-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.csbs.ca/assets/privacy-policy-october-2013.pdf</loc>
     <lastmod>2014-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/assets/online-registration-form-spring-2015.pdf</loc>
-    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -169,914 +139,956 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.csbs.ca/assets/employment-opportunity-announcement-receptionist---administrative-assistant-2.pdf</loc>
-    <lastmod>2015-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/assets/student-residence-housing-application.pdf</loc>
-    <lastmod>2015-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/assets/student-housing-application.pdf</loc>
-    <lastmod>2015-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.csbs.ca/assets/student-housing-policy-manual.pdf</loc>
     <lastmod>2015-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.csbs.ca/assets/academic_catalogue_2015-16_web.pdf</loc>
-    <lastmod>2015-03-20</lastmod>
+    <loc>http://www.csbs.ca/assets/academic_catalogue_2015-16_web2.pdf</loc>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.csbs.ca/assets/academic_catalogue_2015-16_web2.pdf</loc>
-    <lastmod>2015-03-20</lastmod>
+    <loc>http://www.csbs.ca/assets/student-housing-application-2015.pdf</loc>
+    <lastmod>2015-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/assets/student-residence-housing-application-2015.pdf</loc>
+    <lastmod>2015-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/assets/employment-opportunity-announcement-administrative-assistant-to-the-president.pdf</loc>
+    <lastmod>2015-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/logocsbs_ver5a(colour).png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/logocsbs_ver5a(colour)_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/facebook.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/facebook_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/twitter.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/twitter_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/linkedin.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/linkedin_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/line-diag_blue_backg2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/line-diag_blue_backg2_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dark_tire.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dark_tire_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/blank.gif</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/loading.gif</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/texturetastic_gray_@2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/texturetastic_gray_@2x_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/seminarylink-logo.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/seminarylink-logo_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/keithcwillslibrary.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/keithcwillslibrary_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/abhe_single.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/abhe_single_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/alberta-logo.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/alberta-logo_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/ats_logo2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/ats_logo2_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0097.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0605.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/writing.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/writing_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/3102869_print.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/3102869_print_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/texturetastic_gray.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/texturetastic_gray_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0064.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0064_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/3102869_print2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/hand-globe-blurring.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0627.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0627_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/promomovie%20-%2006.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/promomovie%20-%2006-u6753-fr.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/promomovie%20-%2006-u6753-fr_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/17493-up-black-arrow-design.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/17493-up-black-arrow-design_2x.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0082.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0082_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/road.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/road_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/trees.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/trees_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/cactus.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/cactus_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/blurred_light.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/road-blur.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/logocsbs_ver7a(colour).jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/logocsbs_ver7a(colour)_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_facade.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_facade_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_graduates.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_graduates_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_journeygroup.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_journeygroup_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_volley.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frontslide_volley_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/photography.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0162.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0162_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dscn1182%20(1).jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dscn1182%20(1)_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_anita-john.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_anita-john_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_06272.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/online-class-tips.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/online-class-tips_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/charliehedbo_toutestpardonne.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/charlie.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/charlie_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image-ieu11170-fr.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image-ieu11170-fr2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook-u11167-fr.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook-u11167-fr_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/rob_blackaby.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/rob_blackaby_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/steve_booth.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/steve_booth_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/susan_booth.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/susan_booth_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/don_mcnaughton.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/don_mcnaughton_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dan_morgan.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dan_morgan_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/steve_parsons.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/steve_parsons_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/kevin_peacock.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/kevin_peacock_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frank_rainey.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/frank_rainey_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/glenn_watson.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/glenn_watson_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/richard_blackaby.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/richard_blackaby_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/jimmy_cobb.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/jimmy_cobb_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/zachary_hillman.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/zachary_hillman_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/elaine_phillips.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/elaine_phillips_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_history_01.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_history_01_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_history_02.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/csbs_history_02_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg-ieu8635-fr.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg-ieu8635-fr2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah-ieu9001-fr.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah-ieu9001-fr2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah-ieu9533-fr.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah-ieu9533-fr2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg-ieu9536-fr.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/dsc_0048jpg-ieu9536-fr2.png</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/noah_2x2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image22.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/susan_booth2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/susan_booth_2x2.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/alexamenos1.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/alexamenos1_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/505960741-suis-charlie-2sef.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/images/505960741-suis-charlie-2sef_2x.jpg</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible%20copy-ieu11298-fr.png</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible%20copy.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible%20copy-ieu11298-fr2.png</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible%20copy_2x.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook-u11283-fr.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/o-je-suis-charlie-facebook-u11283-fr_2x.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image-ieu11286-fr.png</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bible-reading-christian-stock-image-ieu11286-fr2.png</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/canada-flag.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/canada-flag_2x.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bostevens%20copy.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/images/bostevens%20copy_2x.jpg</loc>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/index.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/college.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/seminary.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/about.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/contact.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/give.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/donate.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/students.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1094,139 +1106,139 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/mdiv.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/seminary-roadmap.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/faculty.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin1.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin2.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin3.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mbs.html</loc>
-    <lastmod>2015-03-27</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcs2.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/bcs.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/bcmin.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/dcs.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/dcmin.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/ccs.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/samuel-program.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/history.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/location.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/vision.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/staff.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/educational-effectiveness.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/job-postings.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/privacy-policy.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/accreditation.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/mcmin1-copy.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1238,31 +1250,31 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/international-students.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/student-housing.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/tuition---fees.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/financial-aid.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.csbs.ca/college-roadmap.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1292,7 +1304,13 @@
   </url>
   <url>
     <loc>http://www.csbs.ca/intensive-courses.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.csbs.ca/seminary-day.html</loc>
+    <lastmod>2015-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

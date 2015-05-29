@@ -209,6 +209,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+a,.Orange-Link-on-Black a,.Black-on-White a,.Orange-on-White a,.Blue-on-White a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Blue-on-White a:link
 {
 	color: #0071BC;

@@ -1,7 +1,7 @@
 .version.mcs2 /* version checker */
 {
-	color: #0000F1;
-	background-color: #85450F;
+	color: #000011;
+	background-color: #A1F10F;
 }
 
 .html
@@ -889,8 +889,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -918,8 +918,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -955,8 +955,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

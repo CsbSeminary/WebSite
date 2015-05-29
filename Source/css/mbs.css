@@ -1,7 +1,7 @@
 .version.mbs /* version checker */
 {
-	color: #0000F7;
-	background-color: #10A3A4;
+	color: #000014;
+	background-color: #9CA9DD;
 }
 
 .html
@@ -847,8 +847,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -876,8 +876,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -913,8 +913,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

@@ -1,7 +1,7 @@
 .version.ccs /* version checker */
 {
-	color: #0000FB;
-	background-color: #4E61AC;
+	color: #0000EC;
+	background-color: #2B5358;
 }
 
 .html
@@ -845,8 +845,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -874,8 +874,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -911,8 +911,8 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

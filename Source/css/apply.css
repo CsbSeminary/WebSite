@@ -1,7 +1,7 @@
 .version.apply /* version checker */
 {
-	color: #000005;
-	background-color: #10B6A0;
+	color: #000018;
+	background-color: #E0AD0E;
 }
 
 .html
@@ -68,8 +68,8 @@
 	width: 195px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 18px;
 	position: relative;
@@ -120,8 +120,8 @@
 	width: 190px;
 	min-height: 53px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 18px;
 	position: relative;
